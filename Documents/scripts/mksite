@@ -1,0 +1,27 @@
+#!/bin/bash
+# hopefully automate converting my simple site from markdown to pandoc
+
+MAINDIR=~/Documents/website
+INDEXDIR=$MAINDIR/index
+LOGDIR=$MAINDIR/log
+POSTDIR=$LOGDIR/posts
+NAVBARDIR=$MAINDIR/navbar
+
+SortedPosts=`ls $POSTDIR/* --time=creation`
+
+if [ ! $1 ]; then
+	echo "Converting All..."
+	pandoc --toc --toc-depth=1 -c $MAINDIR/style.css $INDEXDIR/index.md -f markdown -B $NAVBARDIR/navbar.xhtml -t html4 -s -o $INDEXDIR/index.xhtml
+	pandoc --toc --toc-depth=1 -c $MAINDIR/style.css $SortedPosts -f markdown  -B $NAVBARDIR/navbar.xhtml -t html4 -s -o $LOGDIR/log.xhtml
+else
+	if [ $1 = "index" ]; then
+		echo "Converting Index..."
+		pandoc --toc --toc-depth=1 -c $MAINDIR/style.css $INDEXDIR/index.md -f markdown -B $NAVBARDIR/navbar.xhtml -t html4 -s -o $INDEXDIR/index.xhtml
+	elif [ $1 = "log" ]; then
+		echo "COnverting Log..."
+		pandoc --toc --toc-depth=1 -c $MAINDIR/style.css $POSTDIR/* -f markdown  -B $NAVBARDIR/navbar.xhtml -t html4 -s -o $LOGDIR/log.xhtml
+	else
+		echo "Invalid argument (no arguments to convert all)."
+	fi
+fi
+
