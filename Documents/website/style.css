@@ -1,0 +1,120 @@
+:root {
+    --black:   #0c0d0e;
+    --red:     #e31a1c;
+    --green:   #31a354;
+    --yellow:  #dca060;
+    --blue:    #3182bd;
+    --magenta: #756bb1;
+    --cyan:    #80b1d3;
+    --white:   #b7b8b9;
+
+    --fg: var(--white);
+    --bg: var(--black);
+    --accent: var(--yellow);
+    --link: var(--cyan);
+}
+
+
+/*
+html {
+	background-image: url(images/stars.png);
+}
+*/
+
+body {
+	margin: auto;
+	padding: 1em;
+	max-width: 44em;
+	color: var(--fg);
+	font-family: sans-serif;
+	font-size: 100%;
+	line-height: 140%;
+	background-color: var(--bg);
+}
+
+.title {
+	color: var(--bg);
+	background-color: var(--accent);
+	padding: .5em;
+	font-size: 250%;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: bold;
+	color: var(--accent);
+}
+
+h1 {
+	font-size: 150%;
+}
+
+h2, h3, h4, h5 {
+	font-size: 100%;
+}
+
+#nav > ul, #TOC > ul{
+	list-style-type: none;
+	margin:	auto;
+	padding: 0;
+	text-align: center;
+}
+
+#nav > ul > li, #TOC > ul > li {
+	display: inline;
+	margin: auto;
+	text-align: center;
+}
+
+#nav > ul > li > a::before, #TOC > ul > li> a::before {
+	content: "<"
+}
+
+#nav > ul > li > a::after, #TOC > ul > li > a::after {
+	content: ">"
+}
+
+a{
+	font-style: italic;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: var(--link);
+}
+
+a:hover, a:active {
+	color: var(--bg);
+	background-color: var(--link);
+}
+
+pre {
+	font-size: 120%;
+	padding: 10px;
+}
+
+blockquote {
+	padding-left: 10px;
+	border-left: 2px solid var(--fg);
+}
+
+img {
+	padding: 0px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%
+}
+
+.caption {
+	font-size: 90%;
+	font-style: italic;
+	margin: 0px;
+	text-align: center
+}
+
+::selection {
+	font-style: italic;
+	color: var(--bg);
+	background-color: var(--fg);
+}
