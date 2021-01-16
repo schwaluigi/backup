@@ -1,0 +1,1565 @@
+2020-12-04 18:34:55,766 - [INFO] Linux-5.9.11-arch2-1-x86_64-with-glibc2.32 - Python 3.9.0, deemix 2.0.4
+2020-12-04 18:34:57,677 - [INFO] Generating queue item for: https://www.deezer.com/en/playlist/8443425602
+2020-12-04 18:34:58,937 - [INFO] [playlist_8443425602_3] Added to queue.
+2020-12-04 18:34:58,937 - [INFO] [playlist_8443425602_3] Started downloading.
+2020-12-04 18:34:58,938 - [INFO] [AC/DC - You Shook Me All Night Long] Getting the tags
+2020-12-04 18:34:58,941 - [INFO] [Ace Frehley - New York Groove] Getting the tags
+2020-12-04 18:34:58,944 - [INFO] [a-ha - Take on Me] Getting the tags
+2020-12-04 18:34:59,156 - [INFO] [AC/DC - You Shook Me All Night Long] Getting lyrics
+2020-12-04 18:34:59,191 - [INFO] [Ace Frehley - New York Groove] Getting lyrics
+2020-12-04 18:34:59,225 - [INFO] [a-ha - Take on Me] Getting lyrics
+2020-12-04 18:34:59,447 - [INFO] [AC/DC - You Shook Me All Night Long] Getting album infos
+2020-12-04 18:34:59,587 - [INFO] [AC/DC - You Shook Me All Night Long] Getting extra track infos
+2020-12-04 18:34:59,709 - [INFO] [a-ha - Take on Me] Getting album infos
+2020-12-04 18:34:59,719 - [INFO] [AC/DC - You Shook Me All Night Long] Getting more album infos
+2020-12-04 18:34:59,942 - [INFO] [a-ha - Take on Me] Getting extra track infos
+2020-12-04 18:35:00,072 - [INFO] [a-ha - Take on Me] Getting more album infos
+2020-12-04 18:35:00,162 - [INFO] [AC/DC - You Shook Me All Night Long] Getting the album cover
+2020-12-04 18:35:00,278 - [INFO] [AC/DC - You Shook Me All Night Long] Downloading the track
+2020-12-04 18:35:00,358 - [INFO] [AC/DC - You Shook Me All Night Long] downloading 8409337 bytes
+2020-12-04 18:35:00,409 - [INFO] [Ace Frehley - New York Groove] Getting album infos
+2020-12-04 18:35:00,608 - [INFO] [Ace Frehley - New York Groove] Getting extra track infos
+2020-12-04 18:35:00,616 - [INFO] [a-ha - Take on Me] Getting the album cover
+2020-12-04 18:35:00,714 - [INFO] [a-ha - Take on Me] Downloading the track
+2020-12-04 18:35:00,747 - [INFO] [Ace Frehley - New York Groove] Getting more album infos
+2020-12-04 18:35:00,895 - [INFO] [a-ha - Take on Me] downloading 9105240 bytes
+2020-12-04 18:35:01,368 - [INFO] [Ace Frehley - New York Groove] Getting the album cover
+2020-12-04 18:35:01,487 - [INFO] [Ace Frehley - New York Groove] Downloading the track
+2020-12-04 18:35:01,669 - [INFO] [Ace Frehley - New York Groove] downloading 7350856 bytes
+2020-12-04 18:35:02,245 - [INFO] [a-ha - Take on Me] Applying tags to the track
+2020-12-04 18:35:02,261 - [INFO] [a-ha - Take on Me] Track download completed
+/home/evan/Music/a-ha - Take on Me.mp3
+2020-12-04 18:35:02,262 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting the tags
+2020-12-04 18:35:02,502 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting lyrics
+2020-12-04 18:35:02,820 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting album infos
+2020-12-04 18:35:02,956 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting extra track infos
+2020-12-04 18:35:03,080 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting more album infos
+2020-12-04 18:35:03,665 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting the album cover
+2020-12-04 18:35:03,785 - [INFO] [Annie Lennox - Walking on Broken Glass] Downloading the track
+2020-12-04 18:35:03,985 - [INFO] [Annie Lennox - Walking on Broken Glass] downloading 10134464 bytes
+2020-12-04 18:35:05,473 - [INFO] [Annie Lennox - Walking on Broken Glass] Applying tags to the track
+2020-12-04 18:35:05,484 - [INFO] [Annie Lennox - Walking on Broken Glass] Track download completed
+/home/evan/Music/Annie Lennox - Walking on Broken Glass.mp3
+2020-12-04 18:35:05,485 - [INFO] [Bananarama - Venus] Getting the tags
+2020-12-04 18:35:05,706 - [INFO] [Bananarama - Venus] Getting lyrics
+2020-12-04 18:35:06,147 - [INFO] [Bananarama - Venus] Getting album infos
+2020-12-04 18:35:06,300 - [INFO] [Bananarama - Venus] Getting more album infos
+2020-12-04 18:35:06,608 - [INFO] [Bananarama - Venus] Getting artist picture fallback
+2020-12-04 18:35:06,739 - [INFO] [Bananarama - Venus] Getting extra track infos
+2020-12-04 18:35:07,196 - [INFO] [Bananarama - Venus] Getting the album cover
+2020-12-04 18:35:07,291 - [INFO] [Bananarama - Venus] Downloading the track
+2020-12-04 18:35:07,473 - [INFO] [Bananarama - Venus] downloading 9168978 bytes
+2020-12-04 18:35:09,107 - [INFO] [Bananarama - Venus] Applying tags to the track
+2020-12-04 18:35:09,117 - [INFO] [Bananarama - Venus] Track download completed
+/home/evan/Music/Bananarama - Venus.mp3
+2020-12-04 18:35:09,129 - [INFO] [Biffy Clyro - Bubbles] Getting the tags
+2020-12-04 18:35:09,316 - [INFO] [Ace Frehley - New York Groove] Applying tags to the track
+2020-12-04 18:35:09,326 - [INFO] [Ace Frehley - New York Groove] Track download completed
+/home/evan/Music/Ace Frehley - New York Groove.mp3
+2020-12-04 18:35:09,327 - [INFO] [Bloc Party - Banquet] Getting the tags
+2020-12-04 18:35:09,362 - [INFO] [Biffy Clyro - Bubbles] Getting lyrics
+2020-12-04 18:35:09,514 - [INFO] [Bloc Party - Banquet] Getting lyrics
+2020-12-04 18:35:09,777 - [INFO] [Biffy Clyro - Bubbles] Getting album infos
+2020-12-04 18:35:09,890 - [INFO] [Bloc Party - Banquet] Getting album infos
+2020-12-04 18:35:09,949 - [INFO] [Biffy Clyro - Bubbles] Getting extra track infos
+2020-12-04 18:35:10,055 - [INFO] [Bloc Party - Banquet] Getting extra track infos
+2020-12-04 18:35:10,085 - [INFO] [Biffy Clyro - Bubbles] Getting more album infos
+2020-12-04 18:35:10,182 - [INFO] [Bloc Party - Banquet] Getting more album infos
+2020-12-04 18:35:10,565 - [INFO] [Biffy Clyro - Bubbles] Getting the album cover
+2020-12-04 18:35:10,655 - [INFO] [Biffy Clyro - Bubbles] Downloading the track
+2020-12-04 18:35:10,773 - [INFO] [Biffy Clyro - Bubbles] downloading 12045582 bytes
+2020-12-04 18:35:11,146 - [INFO] [Bloc Party - Banquet] Getting the album cover
+2020-12-04 18:35:11,241 - [INFO] [Bloc Party - Banquet] Downloading the track
+2020-12-04 18:35:11,494 - [INFO] [Bloc Party - Banquet] downloading 8018546 bytes
+2020-12-04 18:35:12,317 - [INFO] [Biffy Clyro - Bubbles] Applying tags to the track
+2020-12-04 18:35:12,326 - [INFO] [Biffy Clyro - Bubbles] Track download completed
+/home/evan/Music/Biffy Clyro - Bubbles.mp3
+2020-12-04 18:35:12,329 - [INFO] [Blondie - Call Me] Getting the tags
+2020-12-04 18:35:12,552 - [INFO] [Blondie - Call Me] Getting lyrics
+2020-12-04 18:35:12,738 - [INFO] [Bloc Party - Banquet] Applying tags to the track
+2020-12-04 18:35:12,747 - [INFO] [Bloc Party - Banquet] Track download completed
+/home/evan/Music/Bloc Party - Banquet.mp3
+2020-12-04 18:35:12,749 - [INFO] [Blondie - Heart Of Glass] Getting the tags
+2020-12-04 18:35:12,881 - [INFO] [Blondie - Call Me] Getting album infos
+2020-12-04 18:35:12,934 - [INFO] [Blondie - Heart Of Glass] Getting lyrics
+2020-12-04 18:35:13,067 - [INFO] [Blondie - Call Me] Getting extra track infos
+2020-12-04 18:35:13,190 - [INFO] [Blondie - Call Me] Getting more album infos
+2020-12-04 18:35:13,240 - [INFO] [Blondie - Heart Of Glass] Getting album infos
+2020-12-04 18:35:13,376 - [INFO] [Blondie - Heart Of Glass] Getting extra track infos
+2020-12-04 18:35:13,509 - [INFO] [Blondie - Heart Of Glass] Getting more album infos
+2020-12-04 18:35:13,770 - [INFO] [Blondie - Call Me] Getting the album cover
+2020-12-04 18:35:13,906 - [INFO] [Blondie - Call Me] Downloading the track
+2020-12-04 18:35:14,102 - [INFO] [Blondie - Call Me] downloading 8506513 bytes
+2020-12-04 18:35:14,328 - [INFO] [Blondie - Heart Of Glass] Getting the album cover
+2020-12-04 18:35:14,439 - [INFO] [Blondie - Heart Of Glass] Downloading the track
+2020-12-04 18:35:14,553 - [INFO] [Blondie - Heart Of Glass] downloading 11032031 bytes
+2020-12-04 18:35:15,551 - [INFO] [Blondie - Call Me] Applying tags to the track
+2020-12-04 18:35:15,562 - [INFO] [Blondie - Call Me] Track download completed
+/home/evan/Music/Blondie - Call Me.mp3
+2020-12-04 18:35:15,563 - [INFO] [Blondie - I'm On E] Getting the tags
+2020-12-04 18:35:15,836 - [INFO] [Blondie - I'm On E] Getting lyrics
+2020-12-04 18:35:16,156 - [INFO] [Blondie - I'm On E] Getting album infos
+2020-12-04 18:35:16,299 - [INFO] [Blondie - I'm On E] Getting extra track infos
+2020-12-04 18:35:16,438 - [INFO] [Blondie - I'm On E] Getting more album infos
+2020-12-04 18:35:17,066 - [INFO] [Blondie - I'm On E] Getting the album cover
+2020-12-04 18:35:17,201 - [INFO] [Blondie - I'm On E] Downloading the track
+2020-12-04 18:35:17,409 - [INFO] [Blondie - I'm On E] downloading 5523329 bytes
+2020-12-04 18:35:17,806 - [INFO] [Blondie - I'm On E] Applying tags to the track
+2020-12-04 18:35:17,811 - [INFO] [Blondie - I'm On E] Track download completed
+/home/evan/Music/Blondie - I'm On E.mp3
+2020-12-04 18:35:17,811 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting the tags
+2020-12-04 18:35:18,042 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting lyrics
+2020-12-04 18:35:18,389 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting album infos
+2020-12-04 18:35:18,528 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting more album infos
+2020-12-04 18:35:18,908 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting artist picture fallback
+2020-12-04 18:35:19,031 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting extra track infos
+2020-12-04 18:35:19,428 - [INFO] [Bon Jovi - You Give Love A Bad Name] Fallback to lower bitrate
+2020-12-04 18:35:19,429 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting the album cover
+2020-12-04 18:35:19,579 - [INFO] [Bon Jovi - You Give Love A Bad Name] Downloading the track
+2020-12-04 18:35:19,816 - [WARNING] [Bon Jovi - You Give Love A Bad Name] Track not available, using fallback id
+2020-12-04 18:35:20,704 - [INFO] [Bon Jovi - You Give Love A Bad Name] Getting the album cover
+2020-12-04 18:35:20,705 - [INFO] [Bon Jovi - You Give Love A Bad Name] Downloading the track
+2020-12-04 18:35:20,832 - [INFO] [Bon Jovi - You Give Love A Bad Name] downloading 8928652 bytes
+2020-12-04 18:35:22,043 - [INFO] [Bon Jovi - You Give Love A Bad Name] Applying tags to the track
+2020-12-04 18:35:22,052 - [INFO] [Bon Jovi - You Give Love A Bad Name] Track download completed
+/home/evan/Music/Bon Jovi - You Give Love A Bad Name.mp3
+2020-12-04 18:35:22,054 - [INFO] [Chris Cornell - You Know My Name] Getting the tags
+2020-12-04 18:35:22,262 - [INFO] [Chris Cornell - You Know My Name] Getting lyrics
+2020-12-04 18:35:22,561 - [INFO] [Chris Cornell - You Know My Name] Getting album infos
+2020-12-04 18:35:22,710 - [INFO] [Chris Cornell - You Know My Name] Getting extra track infos
+2020-12-04 18:35:22,840 - [INFO] [Chris Cornell - You Know My Name] Getting more album infos
+2020-12-04 18:35:23,353 - [INFO] [Chris Cornell - You Know My Name] Getting the album cover
+2020-12-04 18:35:23,484 - [INFO] [Chris Cornell - You Know My Name] Downloading the track
+2020-12-04 18:35:23,606 - [INFO] [Chris Cornell - You Know My Name] downloading 9607835 bytes
+2020-12-04 18:35:24,219 - [INFO] [Blondie - Heart Of Glass] Applying tags to the track
+2020-12-04 18:35:24,228 - [INFO] [Blondie - Heart Of Glass] Track download completed
+/home/evan/Music/Blondie - Heart Of Glass.mp3
+2020-12-04 18:35:24,234 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Getting the tags
+2020-12-04 18:35:24,468 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Getting lyrics
+2020-12-04 18:35:24,775 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Getting album infos
+2020-12-04 18:35:24,940 - [INFO] [Chris Cornell - You Know My Name] Applying tags to the track
+2020-12-04 18:35:24,945 - [INFO] [Chris Cornell - You Know My Name] Track download completed
+/home/evan/Music/Chris Cornell - You Know My Name.mp3
+2020-12-04 18:35:24,946 - [INFO] [Daryl Hall & John Oates - Maneater] Getting the tags
+2020-12-04 18:35:24,956 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Getting extra track infos
+2020-12-04 18:35:25,079 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Getting more album infos
+2020-12-04 18:35:25,117 - [INFO] [Daryl Hall & John Oates - Maneater] Getting lyrics
+2020-12-04 18:35:25,429 - [INFO] [Daryl Hall & John Oates - Maneater] Getting album infos
+2020-12-04 18:35:25,573 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Getting the album cover
+2020-12-04 18:35:25,608 - [INFO] [Daryl Hall & John Oates - Maneater] Getting extra track infos
+2020-12-04 18:35:25,674 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Downloading the track
+2020-12-04 18:35:25,734 - [INFO] [Daryl Hall & John Oates - Maneater] Getting more album infos
+2020-12-04 18:35:25,749 - [INFO] [AC/DC - You Shook Me All Night Long] retrying from byte 6881280
+2020-12-04 18:35:25,793 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] downloading 12295313 bytes
+2020-12-04 18:35:26,223 - [INFO] [AC/DC - You Shook Me All Night Long] downloading range bytes 6881280-8409336/8409337
+2020-12-04 18:35:26,345 - [INFO] [Daryl Hall & John Oates - Maneater] Getting the album cover
+2020-12-04 18:35:26,346 - [INFO] [Daryl Hall & John Oates - Maneater] Downloading the track
+2020-12-04 18:35:26,483 - [INFO] [Daryl Hall & John Oates - Maneater] downloading 10882611 bytes
+2020-12-04 18:35:27,048 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Applying tags to the track
+2020-12-04 18:35:27,055 - [INFO] [Daryl Hall & John Oates - I Can't Go for That (No Can Do)] Track download completed
+/home/evan/Music/Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3
+2020-12-04 18:35:27,062 - [INFO] [Daryl Hall & John Oates - Out of Touch] Getting the tags
+2020-12-04 18:35:27,077 - [INFO] [AC/DC - You Shook Me All Night Long] Applying tags to the track
+2020-12-04 18:35:27,082 - [INFO] [AC/DC - You Shook Me All Night Long] Track download completed
+/home/evan/Music/AC_DC - You Shook Me All Night Long.mp3
+2020-12-04 18:35:27,084 - [INFO] [Daryl Hall & John Oates - Private Eyes] Getting the tags
+2020-12-04 18:35:27,278 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Getting lyrics
+2020-12-04 18:35:27,299 - [INFO] [Daryl Hall & John Oates - Private Eyes] Getting lyrics
+2020-12-04 18:35:27,629 - [INFO] [Daryl Hall & John Oates - Private Eyes] Getting album infos
+2020-12-04 18:35:27,769 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Getting album infos
+2020-12-04 18:35:27,791 - [INFO] [Daryl Hall & John Oates - Private Eyes] Getting extra track infos
+2020-12-04 18:35:27,905 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Getting more album infos
+2020-12-04 18:35:27,938 - [INFO] [Daryl Hall & John Oates - Private Eyes] Getting more album infos
+2020-12-04 18:35:28,229 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Getting artist picture fallback
+2020-12-04 18:35:28,251 - [INFO] [Daryl Hall & John Oates - Maneater] Applying tags to the track
+2020-12-04 18:35:28,257 - [INFO] [Daryl Hall & John Oates - Maneater] Track download completed
+/home/evan/Music/Daryl Hall & John Oates - Maneater.mp3
+2020-12-04 18:35:28,257 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Getting the tags
+2020-12-04 18:35:28,347 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Getting extra track infos
+2020-12-04 18:35:28,422 - [INFO] [Daryl Hall & John Oates - Private Eyes] Getting the album cover
+2020-12-04 18:35:28,460 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Getting lyrics
+2020-12-04 18:35:28,518 - [INFO] [Daryl Hall & John Oates - Private Eyes] Downloading the track
+2020-12-04 18:35:28,640 - [INFO] [Daryl Hall & John Oates - Private Eyes] downloading 8690415 bytes
+2020-12-04 18:35:28,750 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Getting the album cover
+2020-12-04 18:35:28,766 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Getting album infos
+2020-12-04 18:35:28,876 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Downloading the track
+2020-12-04 18:35:28,905 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Getting extra track infos
+2020-12-04 18:35:29,035 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Getting more album infos
+2020-12-04 18:35:29,076 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] downloading 9911901 bytes
+2020-12-04 18:35:29,605 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Getting the album cover
+2020-12-04 18:35:29,740 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Downloading the track
+2020-12-04 18:35:29,893 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] downloading 7627754 bytes
+2020-12-04 18:35:30,082 - [INFO] [Daryl Hall & John Oates - Private Eyes] Applying tags to the track
+2020-12-04 18:35:30,088 - [INFO] [Daryl Hall & John Oates - Private Eyes] Track download completed
+/home/evan/Music/Daryl Hall & John Oates - Private Eyes.mp3
+2020-12-04 18:35:30,097 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record)] Getting the tags
+2020-12-04 18:35:30,363 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Getting album infos
+2020-12-04 18:35:30,495 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Getting extra track infos
+2020-12-04 18:35:30,645 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Getting more album infos
+2020-12-04 18:35:30,710 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Applying tags to the track
+2020-12-04 18:35:30,716 - [INFO] [Daryl Hall & John Oates - Out of Touch (Single Version)] Track download completed
+/home/evan/Music/Daryl Hall & John Oates - Out of Touch (Single Version).mp3
+2020-12-04 18:35:30,717 - [INFO] [Depeche Mode - Enjoy the Silence] Getting the tags
+2020-12-04 18:35:30,900 - [INFO] [Depeche Mode - Enjoy the Silence] Getting lyrics
+2020-12-04 18:35:30,910 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Applying tags to the track
+2020-12-04 18:35:30,917 - [INFO] [Daryl Hall & John Oates - You Make My Dreams (Come True)] Track download completed
+/home/evan/Music/Daryl Hall & John Oates - You Make My Dreams (Come True).mp3
+2020-12-04 18:35:30,918 - [INFO] [Depeche Mode - Just Can't Get Enough] Getting the tags
+2020-12-04 18:35:31,085 - [INFO] [Depeche Mode - Just Can't Get Enough] Getting lyrics
+2020-12-04 18:35:31,162 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Getting the album cover
+2020-12-04 18:35:31,196 - [INFO] [Depeche Mode - Enjoy the Silence] Getting album infos
+2020-12-04 18:35:31,252 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Downloading the track
+2020-12-04 18:35:31,369 - [INFO] [Depeche Mode - Enjoy the Silence] Getting extra track infos
+2020-12-04 18:35:31,374 - [INFO] [Depeche Mode - Just Can't Get Enough] Getting album infos
+2020-12-04 18:35:31,377 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] downloading 7846532 bytes
+2020-12-04 18:35:31,521 - [INFO] [Depeche Mode - Enjoy the Silence] Getting more album infos
+2020-12-04 18:35:31,602 - [INFO] [Depeche Mode - Just Can't Get Enough] Getting extra track infos
+2020-12-04 18:35:31,735 - [INFO] [Depeche Mode - Just Can't Get Enough] Getting more album infos
+2020-12-04 18:35:32,209 - [INFO] [Depeche Mode - Just Can't Get Enough] Getting the album cover
+2020-12-04 18:35:32,323 - [INFO] [Depeche Mode - Just Can't Get Enough] Downloading the track
+2020-12-04 18:35:32,440 - [INFO] [Depeche Mode - Just Can't Get Enough] downloading 8838791 bytes
+2020-12-04 18:35:32,613 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Applying tags to the track
+2020-12-04 18:35:32,624 - [INFO] [Dead or Alive - You Spin Me Round (Like A Record) (Original 7" Mix)] Track download completed
+/home/evan/Music/Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3
+2020-12-04 18:35:32,625 - [INFO] [Depeche Mode - Strangelove] Getting the tags
+2020-12-04 18:35:32,850 - [INFO] [Depeche Mode - Strangelove] Getting lyrics
+2020-12-04 18:35:32,871 - [INFO] [Depeche Mode - Enjoy the Silence] Getting the album cover
+2020-12-04 18:35:32,964 - [INFO] [Depeche Mode - Enjoy the Silence] Downloading the track
+2020-12-04 18:35:33,155 - [INFO] [Depeche Mode - Enjoy the Silence] downloading 10207607 bytes
+2020-12-04 18:35:33,173 - [INFO] [Depeche Mode - Strangelove] Getting album infos
+2020-12-04 18:35:33,339 - [INFO] [Depeche Mode - Strangelove] Getting extra track infos
+2020-12-04 18:35:33,544 - [INFO] [Depeche Mode - Strangelove] Getting more album infos
+2020-12-04 18:35:33,963 - [INFO] [Depeche Mode - Enjoy the Silence] Applying tags to the track
+2020-12-04 18:35:33,970 - [INFO] [Depeche Mode - Enjoy the Silence] Track download completed
+/home/evan/Music/Depeche Mode - Enjoy the Silence.mp3
+2020-12-04 18:35:33,973 - [INFO] [Devo - Gates of Steel] Getting the tags
+2020-12-04 18:35:34,417 - [INFO] [Depeche Mode - Strangelove] Getting the album cover
+2020-12-04 18:35:34,536 - [INFO] [Depeche Mode - Strangelove] Downloading the track
+2020-12-04 18:35:34,741 - [INFO] [Depeche Mode - Strangelove] downloading 11787493 bytes
+2020-12-04 18:35:35,022 - [INFO] [Devo - Gates of Steel] Getting lyrics
+2020-12-04 18:35:35,364 - [INFO] [Devo - Gates of Steel] Getting album infos
+2020-12-04 18:35:35,540 - [INFO] [Devo - Gates of Steel] Getting extra track infos
+2020-12-04 18:35:35,677 - [INFO] [Devo - Gates of Steel] Getting more album infos
+2020-12-04 18:35:39,378 - [INFO] [Devo - Gates of Steel] Getting the album cover
+2020-12-04 18:35:39,476 - [INFO] [Devo - Gates of Steel] Downloading the track
+2020-12-04 18:35:39,672 - [INFO] [Devo - Gates of Steel] downloading 8321566 bytes
+2020-12-04 18:35:40,032 - [INFO] [Depeche Mode - Strangelove] Applying tags to the track
+2020-12-04 18:35:40,041 - [INFO] [Depeche Mode - Strangelove] Track download completed
+/home/evan/Music/Depeche Mode - Strangelove.mp3
+2020-12-04 18:35:40,042 - [INFO] [Devo - Girl U Want] Getting the tags
+2020-12-04 18:35:40,305 - [INFO] [Devo - Girl U Want (2009 Remaster)] Getting lyrics
+2020-12-04 18:35:40,628 - [INFO] [Devo - Girl U Want (2009 Remaster)] Getting album infos
+2020-12-04 18:35:40,776 - [INFO] [Devo - Girl U Want (2009 Remaster)] Getting extra track infos
+2020-12-04 18:35:40,905 - [INFO] [Devo - Girl U Want (2009 Remaster)] Getting more album infos
+2020-12-04 18:35:41,545 - [INFO] [Devo - Girl U Want (2009 Remaster)] Getting the album cover
+2020-12-04 18:35:41,638 - [INFO] [Devo - Girl U Want (2009 Remaster)] Downloading the track
+2020-12-04 18:35:41,762 - [INFO] [Devo - Girl U Want (2009 Remaster)] downloading 7114709 bytes
+2020-12-04 18:35:42,687 - [INFO] [Devo - Girl U Want (2009 Remaster)] Applying tags to the track
+2020-12-04 18:35:42,692 - [INFO] [Devo - Girl U Want (2009 Remaster)] Track download completed
+/home/evan/Music/Devo - Girl U Want (2009 Remaster).mp3
+2020-12-04 18:35:42,697 - [INFO] [Devo - Jerkin' Back 'N' Forth] Getting the tags
+2020-12-04 18:35:42,948 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Getting lyrics
+2020-12-04 18:35:43,253 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Getting album infos
+2020-12-04 18:35:43,360 - [INFO] [Depeche Mode - Just Can't Get Enough] Applying tags to the track
+2020-12-04 18:35:43,368 - [INFO] [Depeche Mode - Just Can't Get Enough] Track download completed
+/home/evan/Music/Depeche Mode - Just Can't Get Enough.mp3
+2020-12-04 18:35:43,370 - [INFO] [Devo - Time out for Fun] Getting the tags
+2020-12-04 18:35:43,470 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Getting extra track infos
+2020-12-04 18:35:43,539 - [INFO] [Devo - Time out for Fun] Getting lyrics
+2020-12-04 18:35:43,594 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Getting more album infos
+2020-12-04 18:35:43,829 - [INFO] [Devo - Time out for Fun] Getting album infos
+2020-12-04 18:35:44,012 - [INFO] [Devo - Time out for Fun] Getting extra track infos
+2020-12-04 18:35:44,137 - [INFO] [Devo - Time out for Fun] Getting more album infos
+2020-12-04 18:35:44,434 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Getting the album cover
+2020-12-04 18:35:44,541 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Downloading the track
+2020-12-04 18:35:44,745 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] downloading 7392686 bytes
+2020-12-04 18:35:44,861 - [INFO] [Devo - Time out for Fun] Getting the album cover
+2020-12-04 18:35:44,987 - [INFO] [Devo - Time out for Fun] Downloading the track
+2020-12-04 18:35:45,125 - [INFO] [Devo - Time out for Fun] downloading 6682166 bytes
+2020-12-04 18:35:45,693 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Applying tags to the track
+2020-12-04 18:35:45,704 - [INFO] [Devo - Jerkin' Back 'N' Forth (2010 Remaster)] Track download completed
+/home/evan/Music/Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3
+2020-12-04 18:35:45,706 - [INFO] [Devo - Whip It] Getting the tags
+2020-12-04 18:35:45,931 - [INFO] [Devo - Whip It] Getting lyrics
+2020-12-04 18:35:46,337 - [INFO] [Devo - Whip It] Getting album infos
+2020-12-04 18:35:46,494 - [INFO] [Devo - Whip It] Getting extra track infos
+2020-12-04 18:35:46,656 - [INFO] [Devo - Whip It] Getting more album infos
+2020-12-04 18:35:47,149 - [INFO] [Devo - Whip It] Getting the album cover
+2020-12-04 18:35:47,150 - [INFO] [Devo - Whip It] Downloading the track
+2020-12-04 18:35:47,266 - [INFO] [Devo - Whip It] downloading 6448064 bytes
+2020-12-04 18:35:47,977 - [INFO] [Devo - Gates of Steel] Applying tags to the track
+2020-12-04 18:35:47,983 - [INFO] [Devo - Gates of Steel] Track download completed
+/home/evan/Music/Devo - Gates of Steel.mp3
+2020-12-04 18:35:47,984 - [INFO] [Duran Duran - Hungry Like the Wolf] Getting the tags
+2020-12-04 18:35:48,217 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Getting lyrics
+2020-12-04 18:35:48,533 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Getting album infos
+2020-12-04 18:35:48,723 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Getting extra track infos
+2020-12-04 18:35:48,858 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Getting more album infos
+2020-12-04 18:35:49,417 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Getting the album cover
+2020-12-04 18:35:49,513 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Downloading the track
+2020-12-04 18:35:49,762 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] downloading 8827297 bytes
+2020-12-04 18:35:50,868 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Applying tags to the track
+2020-12-04 18:35:50,875 - [INFO] [Duran Duran - Hungry Like the Wolf (2009 Remaster)] Track download completed
+/home/evan/Music/Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3
+2020-12-04 18:35:50,876 - [INFO] [Duran Duran - Rio] Getting the tags
+2020-12-04 18:35:51,084 - [INFO] [Duran Duran - Rio (2009 Remaster)] Getting lyrics
+2020-12-04 18:35:51,393 - [INFO] [Duran Duran - Rio (2009 Remaster)] Getting album infos
+2020-12-04 18:35:51,577 - [INFO] [Duran Duran - Rio (2009 Remaster)] Getting extra track infos
+2020-12-04 18:35:51,705 - [INFO] [Duran Duran - Rio (2009 Remaster)] Getting more album infos
+2020-12-04 18:35:52,070 - [INFO] [Devo - Time out for Fun] Applying tags to the track
+2020-12-04 18:35:52,081 - [INFO] [Devo - Time out for Fun] Track download completed
+/home/evan/Music/Devo - Time out for Fun.mp3
+2020-12-04 18:35:52,084 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Getting the tags
+2020-12-04 18:35:52,198 - [INFO] [Duran Duran - Rio (2009 Remaster)] Getting the album cover
+2020-12-04 18:35:52,199 - [INFO] [Duran Duran - Rio (2009 Remaster)] Downloading the track
+2020-12-04 18:35:52,286 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Getting lyrics
+2020-12-04 18:35:52,377 - [INFO] [Duran Duran - Rio (2009 Remaster)] downloading 13495901 bytes
+2020-12-04 18:35:52,589 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Getting album infos
+2020-12-04 18:35:52,732 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Getting extra track infos
+2020-12-04 18:35:52,855 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Getting more album infos
+2020-12-04 18:35:53,643 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Getting the album cover
+2020-12-04 18:35:53,745 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Downloading the track
+2020-12-04 18:35:53,873 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] downloading 12137533 bytes
+2020-12-04 18:35:53,977 - [INFO] [Duran Duran - Rio (2009 Remaster)] Applying tags to the track
+2020-12-04 18:35:53,989 - [INFO] [Duran Duran - Rio (2009 Remaster)] Track download completed
+/home/evan/Music/Duran Duran - Rio (2009 Remaster).mp3
+2020-12-04 18:35:53,991 - [INFO] [Erasure - A Little Respect] Getting the tags
+2020-12-04 18:35:54,196 - [INFO] [Erasure - A Little Respect] Getting lyrics
+2020-12-04 18:35:54,485 - [INFO] [Erasure - A Little Respect] Getting album infos
+2020-12-04 18:35:54,720 - [INFO] [Erasure - A Little Respect] Getting extra track infos
+2020-12-04 18:35:54,904 - [INFO] [Erasure - A Little Respect] Getting more album infos
+2020-12-04 18:35:55,650 - [INFO] [Erasure - A Little Respect] Getting the album cover
+2020-12-04 18:35:55,742 - [INFO] [Erasure - A Little Respect] Downloading the track
+2020-12-04 18:35:55,913 - [INFO] [Erasure - A Little Respect] downloading 8537860 bytes
+2020-12-04 18:36:05,637 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Applying tags to the track
+2020-12-04 18:36:05,646 - [INFO] [Electric Light Orchestra - Mr. Blue Sky] Track download completed
+/home/evan/Music/Electric Light Orchestra - Mr. Blue Sky.mp3
+2020-12-04 18:36:05,646 - [INFO] [Eurythmics - Here Comes the Rain Again] Getting the tags
+2020-12-04 18:36:05,868 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Getting lyrics
+2020-12-04 18:36:06,161 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Getting album infos
+2020-12-04 18:36:06,397 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Getting extra track infos
+2020-12-04 18:36:06,531 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Getting more album infos
+2020-12-04 18:36:07,004 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Getting the album cover
+2020-12-04 18:36:07,095 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Downloading the track
+2020-12-04 18:36:07,211 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] downloading 11786448 bytes
+2020-12-04 18:36:08,484 - [INFO] [Erasure - A Little Respect] Applying tags to the track
+2020-12-04 18:36:08,499 - [INFO] [Erasure - A Little Respect] Track download completed
+/home/evan/Music/Erasure - A Little Respect.mp3
+2020-12-04 18:36:08,500 - [INFO] [Fine Young Cannibals - Good Thing] Getting the tags
+2020-12-04 18:36:10,736 - [INFO] [Fine Young Cannibals - Good Thing] Getting lyrics
+2020-12-04 18:36:11,036 - [INFO] [Fine Young Cannibals - Good Thing] Getting album infos
+2020-12-04 18:36:11,162 - [INFO] [Fine Young Cannibals - Good Thing] Getting more album infos
+2020-12-04 18:36:11,492 - [INFO] [Fine Young Cannibals - Good Thing] Getting artist picture fallback
+2020-12-04 18:36:11,640 - [INFO] [Fine Young Cannibals - Good Thing] Getting extra track infos
+2020-12-04 18:36:11,953 - [INFO] [Fine Young Cannibals - Good Thing] Getting the album cover
+2020-12-04 18:36:12,066 - [INFO] [Fine Young Cannibals - Good Thing] Downloading the track
+2020-12-04 18:36:12,240 - [INFO] [Fine Young Cannibals - Good Thing] downloading 8077060 bytes
+2020-12-04 18:36:14,414 - [INFO] [Fine Young Cannibals - Good Thing] Applying tags to the track
+2020-12-04 18:36:14,422 - [INFO] [Fine Young Cannibals - Good Thing] Track download completed
+/home/evan/Music/Fine Young Cannibals - Good Thing.mp3
+2020-12-04 18:36:14,424 - [INFO] [Foo Fighters - Big Me] Getting the tags
+2020-12-04 18:36:15,432 - [INFO] [Foo Fighters - Big Me] Getting lyrics
+2020-12-04 18:36:15,732 - [INFO] [Foo Fighters - Big Me] Getting album infos
+2020-12-04 18:36:15,872 - [INFO] [Foo Fighters - Big Me] Getting extra track infos
+2020-12-04 18:36:16,064 - [INFO] [Foo Fighters - Big Me] Getting more album infos
+2020-12-04 18:36:16,624 - [INFO] [Foo Fighters - Big Me] Getting the album cover
+2020-12-04 18:36:16,730 - [INFO] [Foo Fighters - Big Me] Downloading the track
+2020-12-04 18:36:16,930 - [INFO] [Foo Fighters - Big Me] downloading 5295542 bytes
+2020-12-04 18:36:22,210 - [INFO] [Foo Fighters - Big Me] Applying tags to the track
+2020-12-04 18:36:22,214 - [INFO] [Foo Fighters - Big Me] Track download completed
+/home/evan/Music/Foo Fighters - Big Me.mp3
+2020-12-04 18:36:22,214 - [INFO] [Foo Fighters - Breakout] Getting the tags
+2020-12-04 18:36:22,432 - [INFO] [Foo Fighters - Breakout] Getting lyrics
+2020-12-04 18:36:22,727 - [INFO] [Foo Fighters - Breakout] Getting album infos
+2020-12-04 18:36:22,907 - [INFO] [Foo Fighters - Breakout] Getting extra track infos
+2020-12-04 18:36:23,031 - [INFO] [Foo Fighters - Breakout] Getting more album infos
+2020-12-04 18:36:23,508 - [INFO] [Foo Fighters - Breakout] Getting the album cover
+2020-12-04 18:36:23,509 - [INFO] [Foo Fighters - Breakout] Downloading the track
+2020-12-04 18:36:23,625 - [INFO] [Foo Fighters - Breakout] downloading 8035264 bytes
+2020-12-04 18:36:24,730 - [INFO] [Foo Fighters - Breakout] Applying tags to the track
+2020-12-04 18:36:24,735 - [INFO] [Foo Fighters - Breakout] Track download completed
+/home/evan/Music/Foo Fighters - Breakout.mp3
+2020-12-04 18:36:24,736 - [INFO] [Foo Fighters - Congregation] Getting the tags
+2020-12-04 18:36:24,959 - [INFO] [Foo Fighters - Congregation] Getting lyrics
+2020-12-04 18:36:25,002 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Applying tags to the track
+2020-12-04 18:36:25,012 - [INFO] [Eurythmics - Here Comes the Rain Again (Remastered Version)] Track download completed
+/home/evan/Music/Eurythmics - Here Comes the Rain Again (Remastered Version).mp3
+2020-12-04 18:36:25,014 - [INFO] [Foo Fighters - DOA] Getting the tags
+2020-12-04 18:36:25,188 - [INFO] [Foo Fighters - DOA] Getting lyrics
+2020-12-04 18:36:25,245 - [INFO] [Devo - Whip It] Applying tags to the track
+2020-12-04 18:36:25,250 - [INFO] [Devo - Whip It] Track download completed
+/home/evan/Music/Devo - Whip It.mp3
+2020-12-04 18:36:25,253 - [INFO] [Foo Fighters - Congregation] Getting album infos
+2020-12-04 18:36:25,254 - [INFO] [Foo Fighters - Generator] Getting the tags
+2020-12-04 18:36:25,383 - [INFO] [Foo Fighters - Congregation] Getting extra track infos
+2020-12-04 18:36:25,426 - [INFO] [Foo Fighters - Generator] Getting lyrics
+2020-12-04 18:36:25,487 - [INFO] [Foo Fighters - DOA] Getting album infos
+2020-12-04 18:36:25,500 - [INFO] [Foo Fighters - Congregation] Getting more album infos
+2020-12-04 18:36:25,622 - [INFO] [Foo Fighters - DOA] Getting extra track infos
+2020-12-04 18:36:25,734 - [INFO] [Foo Fighters - Generator] Getting album infos
+2020-12-04 18:36:25,746 - [INFO] [Foo Fighters - DOA] Getting more album infos
+2020-12-04 18:36:25,951 - [INFO] [Foo Fighters - Generator] Getting extra track infos
+2020-12-04 18:36:25,992 - [INFO] [Foo Fighters - Congregation] Getting the album cover
+2020-12-04 18:36:26,078 - [INFO] [Foo Fighters - Generator] Getting more album infos
+2020-12-04 18:36:26,099 - [INFO] [Foo Fighters - Congregation] Downloading the track
+2020-12-04 18:36:26,215 - [INFO] [Foo Fighters - Congregation] downloading 12479215 bytes
+2020-12-04 18:36:26,533 - [INFO] [Foo Fighters - DOA] Getting the album cover
+2020-12-04 18:36:26,647 - [INFO] [Foo Fighters - DOA] Downloading the track
+2020-12-04 18:36:26,928 - [INFO] [Foo Fighters - DOA] downloading 10086399 bytes
+2020-12-04 18:36:27,328 - [INFO] [Foo Fighters - Generator] Getting the album cover
+2020-12-04 18:36:27,492 - [INFO] [Foo Fighters - Generator] Downloading the track
+2020-12-04 18:36:27,757 - [INFO] [Foo Fighters - Generator] downloading 9105240 bytes
+2020-12-04 18:36:28,524 - [INFO] [Foo Fighters - DOA] Applying tags to the track
+2020-12-04 18:36:28,532 - [INFO] [Foo Fighters - DOA] Track download completed
+/home/evan/Music/Foo Fighters - DOA.mp3
+2020-12-04 18:36:28,534 - [INFO] [Foo Fighters - I'll Stick Around] Getting the tags
+2020-12-04 18:36:28,811 - [INFO] [Foo Fighters - I'll Stick Around] Getting album infos
+2020-12-04 18:36:28,943 - [INFO] [Foo Fighters - I'll Stick Around] Getting extra track infos
+2020-12-04 18:36:29,065 - [INFO] [Foo Fighters - I'll Stick Around] Getting more album infos
+2020-12-04 18:36:29,872 - [INFO] [Foo Fighters - I'll Stick Around] Getting the album cover
+2020-12-04 18:36:29,973 - [INFO] [Foo Fighters - I'll Stick Around] Downloading the track
+2020-12-04 18:36:30,149 - [INFO] [Foo Fighters - I'll Stick Around] downloading 9303770 bytes
+2020-12-04 18:36:37,936 - [INFO] [Foo Fighters - Congregation] Applying tags to the track
+2020-12-04 18:36:37,956 - [INFO] [Foo Fighters - Congregation] Track download completed
+/home/evan/Music/Foo Fighters - Congregation.mp3
+2020-12-04 18:36:37,958 - [INFO] [Foo Fighters - Long Road To Ruin] Getting the tags
+2020-12-04 18:36:38,181 - [INFO] [Foo Fighters - Long Road To Ruin] Getting lyrics
+2020-12-04 18:36:38,559 - [INFO] [Foo Fighters - Long Road To Ruin] Getting album infos
+2020-12-04 18:36:38,705 - [INFO] [Foo Fighters - Long Road To Ruin] Getting extra track infos
+2020-12-04 18:36:38,828 - [INFO] [Foo Fighters - Long Road To Ruin] Getting more album infos
+2020-12-04 18:36:39,647 - [INFO] [Foo Fighters - Long Road To Ruin] Getting the album cover
+2020-12-04 18:36:39,648 - [INFO] [Foo Fighters - Long Road To Ruin] Downloading the track
+2020-12-04 18:36:39,829 - [INFO] [Foo Fighters - Long Road To Ruin] downloading 9136586 bytes
+2020-12-04 18:36:40,674 - [INFO] [Foo Fighters - Generator] Applying tags to the track
+2020-12-04 18:36:40,683 - [INFO] [Foo Fighters - Generator] Track download completed
+/home/evan/Music/Foo Fighters - Generator.mp3
+2020-12-04 18:36:40,686 - [INFO] [Foo Fighters - Rope] Getting the tags
+2020-12-04 18:36:41,314 - [INFO] [Foo Fighters - I'll Stick Around] Applying tags to the track
+2020-12-04 18:36:41,323 - [INFO] [Foo Fighters - I'll Stick Around] Track download completed
+/home/evan/Music/Foo Fighters - I'll Stick Around.mp3
+2020-12-04 18:36:41,324 - [INFO] [Foster the People - Pumped Up Kicks] Getting the tags
+2020-12-04 18:36:41,580 - [INFO] [Foster the People - Pumped Up Kicks] Getting lyrics
+2020-12-04 18:36:41,911 - [INFO] [Foster the People - Pumped Up Kicks] Getting album infos
+2020-12-04 18:36:42,125 - [INFO] [Foster the People - Pumped Up Kicks] Getting extra track infos
+2020-12-04 18:36:42,263 - [INFO] [Foster the People - Pumped Up Kicks] Getting more album infos
+2020-12-04 18:36:42,494 - [INFO] [Foo Fighters - Rope] Getting lyrics
+2020-12-04 18:36:42,802 - [INFO] [Foo Fighters - Rope] Getting album infos
+2020-12-04 18:36:42,949 - [INFO] [Foo Fighters - Rope] Getting extra track infos
+2020-12-04 18:36:43,049 - [INFO] [Foster the People - Pumped Up Kicks] Getting the album cover
+2020-12-04 18:36:43,172 - [INFO] [Foo Fighters - Rope] Getting more album infos
+2020-12-04 18:36:43,213 - [INFO] [Foster the People - Pumped Up Kicks] Downloading the track
+2020-12-04 18:36:43,334 - [INFO] [Foster the People - Pumped Up Kicks] downloading 9586937 bytes
+2020-12-04 18:36:43,981 - [INFO] [Foo Fighters - Rope] Getting the album cover
+2020-12-04 18:36:44,078 - [INFO] [Foo Fighters - Rope] Downloading the track
+2020-12-04 18:36:44,257 - [INFO] [Foo Fighters - Rope] downloading 10363297 bytes
+2020-12-04 18:36:49,729 - [INFO] [Foo Fighters - Long Road To Ruin] Applying tags to the track
+2020-12-04 18:36:49,741 - [INFO] [Foo Fighters - Long Road To Ruin] Track download completed
+/home/evan/Music/Foo Fighters - Long Road To Ruin.mp3
+2020-12-04 18:36:49,742 - [INFO] [Frankie Goes to Hollywood - Relax] Getting the tags
+2020-12-04 18:36:49,961 - [INFO] [Frankie Goes to Hollywood - Relax] Getting lyrics
+2020-12-04 18:36:50,303 - [INFO] [Frankie Goes to Hollywood - Relax] Getting album infos
+2020-12-04 18:36:50,424 - [INFO] [Frankie Goes to Hollywood - Relax] Getting more album infos
+2020-12-04 18:36:50,732 - [INFO] [Frankie Goes to Hollywood - Relax] Getting artist picture fallback
+2020-12-04 18:36:50,852 - [INFO] [Frankie Goes to Hollywood - Relax] Getting extra track infos
+2020-12-04 18:36:53,518 - [INFO] [Frankie Goes to Hollywood - Relax] Fallback to lower bitrate
+2020-12-04 18:36:53,518 - [INFO] [Frankie Goes to Hollywood - Relax] Getting the album cover
+2020-12-04 18:36:53,722 - [INFO] [Frankie Goes to Hollywood - Relax] Downloading the track
+2020-12-04 18:36:54,214 - [WARNING] [Frankie Goes to Hollywood - Relax] Track not available, using fallback id
+2020-12-04 18:36:55,399 - [INFO] [Frankie Goes to Hollywood - Relax] Getting the album cover
+2020-12-04 18:36:55,400 - [INFO] [Frankie Goes to Hollywood - Relax] Downloading the track
+2020-12-04 18:36:55,535 - [INFO] [Frankie Goes to Hollywood - Relax] downloading 9520064 bytes
+2020-12-04 18:36:57,769 - [INFO] [Foster the People - Pumped Up Kicks] Applying tags to the track
+2020-12-04 18:36:57,785 - [INFO] [Foster the People - Pumped Up Kicks] Track download completed
+/home/evan/Music/Foster the People - Pumped Up Kicks.mp3
+2020-12-04 18:36:57,788 - [INFO] [Gary Numan - Cars] Getting the tags
+2020-12-04 18:36:58,012 - [INFO] [Gary Numan - Cars] Getting lyrics
+2020-12-04 18:36:58,325 - [INFO] [Gary Numan - Cars] Getting album infos
+2020-12-04 18:36:58,479 - [INFO] [Gary Numan - Cars] Getting extra track infos
+2020-12-04 18:36:58,627 - [INFO] [Gary Numan - Cars] Getting more album infos
+2020-12-04 18:36:59,411 - [INFO] [Gary Numan - Cars] Getting the album cover
+2020-12-04 18:36:59,538 - [INFO] [Gary Numan - Cars] Downloading the track
+2020-12-04 18:36:59,665 - [INFO] [Gary Numan - Cars] downloading 9558725 bytes
+2020-12-04 18:36:59,858 - [INFO] [Foo Fighters - Rope] Applying tags to the track
+2020-12-04 18:36:59,864 - [INFO] [Foo Fighters - Rope] Track download completed
+/home/evan/Music/Foo Fighters - Rope.mp3
+2020-12-04 18:36:59,864 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting the tags
+2020-12-04 18:37:00,119 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting lyrics
+2020-12-04 18:37:00,428 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting album infos
+2020-12-04 18:37:00,624 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting more album infos
+2020-12-04 18:37:00,923 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting artist picture fallback
+2020-12-04 18:37:01,102 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting extra track infos
+2020-12-04 18:37:01,789 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Fallback to lower bitrate
+2020-12-04 18:37:01,790 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting the album cover
+2020-12-04 18:37:01,898 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Downloading the track
+2020-12-04 18:37:02,028 - [WARNING] [Guns N' Roses - Sweet Child O' Mine] Track not available, using fallback id
+2020-12-04 18:37:02,799 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Getting the album cover
+2020-12-04 18:37:02,800 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Downloading the track
+2020-12-04 18:37:02,988 - [INFO] [Guns N' Roses - Sweet Child O' Mine] downloading 14213746 bytes
+2020-12-04 18:37:03,579 - [INFO] [Frankie Goes to Hollywood - Relax] Applying tags to the track
+2020-12-04 18:37:03,595 - [INFO] [Frankie Goes to Hollywood - Relax] Track download completed
+/home/evan/Music/Frankie Goes to Hollywood - Relax.mp3
+2020-12-04 18:37:03,599 - [INFO] [Heart - Barracuda] Getting the tags
+2020-12-04 18:37:04,675 - [INFO] [Heart - Barracuda] Getting lyrics
+2020-12-04 18:37:04,998 - [INFO] [Heart - Barracuda] Getting album infos
+2020-12-04 18:37:05,163 - [INFO] [Heart - Barracuda] Getting more album infos
+2020-12-04 18:37:05,476 - [INFO] [Heart - Barracuda] Getting artist picture fallback
+2020-12-04 18:37:05,604 - [INFO] [Heart - Barracuda] Getting extra track infos
+2020-12-04 18:37:06,268 - [INFO] [Heart - Barracuda] Fallback to lower bitrate
+2020-12-04 18:37:06,269 - [INFO] [Heart - Barracuda] Getting the album cover
+2020-12-04 18:37:06,377 - [INFO] [Heart - Barracuda] Downloading the track
+2020-12-04 18:37:06,870 - [WARNING] [Heart - Barracuda] Track not available, using fallback id
+2020-12-04 18:37:07,602 - [INFO] [Gary Numan - Cars] Applying tags to the track
+2020-12-04 18:37:07,619 - [INFO] [Gary Numan - Cars] Track download completed
+/home/evan/Music/Gary Numan - Cars.mp3
+2020-12-04 18:37:07,623 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Getting the tags
+2020-12-04 18:37:07,810 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Getting lyrics
+2020-12-04 18:37:07,917 - [INFO] [Heart - Barracuda] Getting the album cover
+2020-12-04 18:37:07,917 - [INFO] [Heart - Barracuda] Downloading the track
+2020-12-04 18:37:08,121 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Getting album infos
+2020-12-04 18:37:08,127 - [INFO] [Heart - Barracuda] downloading 10480325 bytes
+2020-12-04 18:37:08,273 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Getting extra track infos
+2020-12-04 18:37:08,399 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Getting more album infos
+2020-12-04 18:37:09,464 - [INFO] [Heart - Barracuda] Applying tags to the track
+2020-12-04 18:37:09,470 - [INFO] [Heart - Barracuda] Track download completed
+/home/evan/Music/Heart - Barracuda.mp3
+2020-12-04 18:37:09,471 - [INFO] [Incubus - Megalomaniac] Getting the tags
+2020-12-04 18:37:09,699 - [INFO] [Incubus - Megalomaniac] Getting lyrics
+2020-12-04 18:37:09,731 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Getting the album cover
+2020-12-04 18:37:09,865 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Downloading the track
+2020-12-04 18:37:10,029 - [INFO] [Incubus - Megalomaniac] Getting album infos
+2020-12-04 18:37:10,129 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] downloading 8782366 bytes
+2020-12-04 18:37:10,156 - [INFO] [Incubus - Megalomaniac] Getting more album infos
+2020-12-04 18:37:10,466 - [INFO] [Incubus - Megalomaniac] Getting artist picture fallback
+2020-12-04 18:37:10,597 - [INFO] [Incubus - Megalomaniac] Getting extra track infos
+2020-12-04 18:37:11,224 - [INFO] [Incubus - Megalomaniac] Getting the album cover
+2020-12-04 18:37:11,339 - [INFO] [Incubus - Megalomaniac] Downloading the track
+2020-12-04 18:37:11,464 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Applying tags to the track
+2020-12-04 18:37:11,473 - [INFO] [Huey Lewis & The News - Doing It All For My Baby] Track download completed
+/home/evan/Music/Huey Lewis & The News - Doing It All For My Baby.mp3
+2020-12-04 18:37:11,473 - [INFO] [INXS - New Sensation] Getting the tags
+2020-12-04 18:37:11,547 - [INFO] [Incubus - Megalomaniac] downloading 11813615 bytes
+2020-12-04 18:37:11,693 - [INFO] [INXS - New Sensation] Getting lyrics
+2020-12-04 18:37:12,005 - [INFO] [INXS - New Sensation] Getting album infos
+2020-12-04 18:37:12,174 - [INFO] [INXS - New Sensation] Getting extra track infos
+2020-12-04 18:37:12,310 - [INFO] [INXS - New Sensation] Getting more album infos
+2020-12-04 18:37:13,457 - [INFO] [Incubus - Megalomaniac] Applying tags to the track
+2020-12-04 18:37:13,469 - [INFO] [Incubus - Megalomaniac] Track download completed
+/home/evan/Music/Incubus - Megalomaniac.mp3
+2020-12-04 18:37:13,469 - [INFO] [Joe Jackson - Steppin' Out] Getting the tags
+2020-12-04 18:37:13,517 - [INFO] [INXS - New Sensation] Getting the album cover
+2020-12-04 18:37:13,616 - [INFO] [INXS - New Sensation] Downloading the track
+2020-12-04 18:37:13,715 - [INFO] [Joe Jackson - Steppin' Out] Getting lyrics
+2020-12-04 18:37:13,883 - [INFO] [INXS - New Sensation] downloading 8794905 bytes
+2020-12-04 18:37:14,070 - [INFO] [Joe Jackson - Steppin' Out] Getting album infos
+2020-12-04 18:37:14,214 - [INFO] [Joe Jackson - Steppin' Out] Getting more album infos
+2020-12-04 18:37:14,520 - [INFO] [Joe Jackson - Steppin' Out] Getting artist picture fallback
+2020-12-04 18:37:14,740 - [INFO] [Joe Jackson - Steppin' Out] Getting extra track infos
+2020-12-04 18:37:15,462 - [INFO] [Joe Jackson - Steppin' Out] Fallback to lower bitrate
+2020-12-04 18:37:15,464 - [INFO] [Joe Jackson - Steppin' Out] Getting the album cover
+2020-12-04 18:37:15,683 - [INFO] [Joe Jackson - Steppin' Out] Downloading the track
+2020-12-04 18:37:16,192 - [WARNING] [Joe Jackson - Steppin' Out] Track not available, using fallback id
+2020-12-04 18:37:17,446 - [INFO] [Joe Jackson - Steppin' Out] Getting the album cover
+2020-12-04 18:37:17,447 - [INFO] [Joe Jackson - Steppin' Out] Downloading the track
+2020-12-04 18:37:17,712 - [INFO] [Joe Jackson - Steppin' Out] downloading 10298513 bytes
+2020-12-04 18:37:19,162 - [INFO] [Joe Jackson - Steppin' Out] Applying tags to the track
+2020-12-04 18:37:19,172 - [INFO] [Joe Jackson - Steppin' Out] Track download completed
+/home/evan/Music/Joe Jackson - Steppin' Out.mp3
+2020-12-04 18:37:19,174 - [INFO] [John Mellencamp - Hurts So Good] Getting the tags
+2020-12-04 18:37:19,401 - [INFO] [John Mellencamp - Hurts So Good] Getting lyrics
+2020-12-04 18:37:19,699 - [INFO] [John Mellencamp - Hurts So Good] Getting album infos
+2020-12-04 18:37:19,845 - [INFO] [John Mellencamp - Hurts So Good] Getting extra track infos
+2020-12-04 18:37:19,978 - [INFO] [John Mellencamp - Hurts So Good] Getting more album infos
+2020-12-04 18:37:20,740 - [INFO] [John Mellencamp - Hurts So Good] Getting the album cover
+2020-12-04 18:37:20,836 - [INFO] [John Mellencamp - Hurts So Good] Downloading the track
+2020-12-04 18:37:21,019 - [INFO] [John Mellencamp - Hurts So Good] downloading 8778186 bytes
+2020-12-04 18:37:22,432 - [INFO] [John Mellencamp - Hurts So Good] Applying tags to the track
+2020-12-04 18:37:22,440 - [INFO] [John Mellencamp - Hurts So Good] Track download completed
+/home/evan/Music/John Mellencamp - Hurts So Good.mp3
+2020-12-04 18:37:22,442 - [INFO] [Joy Division - Love Will Tear Us Apart] Getting the tags
+2020-12-04 18:37:22,664 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Getting lyrics
+2020-12-04 18:37:22,981 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Getting album infos
+2020-12-04 18:37:23,134 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Getting extra track infos
+2020-12-04 18:37:23,367 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Getting more album infos
+2020-12-04 18:37:24,088 - [INFO] [INXS - New Sensation] Applying tags to the track
+2020-12-04 18:37:24,104 - [INFO] [INXS - New Sensation] Track download completed
+/home/evan/Music/INXS - New Sensation.mp3
+2020-12-04 18:37:24,104 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting the tags
+2020-12-04 18:37:24,359 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting lyrics
+2020-12-04 18:37:24,668 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting album infos
+2020-12-04 18:37:24,856 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting more album infos
+2020-12-04 18:37:24,931 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Getting the album cover
+2020-12-04 18:37:25,042 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Downloading the track
+2020-12-04 18:37:25,198 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting artist picture fallback
+2020-12-04 18:37:25,307 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] downloading 8187819 bytes
+2020-12-04 18:37:25,325 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting extra track infos
+2020-12-04 18:37:26,045 - [INFO] [Kaiser Chiefs - I Predict A Riot] Fallback to lower bitrate
+2020-12-04 18:37:26,046 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting the album cover
+2020-12-04 18:37:26,382 - [INFO] [Kaiser Chiefs - I Predict A Riot] Downloading the track
+2020-12-04 18:37:26,515 - [WARNING] [Kaiser Chiefs - I Predict A Riot] Track not available, using fallback id
+2020-12-04 18:37:26,666 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Applying tags to the track
+2020-12-04 18:37:26,673 - [INFO] [Joy Division - Love Will Tear Us Apart (2010 Remaster)] Track download completed
+/home/evan/Music/Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3
+2020-12-04 18:37:26,678 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Getting the tags
+2020-12-04 18:37:27,695 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Getting lyrics
+2020-12-04 18:37:28,008 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Getting album infos
+2020-12-04 18:37:28,185 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Getting extra track infos
+2020-12-04 18:37:28,366 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Getting more album infos
+2020-12-04 18:37:28,851 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Getting the album cover
+2020-12-04 18:37:28,958 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Downloading the track
+2020-12-04 18:37:29,161 - [INFO] [Kaiser Chiefs - Never Miss A Beat] downloading 7524309 bytes
+2020-12-04 18:37:31,633 - [INFO] [Kaiser Chiefs - I Predict A Riot] Getting the album cover
+2020-12-04 18:37:31,635 - [INFO] [Kaiser Chiefs - I Predict A Riot] Downloading the track
+2020-12-04 18:37:31,852 - [INFO] [Kaiser Chiefs - I Predict A Riot] downloading 9273468 bytes
+2020-12-04 18:37:32,211 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Applying tags to the track
+2020-12-04 18:37:32,216 - [INFO] [Kaiser Chiefs - Never Miss A Beat] Track download completed
+/home/evan/Music/Kaiser Chiefs - Never Miss A Beat.mp3
+2020-12-04 18:37:32,218 - [INFO] [Kings of Leon - Molly's Chambers] Getting the tags
+2020-12-04 18:37:32,440 - [INFO] [Kings of Leon - Molly's Chambers] Getting album infos
+2020-12-04 18:37:32,589 - [INFO] [Kings of Leon - Molly's Chambers] Getting extra track infos
+2020-12-04 18:37:32,724 - [INFO] [Kings of Leon - Molly's Chambers] Getting more album infos
+2020-12-04 18:37:33,583 - [INFO] [Kaiser Chiefs - I Predict A Riot] Applying tags to the track
+2020-12-04 18:37:33,591 - [INFO] [Kaiser Chiefs - I Predict A Riot] Track download completed
+/home/evan/Music/Kaiser Chiefs - I Predict A Riot.mp3
+2020-12-04 18:37:33,597 - [INFO] [Kings of Leon - The Bucket] Getting the tags
+2020-12-04 18:37:33,632 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Applying tags to the track
+2020-12-04 18:37:33,642 - [INFO] [Guns N' Roses - Sweet Child O' Mine] Track download completed
+/home/evan/Music/Guns N' Roses - Sweet Child O' Mine.mp3
+2020-12-04 18:37:33,645 - [INFO] [KISS - I Was Made For Lovin' You] Getting the tags
+2020-12-04 18:37:33,748 - [INFO] [Kings of Leon - Molly's Chambers] Getting the album cover
+2020-12-04 18:37:33,824 - [INFO] [Kings of Leon - Molly's Chambers] Downloading the track
+2020-12-04 18:37:33,834 - [INFO] [KISS - I Was Made For Lovin' You] Getting lyrics
+2020-12-04 18:37:33,839 - [INFO] [Kings of Leon - The Bucket] Getting lyrics
+2020-12-04 18:37:34,009 - [INFO] [Kings of Leon - Molly's Chambers] downloading 5398986 bytes
+2020-12-04 18:37:34,144 - [INFO] [Kings of Leon - The Bucket] Getting album infos
+2020-12-04 18:37:34,148 - [INFO] [KISS - I Was Made For Lovin' You] Getting album infos
+2020-12-04 18:37:34,275 - [INFO] [Kings of Leon - The Bucket] Getting more album infos
+2020-12-04 18:37:34,287 - [INFO] [KISS - I Was Made For Lovin' You] Getting extra track infos
+2020-12-04 18:37:34,436 - [INFO] [KISS - I Was Made For Lovin' You] Getting more album infos
+2020-12-04 18:37:34,580 - [INFO] [Kings of Leon - The Bucket] Getting artist picture fallback
+2020-12-04 18:37:34,708 - [INFO] [Kings of Leon - The Bucket] Getting extra track infos
+2020-12-04 18:37:34,964 - [INFO] [Kings of Leon - Molly's Chambers] Applying tags to the track
+2020-12-04 18:37:34,971 - [INFO] [Kings of Leon - Molly's Chambers] Track download completed
+/home/evan/Music/Kings of Leon - Molly's Chambers.mp3
+2020-12-04 18:37:34,971 - [INFO] [Lindsey Buckingham - Go Insane] Getting the tags
+2020-12-04 18:37:35,224 - [INFO] [Lindsey Buckingham - Go Insane] Getting lyrics
+2020-12-04 18:37:35,281 - [INFO] [KISS - I Was Made For Lovin' You] Getting the album cover
+2020-12-04 18:37:35,402 - [INFO] [KISS - I Was Made For Lovin' You] Downloading the track
+2020-12-04 18:37:35,459 - [INFO] [Kings of Leon - The Bucket] Getting the album cover
+2020-12-04 18:37:35,516 - [INFO] [Lindsey Buckingham - Go Insane] Getting album infos
+2020-12-04 18:37:35,618 - [INFO] [KISS - I Was Made For Lovin' You] downloading 10852309 bytes
+2020-12-04 18:37:35,656 - [INFO] [Lindsey Buckingham - Go Insane] Getting extra track infos
+2020-12-04 18:37:35,743 - [INFO] [Kings of Leon - The Bucket] Downloading the track
+2020-12-04 18:37:35,799 - [INFO] [Lindsey Buckingham - Go Insane] Getting more album infos
+2020-12-04 18:37:35,969 - [INFO] [Kings of Leon - The Bucket] downloading 7024848 bytes
+2020-12-04 18:37:36,767 - [INFO] [Lindsey Buckingham - Go Insane] Getting the album cover
+2020-12-04 18:37:36,923 - [INFO] [Lindsey Buckingham - Go Insane] Downloading the track
+2020-12-04 18:37:37,097 - [INFO] [Lindsey Buckingham - Go Insane] downloading 7403146 bytes
+2020-12-04 18:37:37,477 - [INFO] [Kings of Leon - The Bucket] Applying tags to the track
+2020-12-04 18:37:37,483 - [INFO] [Kings of Leon - The Bucket] Track download completed
+/home/evan/Music/Kings of Leon - The Bucket.mp3
+2020-12-04 18:37:37,483 - [INFO] [Loverboy - Turn Me Loose] Getting the tags
+2020-12-04 18:37:37,765 - [INFO] [Loverboy - Turn Me Loose] Getting lyrics
+2020-12-04 18:37:37,931 - [INFO] [KISS - I Was Made For Lovin' You] Applying tags to the track
+2020-12-04 18:37:37,939 - [INFO] [KISS - I Was Made For Lovin' You] Track download completed
+/home/evan/Music/KISS - I Was Made For Lovin' You.mp3
+2020-12-04 18:37:37,944 - [INFO] [Madness - Our House] Getting the tags
+2020-12-04 18:37:38,087 - [INFO] [Loverboy - Turn Me Loose] Getting album infos
+2020-12-04 18:37:38,138 - [INFO] [Madness - Our House] Getting lyrics
+2020-12-04 18:37:38,261 - [INFO] [Loverboy - Turn Me Loose] Getting extra track infos
+2020-12-04 18:37:38,396 - [INFO] [Loverboy - Turn Me Loose] Getting more album infos
+2020-12-04 18:37:38,446 - [INFO] [Madness - Our House] Getting album infos
+2020-12-04 18:37:38,459 - [INFO] [Lindsey Buckingham - Go Insane] Applying tags to the track
+2020-12-04 18:37:38,474 - [INFO] [Lindsey Buckingham - Go Insane] Track download completed
+/home/evan/Music/Lindsey Buckingham - Go Insane.mp3
+2020-12-04 18:37:38,474 - [INFO] [Martha and the Muffins - Echo Beach] Getting the tags
+2020-12-04 18:37:38,595 - [INFO] [Madness - Our House] Getting extra track infos
+2020-12-04 18:37:38,678 - [INFO] [Martha and the Muffins - Echo Beach] Getting lyrics
+2020-12-04 18:37:38,734 - [INFO] [Madness - Our House] Getting more album infos
+2020-12-04 18:37:38,975 - [INFO] [Martha and the Muffins - Echo Beach] Getting album infos
+2020-12-04 18:37:39,133 - [INFO] [Martha and the Muffins - Echo Beach] Getting extra track infos
+2020-12-04 18:37:39,269 - [INFO] [Martha and the Muffins - Echo Beach] Getting more album infos
+2020-12-04 18:37:39,522 - [INFO] [Loverboy - Turn Me Loose] Getting the album cover
+2020-12-04 18:37:39,532 - [INFO] [Madness - Our House] Getting the album cover
+2020-12-04 18:37:39,652 - [INFO] [Loverboy - Turn Me Loose] Downloading the track
+2020-12-04 18:37:39,767 - [INFO] [Madness - Our House] Downloading the track
+2020-12-04 18:37:39,802 - [INFO] [Loverboy - Turn Me Loose] downloading 13485452 bytes
+2020-12-04 18:37:39,942 - [INFO] [Madness - Our House] downloading 8063476 bytes
+2020-12-04 18:37:40,048 - [INFO] [Martha and the Muffins - Echo Beach] Getting the album cover
+2020-12-04 18:37:40,373 - [INFO] [Martha and the Muffins - Echo Beach] Downloading the track
+2020-12-04 18:37:40,501 - [INFO] [Martha and the Muffins - Echo Beach] downloading 8796995 bytes
+2020-12-04 18:37:42,064 - [INFO] [Loverboy - Turn Me Loose] Applying tags to the track
+2020-12-04 18:37:42,073 - [INFO] [Loverboy - Turn Me Loose] Track download completed
+/home/evan/Music/Loverboy - Turn Me Loose.mp3
+2020-12-04 18:37:42,076 - [INFO] [Missing Persons - Mental Hopscotch] Getting the tags
+2020-12-04 18:37:42,132 - [INFO] [Martha and the Muffins - Echo Beach] Applying tags to the track
+2020-12-04 18:37:42,139 - [INFO] [Martha and the Muffins - Echo Beach] Track download completed
+/home/evan/Music/Martha and the Muffins - Echo Beach.mp3
+2020-12-04 18:37:42,140 - [INFO] [Naked Eyes - Promises, Promises] Getting the tags
+2020-12-04 18:37:42,307 - [INFO] [Missing Persons - Mental Hopscotch] Getting lyrics
+2020-12-04 18:37:42,315 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Getting lyrics
+2020-12-04 18:37:42,608 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Getting album infos
+2020-12-04 18:37:42,615 - [INFO] [Missing Persons - Mental Hopscotch] Getting album infos
+2020-12-04 18:37:42,754 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Getting extra track infos
+2020-12-04 18:37:42,884 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Getting more album infos
+2020-12-04 18:37:42,980 - [INFO] [Missing Persons - Mental Hopscotch] Getting extra track infos
+2020-12-04 18:37:43,111 - [INFO] [Missing Persons - Mental Hopscotch] Getting more album infos
+2020-12-04 18:37:43,881 - [INFO] [Missing Persons - Mental Hopscotch] Getting the album cover
+2020-12-04 18:37:44,158 - [INFO] [Missing Persons - Mental Hopscotch] Downloading the track
+2020-12-04 18:37:44,291 - [INFO] [Missing Persons - Mental Hopscotch] downloading 7851396 bytes
+2020-12-04 18:37:44,312 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Getting the album cover
+2020-12-04 18:37:44,532 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Downloading the track
+2020-12-04 18:37:44,741 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] downloading 9041501 bytes
+2020-12-04 18:37:46,328 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Applying tags to the track
+2020-12-04 18:37:46,337 - [INFO] [Naked Eyes - Promises, Promises (Single Edit)] Track download completed
+/home/evan/Music/Naked Eyes - Promises, Promises (Single Edit).mp3
+2020-12-04 18:37:46,338 - [INFO] [New Order - Blue Monday] Getting the tags
+2020-12-04 18:37:46,585 - [INFO] [New Order - Blue Monday (2016 Remaster)] Getting lyrics
+2020-12-04 18:37:46,883 - [INFO] [New Order - Blue Monday (2016 Remaster)] Getting album infos
+2020-12-04 18:37:47,044 - [INFO] [New Order - Blue Monday (2016 Remaster)] Getting extra track infos
+2020-12-04 18:37:47,184 - [INFO] [New Order - Blue Monday (2016 Remaster)] Getting more album infos
+2020-12-04 18:37:48,509 - [INFO] [New Order - Blue Monday (2016 Remaster)] Getting the album cover
+2020-12-04 18:37:48,614 - [INFO] [New Order - Blue Monday (2016 Remaster)] Downloading the track
+2020-12-04 18:37:48,823 - [INFO] [New Order - Blue Monday (2016 Remaster)] downloading 18034937 bytes
+2020-12-04 18:37:51,409 - [INFO] [Madness - Our House] Applying tags to the track
+2020-12-04 18:37:51,422 - [INFO] [Madness - Our House] Track download completed
+/home/evan/Music/Madness - Our House.mp3
+2020-12-04 18:37:51,425 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Getting the tags
+2020-12-04 18:37:51,645 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Getting lyrics
+2020-12-04 18:37:51,936 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Getting album infos
+2020-12-04 18:37:52,048 - [INFO] [Missing Persons - Mental Hopscotch] Applying tags to the track
+2020-12-04 18:37:52,058 - [INFO] [Missing Persons - Mental Hopscotch] Track download completed
+/home/evan/Music/Missing Persons - Mental Hopscotch.mp3
+2020-12-04 18:37:52,059 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Getting the tags
+2020-12-04 18:37:52,117 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Getting extra track infos
+2020-12-04 18:37:52,227 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Getting lyrics
+2020-12-04 18:37:52,242 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Getting more album infos
+2020-12-04 18:37:52,527 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Getting album infos
+2020-12-04 18:37:52,690 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Getting extra track infos
+2020-12-04 18:37:52,820 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Getting more album infos
+2020-12-04 18:37:53,023 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Getting the album cover
+2020-12-04 18:37:53,113 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Downloading the track
+2020-12-04 18:37:53,230 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] downloading 8646529 bytes
+2020-12-04 18:37:53,596 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Getting the album cover
+2020-12-04 18:37:53,732 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Downloading the track
+2020-12-04 18:37:53,860 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] downloading 6853484 bytes
+2020-12-04 18:37:54,740 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Applying tags to the track
+2020-12-04 18:37:54,749 - [INFO] [Orchestral Manoeuvres in the Dark - (Forever) Live And Die] Track download completed
+/home/evan/Music/Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3
+2020-12-04 18:37:54,751 - [INFO] [Pet Shop Boys - Always on My Mind] Getting the tags
+2020-12-04 18:37:54,963 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Getting album infos
+2020-12-04 18:37:55,204 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Getting extra track infos
+2020-12-04 18:37:55,344 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Getting more album infos
+2020-12-04 18:37:56,119 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Getting the album cover
+2020-12-04 18:37:56,205 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Downloading the track
+2020-12-04 18:37:56,393 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] downloading 9508570 bytes
+2020-12-04 18:37:58,037 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Applying tags to the track
+2020-12-04 18:37:58,045 - [INFO] [Pet Shop Boys - Always on My Mind (2003 Remaster)] Track download completed
+/home/evan/Music/Pet Shop Boys - Always on My Mind (2003 Remaster).mp3
+2020-12-04 18:37:58,046 - [INFO] [Pet Shop Boys - West End Girls] Getting the tags
+2020-12-04 18:37:58,301 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Getting lyrics
+2020-12-04 18:37:58,626 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Getting album infos
+2020-12-04 18:37:58,816 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Getting extra track infos
+2020-12-04 18:37:59,042 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Getting more album infos
+2020-12-04 18:37:59,825 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Getting the album cover
+2020-12-04 18:37:59,906 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Downloading the track
+2020-12-04 18:38:00,033 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] downloading 9816815 bytes
+2020-12-04 18:38:00,524 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Applying tags to the track
+2020-12-04 18:38:00,532 - [INFO] [Pat Benatar - Hit Me With Your Best Shot] Track download completed
+/home/evan/Music/Pat Benatar - Hit Me With Your Best Shot.mp3
+2020-12-04 18:38:00,533 - [INFO] [Philip Oakey - Together In Electric Dreams] Getting the tags
+2020-12-04 18:38:02,391 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Getting lyrics
+2020-12-04 18:38:02,696 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Getting album infos
+2020-12-04 18:38:02,815 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Getting more album infos
+2020-12-04 18:38:03,106 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Getting artist picture fallback
+2020-12-04 18:38:03,233 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Getting extra track infos
+2020-12-04 18:38:03,779 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Getting the album cover
+2020-12-04 18:38:03,992 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Downloading the track
+2020-12-04 18:38:04,126 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] downloading 9250480 bytes
+2020-12-04 18:38:08,836 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Applying tags to the track
+2020-12-04 18:38:08,845 - [INFO] [Pet Shop Boys - West End Girls (2001 Remaster)] Track download completed
+/home/evan/Music/Pet Shop Boys - West End Girls (2001 Remaster).mp3
+2020-12-04 18:38:08,846 - [INFO] [Pink Floyd - Have a Cigar] Getting the tags
+2020-12-04 18:38:09,059 - [INFO] [Pink Floyd - Have a Cigar] Getting lyrics
+2020-12-04 18:38:09,347 - [INFO] [Pink Floyd - Have a Cigar] Getting album infos
+2020-12-04 18:38:09,466 - [INFO] [Pink Floyd - Have a Cigar] Getting extra track infos
+2020-12-04 18:38:09,590 - [INFO] [Pink Floyd - Have a Cigar] Getting more album infos
+2020-12-04 18:38:10,635 - [INFO] [Pink Floyd - Have a Cigar] Getting the album cover
+2020-12-04 18:38:10,733 - [INFO] [Pink Floyd - Have a Cigar] Downloading the track
+2020-12-04 18:38:10,985 - [INFO] [Pink Floyd - Have a Cigar] downloading 12312031 bytes
+2020-12-04 18:38:12,548 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Applying tags to the track
+2020-12-04 18:38:12,558 - [INFO] [Philip Oakey - Together In Electric Dreams (2003 Remastered Version)] Track download completed
+/home/evan/Music/Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3
+2020-12-04 18:38:12,564 - [INFO] [Queen - Another One Bites The Dust] Getting the tags
+2020-12-04 18:38:12,805 - [INFO] [Queen - Another One Bites The Dust] Getting lyrics
+2020-12-04 18:38:12,880 - [INFO] [Pink Floyd - Have a Cigar] Applying tags to the track
+2020-12-04 18:38:12,889 - [INFO] [Pink Floyd - Have a Cigar] Track download completed
+/home/evan/Music/Pink Floyd - Have a Cigar.mp3
+2020-12-04 18:38:12,889 - [INFO] [Queen - Don't Stop Me Now] Getting the tags
+2020-12-04 18:38:13,064 - [INFO] [Queen - Don't Stop Me Now] Getting album infos
+2020-12-04 18:38:13,111 - [INFO] [Queen - Another One Bites The Dust] Getting album infos
+2020-12-04 18:38:13,223 - [INFO] [Queen - Don't Stop Me Now] Getting extra track infos
+2020-12-04 18:38:13,280 - [INFO] [Queen - Another One Bites The Dust] Getting extra track infos
+2020-12-04 18:38:13,348 - [INFO] [Queen - Don't Stop Me Now] Getting more album infos
+2020-12-04 18:38:13,404 - [INFO] [Queen - Another One Bites The Dust] Getting more album infos
+2020-12-04 18:38:14,443 - [INFO] [Queen - Don't Stop Me Now] Getting the album cover
+2020-12-04 18:38:14,559 - [INFO] [Queen - Don't Stop Me Now] Downloading the track
+2020-12-04 18:38:14,616 - [INFO] [Queen - Another One Bites The Dust] Getting the album cover
+2020-12-04 18:38:14,728 - [INFO] [Queen - Another One Bites The Dust] Downloading the track
+2020-12-04 18:38:14,746 - [INFO] [Queen - Don't Stop Me Now] downloading 8379035 bytes
+2020-12-04 18:38:14,996 - [INFO] [Queen - Another One Bites The Dust] downloading 8616227 bytes
+2020-12-04 18:38:16,107 - [INFO] [Queen - Don't Stop Me Now] Applying tags to the track
+2020-12-04 18:38:16,115 - [INFO] [Queen - Don't Stop Me Now] Track download completed
+/home/evan/Music/Queen - Don't Stop Me Now.mp3
+2020-12-04 18:38:16,120 - [INFO] [Queen - Somebody To Love] Getting the tags
+2020-12-04 18:38:16,372 - [INFO] [Queen - Somebody To Love] Getting lyrics
+2020-12-04 18:38:16,457 - [INFO] [Queen - Another One Bites The Dust] Applying tags to the track
+2020-12-04 18:38:16,465 - [INFO] [Queen - Another One Bites The Dust] Track download completed
+/home/evan/Music/Queen - Another One Bites The Dust.mp3
+2020-12-04 18:38:16,465 - [INFO] [Queen - Under Pressure] Getting the tags
+2020-12-04 18:38:16,558 - [INFO] [New Order - Blue Monday (2016 Remaster)] Applying tags to the track
+2020-12-04 18:38:16,573 - [INFO] [New Order - Blue Monday (2016 Remaster)] Track download completed
+/home/evan/Music/New Order - Blue Monday (2016 Remaster).mp3
+2020-12-04 18:38:16,573 - [INFO] [Queen - We Will Rock You] Getting the tags
+2020-12-04 18:38:16,642 - [INFO] [Queen - Under Pressure] Getting lyrics
+2020-12-04 18:38:16,675 - [INFO] [Queen - Somebody To Love] Getting album infos
+2020-12-04 18:38:16,752 - [INFO] [Queen - We Will Rock You] Getting lyrics
+2020-12-04 18:38:16,846 - [INFO] [Queen - Somebody To Love] Getting extra track infos
+2020-12-04 18:38:16,924 - [INFO] [Queen - Under Pressure] Getting album infos
+2020-12-04 18:38:16,968 - [INFO] [Queen - Somebody To Love] Getting more album infos
+2020-12-04 18:38:17,035 - [INFO] [Queen - We Will Rock You] Getting album infos
+2020-12-04 18:38:17,106 - [INFO] [Queen - Under Pressure] Getting extra track infos
+2020-12-04 18:38:17,203 - [INFO] [Queen - We Will Rock You] Getting extra track infos
+2020-12-04 18:38:17,230 - [INFO] [Queen - Under Pressure] Getting more album infos
+2020-12-04 18:38:17,329 - [INFO] [Queen - We Will Rock You] Getting more album infos
+2020-12-04 18:38:17,990 - [INFO] [Queen - Somebody To Love] Getting the album cover
+2020-12-04 18:38:18,120 - [INFO] [Queen - Somebody To Love] Downloading the track
+2020-12-04 18:38:18,331 - [INFO] [Queen - Somebody To Love] downloading 11832423 bytes
+2020-12-04 18:38:18,388 - [INFO] [Queen - We Will Rock You] Getting the album cover
+2020-12-04 18:38:18,536 - [INFO] [Queen - We Will Rock You] Downloading the track
+2020-12-04 18:38:18,727 - [INFO] [Queen - We Will Rock You] downloading 4884897 bytes
+2020-12-04 18:38:19,749 - [INFO] [Queen - We Will Rock You] Applying tags to the track
+2020-12-04 18:38:19,755 - [INFO] [Queen - We Will Rock You] Track download completed
+/home/evan/Music/Queen - We Will Rock You.mp3
+2020-12-04 18:38:19,761 - [INFO] [Queens of the Stone Age - 3's & 7's] Getting the tags
+2020-12-04 18:38:20,016 - [INFO] [Queens of the Stone Age - 3's & 7's] Getting lyrics
+2020-12-04 18:38:20,311 - [INFO] [Queens of the Stone Age - 3's & 7's] Getting album infos
+2020-12-04 18:38:20,330 - [INFO] [Queen - Somebody To Love] Applying tags to the track
+2020-12-04 18:38:20,342 - [INFO] [Queen - Somebody To Love] Track download completed
+/home/evan/Music/Queen - Somebody To Love.mp3
+2020-12-04 18:38:20,342 - [INFO] [Radiohead - Creep] Getting the tags
+2020-12-04 18:38:20,458 - [INFO] [Queens of the Stone Age - 3's & 7's] Getting extra track infos
+2020-12-04 18:38:20,513 - [INFO] [Radiohead - Creep] Getting lyrics
+2020-12-04 18:38:20,588 - [INFO] [Queens of the Stone Age - 3's & 7's] Getting more album infos
+2020-12-04 18:38:20,815 - [INFO] [Radiohead - Creep] Getting album infos
+2020-12-04 18:38:20,945 - [INFO] [Radiohead - Creep] Getting more album infos
+2020-12-04 18:38:21,276 - [INFO] [Radiohead - Creep] Getting artist picture fallback
+2020-12-04 18:38:21,404 - [INFO] [Radiohead - Creep] Getting extra track infos
+2020-12-04 18:38:21,423 - [INFO] [Queens of the Stone Age - 3's & 7's] Getting the album cover
+2020-12-04 18:38:21,707 - [INFO] [Queens of the Stone Age - 3's & 7's] Downloading the track
+2020-12-04 18:38:21,750 - [INFO] [Radiohead - Creep] Fallback to lower bitrate
+2020-12-04 18:38:21,752 - [INFO] [Radiohead - Creep] Getting the album cover
+2020-12-04 18:38:21,828 - [INFO] [Queens of the Stone Age - 3's & 7's] downloading 8581746 bytes
+2020-12-04 18:38:21,961 - [INFO] [Radiohead - Creep] Downloading the track
+2020-12-04 18:38:22,020 - [INFO] [Queen - Under Pressure] Getting the album cover
+2020-12-04 18:38:22,021 - [INFO] [Queen - Under Pressure] Downloading the track
+2020-12-04 18:38:22,221 - [INFO] [Queen - Under Pressure] downloading 9782333 bytes
+2020-12-04 18:38:22,499 - [WARNING] [Radiohead - Creep] Track not available, using fallback id
+2020-12-04 18:38:23,391 - [INFO] [Queens of the Stone Age - 3's & 7's] Applying tags to the track
+2020-12-04 18:38:23,400 - [INFO] [Queens of the Stone Age - 3's & 7's] Track download completed
+/home/evan/Music/Queens of the Stone Age - 3's & 7's.mp3
+2020-12-04 18:38:23,405 - [INFO] [Radiohead - High and Dry] Getting the tags
+2020-12-04 18:38:23,662 - [INFO] [Radiohead - High and Dry] Getting lyrics
+2020-12-04 18:38:23,813 - [INFO] [Queen - Under Pressure] Applying tags to the track
+2020-12-04 18:38:23,822 - [INFO] [Queen - Under Pressure] Track download completed
+/home/evan/Music/Queen - Under Pressure.mp3
+2020-12-04 18:38:23,831 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Getting the tags
+2020-12-04 18:38:23,968 - [INFO] [Radiohead - High and Dry] Getting album infos
+2020-12-04 18:38:24,013 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Getting lyrics
+2020-12-04 18:38:24,111 - [INFO] [Radiohead - High and Dry] Getting extra track infos
+2020-12-04 18:38:24,195 - [INFO] [Radiohead - Creep] Getting the album cover
+2020-12-04 18:38:24,197 - [INFO] [Radiohead - Creep] Downloading the track
+2020-12-04 18:38:24,253 - [INFO] [Radiohead - High and Dry] Getting more album infos
+2020-12-04 18:38:24,331 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Getting album infos
+2020-12-04 18:38:24,440 - [INFO] [Radiohead - Creep] downloading 9548276 bytes
+2020-12-04 18:38:24,467 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Getting extra track infos
+2020-12-04 18:38:24,607 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Getting more album infos
+2020-12-04 18:38:25,013 - [INFO] [Radiohead - High and Dry] Getting the album cover
+2020-12-04 18:38:25,135 - [INFO] [Radiohead - High and Dry] Downloading the track
+2020-12-04 18:38:25,390 - [INFO] [Radiohead - High and Dry] downloading 10301648 bytes
+2020-12-04 18:38:25,511 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Getting the album cover
+2020-12-04 18:38:25,684 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Downloading the track
+2020-12-04 18:38:25,730 - [INFO] [Radiohead - Creep] Applying tags to the track
+2020-12-04 18:38:25,737 - [INFO] [Radiohead - Creep] Track download completed
+/home/evan/Music/Radiohead - Creep.mp3
+2020-12-04 18:38:25,743 - [INFO] [Rick Springfield - Jessie's Girl] Getting the tags
+2020-12-04 18:38:25,863 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] downloading 12729991 bytes
+2020-12-04 18:38:25,981 - [INFO] [Rick Springfield - Jessie's Girl] Getting lyrics
+2020-12-04 18:38:26,276 - [INFO] [Rick Springfield - Jessie's Girl] Getting album infos
+2020-12-04 18:38:26,455 - [INFO] [Rick Springfield - Jessie's Girl] Getting extra track infos
+2020-12-04 18:38:26,596 - [INFO] [Rick Springfield - Jessie's Girl] Getting more album infos
+2020-12-04 18:38:26,979 - [INFO] [Radiohead - High and Dry] Applying tags to the track
+2020-12-04 18:38:26,986 - [INFO] [Radiohead - High and Dry] Track download completed
+/home/evan/Music/Radiohead - High and Dry.mp3
+2020-12-04 18:38:26,991 - [INFO] [Rise Against - Re-Education (Through Labor)] Getting the tags
+2020-12-04 18:38:27,230 - [INFO] [Rise Against - Re-Education (Through Labor)] Getting lyrics
+2020-12-04 18:38:27,377 - [INFO] [Rick Springfield - Jessie's Girl] Getting the album cover
+2020-12-04 18:38:27,498 - [INFO] [Rick Springfield - Jessie's Girl] Downloading the track
+2020-12-04 18:38:27,547 - [INFO] [Rise Against - Re-Education (Through Labor)] Getting album infos
+2020-12-04 18:38:27,615 - [INFO] [Rick Springfield - Jessie's Girl] downloading 7783444 bytes
+2020-12-04 18:38:27,704 - [INFO] [Rise Against - Re-Education (Through Labor)] Getting extra track infos
+2020-12-04 18:38:27,784 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Applying tags to the track
+2020-12-04 18:38:27,797 - [INFO] [Radiohead - Weird Fishes/ Arpeggi] Track download completed
+/home/evan/Music/Radiohead - Weird Fishes_ Arpeggi.mp3
+2020-12-04 18:38:27,797 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting the tags
+2020-12-04 18:38:27,842 - [INFO] [Rise Against - Re-Education (Through Labor)] Getting more album infos
+2020-12-04 18:38:28,013 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting lyrics
+2020-12-04 18:38:28,329 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting album infos
+2020-12-04 18:38:28,452 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting more album infos
+2020-12-04 18:38:28,637 - [INFO] [Rise Against - Re-Education (Through Labor)] Getting the album cover
+2020-12-04 18:38:28,752 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting artist picture fallback
+2020-12-04 18:38:28,778 - [INFO] [Rise Against - Re-Education (Through Labor)] Downloading the track
+2020-12-04 18:38:28,886 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting extra track infos
+2020-12-04 18:38:28,966 - [INFO] [Rise Against - Re-Education (Through Labor)] downloading 8900440 bytes
+2020-12-04 18:38:29,503 - [INFO] [Simple Minds - Don't You (Forget About Me)] Fallback to lower bitrate
+2020-12-04 18:38:29,505 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting the album cover
+2020-12-04 18:38:29,622 - [INFO] [Simple Minds - Don't You (Forget About Me)] Downloading the track
+2020-12-04 18:38:30,043 - [WARNING] [Simple Minds - Don't You (Forget About Me)] Track not available, using fallback id
+2020-12-04 18:38:30,431 - [INFO] [Rise Against - Re-Education (Through Labor)] Applying tags to the track
+2020-12-04 18:38:30,439 - [INFO] [Rise Against - Re-Education (Through Labor)] Track download completed
+/home/evan/Music/Rise Against - Re-Education (Through Labor).mp3
+2020-12-04 18:38:30,454 - [INFO] [Soft Cell - Tainted Love] Getting the tags
+2020-12-04 18:38:30,649 - [INFO] [Soft Cell - Tainted Love] Getting lyrics
+2020-12-04 18:38:30,956 - [INFO] [Soft Cell - Tainted Love] Getting album infos
+2020-12-04 18:38:31,086 - [INFO] [Simple Minds - Don't You (Forget About Me)] Getting the album cover
+2020-12-04 18:38:31,087 - [INFO] [Simple Minds - Don't You (Forget About Me)] Downloading the track
+2020-12-04 18:38:31,130 - [INFO] [Soft Cell - Tainted Love] Getting extra track infos
+2020-12-04 18:38:31,209 - [INFO] [Simple Minds - Don't You (Forget About Me)] downloading 10437484 bytes
+2020-12-04 18:38:31,260 - [INFO] [Soft Cell - Tainted Love] Getting more album infos
+2020-12-04 18:38:32,066 - [INFO] [Soft Cell - Tainted Love] Getting the album cover
+2020-12-04 18:38:32,284 - [INFO] [Soft Cell - Tainted Love] Downloading the track
+2020-12-04 18:38:32,481 - [INFO] [Soft Cell - Tainted Love] downloading 6418807 bytes
+2020-12-04 18:38:32,578 - [INFO] [Rick Springfield - Jessie's Girl] Applying tags to the track
+2020-12-04 18:38:32,587 - [INFO] [Rick Springfield - Jessie's Girl] Track download completed
+/home/evan/Music/Rick Springfield - Jessie's Girl.mp3
+2020-12-04 18:38:32,591 - [INFO] [Steely Dan - My Old School] Getting the tags
+2020-12-04 18:38:33,558 - [INFO] [Soft Cell - Tainted Love] Applying tags to the track
+2020-12-04 18:38:33,565 - [INFO] [Soft Cell - Tainted Love] Track download completed
+/home/evan/Music/Soft Cell - Tainted Love.mp3
+2020-12-04 18:38:33,565 - [INFO] [Stone Temple Pilots - Sex Type Thing] Getting the tags
+2020-12-04 18:38:33,710 - [INFO] [Steely Dan - My Old School] Getting lyrics
+2020-12-04 18:38:33,734 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Getting lyrics
+2020-12-04 18:38:34,029 - [INFO] [Steely Dan - My Old School] Getting album infos
+2020-12-04 18:38:34,036 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Getting album infos
+2020-12-04 18:38:34,199 - [INFO] [Steely Dan - My Old School] Getting extra track infos
+2020-12-04 18:38:34,227 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Getting extra track infos
+2020-12-04 18:38:34,331 - [INFO] [Steely Dan - My Old School] Getting more album infos
+2020-12-04 18:38:34,356 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Getting more album infos
+2020-12-04 18:38:35,294 - [INFO] [Steely Dan - My Old School] Getting the album cover
+2020-12-04 18:38:35,594 - [INFO] [Steely Dan - My Old School] Downloading the track
+2020-12-04 18:38:35,787 - [INFO] [Steely Dan - My Old School] downloading 13886693 bytes
+2020-12-04 18:38:36,438 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Getting the album cover
+2020-12-04 18:38:36,552 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Downloading the track
+2020-12-04 18:38:36,681 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] downloading 8715493 bytes
+2020-12-04 18:38:38,300 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Applying tags to the track
+2020-12-04 18:38:38,309 - [INFO] [Stone Temple Pilots - Sex Type Thing (2017 Remaster)] Track download completed
+/home/evan/Music/Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3
+2020-12-04 18:38:38,313 - [INFO] [Styx - Mr. Roboto] Getting the tags
+2020-12-04 18:38:39,364 - [INFO] [Styx - Mr. Roboto] Getting lyrics
+2020-12-04 18:38:39,650 - [INFO] [Styx - Mr. Roboto] Getting album infos
+2020-12-04 18:38:39,784 - [INFO] [Styx - Mr. Roboto] Getting extra track infos
+2020-12-04 18:38:39,919 - [INFO] [Styx - Mr. Roboto] Getting more album infos
+2020-12-04 18:38:40,684 - [INFO] [Styx - Mr. Roboto] Getting the album cover
+2020-12-04 18:38:40,802 - [INFO] [Styx - Mr. Roboto] Downloading the track
+2020-12-04 18:38:40,983 - [INFO] [Styx - Mr. Roboto] downloading 13151084 bytes
+2020-12-04 18:38:43,014 - [INFO] [Styx - Mr. Roboto] Applying tags to the track
+2020-12-04 18:38:43,024 - [INFO] [Styx - Mr. Roboto] Track download completed
+/home/evan/Music/Styx - Mr. Roboto.mp3
+2020-12-04 18:38:43,025 - [INFO] [Talking Heads - Burning Down the House] Getting the tags
+2020-12-04 18:38:43,243 - [INFO] [Talking Heads - Burning Down the House] Getting lyrics
+2020-12-04 18:38:43,627 - [INFO] [Talking Heads - Burning Down the House] Getting album infos
+2020-12-04 18:38:43,776 - [INFO] [Talking Heads - Burning Down the House] Getting extra track infos
+2020-12-04 18:38:43,901 - [INFO] [Talking Heads - Burning Down the House] Getting more album infos
+2020-12-04 18:38:44,784 - [INFO] [Talking Heads - Burning Down the House] Getting the album cover
+2020-12-04 18:38:44,913 - [INFO] [Talking Heads - Burning Down the House] Downloading the track
+2020-12-04 18:38:45,102 - [INFO] [Talking Heads - Burning Down the House] downloading 9678888 bytes
+2020-12-04 18:38:46,938 - [INFO] [Simple Minds - Don't You (Forget About Me)] Applying tags to the track
+2020-12-04 18:38:46,951 - [INFO] [Simple Minds - Don't You (Forget About Me)] Track download completed
+/home/evan/Music/Simple Minds - Don't You (Forget About Me).mp3
+2020-12-04 18:38:46,954 - [INFO] [Talking Heads - Psycho Killer] Getting the tags
+2020-12-04 18:38:48,022 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Getting lyrics
+2020-12-04 18:38:48,310 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Getting album infos
+2020-12-04 18:38:48,443 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Getting extra track infos
+2020-12-04 18:38:48,565 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Getting more album infos
+2020-12-04 18:38:49,376 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Getting the album cover
+2020-12-04 18:38:49,470 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Downloading the track
+2020-12-04 18:38:49,669 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] downloading 10459427 bytes
+2020-12-04 18:38:54,653 - [INFO] [Talking Heads - Burning Down the House] Applying tags to the track
+2020-12-04 18:38:54,659 - [INFO] [Talking Heads - Burning Down the House] Track download completed
+/home/evan/Music/Talking Heads - Burning Down the House.mp3
+2020-12-04 18:38:54,660 - [INFO] [Talk Talk - It's My Life] Getting the tags
+2020-12-04 18:38:54,868 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Getting lyrics
+2020-12-04 18:38:55,198 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Getting album infos
+2020-12-04 18:38:55,384 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Getting extra track infos
+2020-12-04 18:38:55,640 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Getting more album infos
+2020-12-04 18:38:56,433 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Getting the album cover
+2020-12-04 18:38:56,551 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Downloading the track
+2020-12-04 18:38:56,644 - [INFO] [Steely Dan - My Old School] Applying tags to the track
+2020-12-04 18:38:56,662 - [INFO] [Steely Dan - My Old School] Track download completed
+/home/evan/Music/Steely Dan - My Old School.mp3
+2020-12-04 18:38:56,663 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Getting the tags
+2020-12-04 18:38:56,670 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] downloading 9298546 bytes
+2020-12-04 18:38:57,713 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Getting lyrics
+2020-12-04 18:38:58,022 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Getting album infos
+2020-12-04 18:38:58,186 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Getting extra track infos
+2020-12-04 18:38:58,310 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Getting more album infos
+2020-12-04 18:38:58,440 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Applying tags to the track
+2020-12-04 18:38:58,450 - [INFO] [Talk Talk - It's My Life (1997 Remaster)] Track download completed
+/home/evan/Music/Talk Talk - It's My Life (1997 Remaster).mp3
+2020-12-04 18:38:58,451 - [INFO] [Tears for Fears - Head Over Heels] Getting the tags
+2020-12-04 18:38:58,636 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting lyrics
+2020-12-04 18:38:58,970 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting album infos
+2020-12-04 18:38:59,100 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Getting the album cover
+2020-12-04 18:38:59,110 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting more album infos
+2020-12-04 18:38:59,218 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Downloading the track
+2020-12-04 18:38:59,337 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] downloading 10065501 bytes
+2020-12-04 18:38:59,423 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting artist picture fallback
+2020-12-04 18:38:59,537 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting extra track infos
+2020-12-04 18:38:59,892 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Fallback to lower bitrate
+2020-12-04 18:38:59,893 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting the album cover
+2020-12-04 18:39:00,491 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Downloading the track
+2020-12-04 18:39:00,890 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Applying tags to the track
+2020-12-04 18:39:00,899 - [INFO] [Talking Heads - Psycho Killer (2005 Remaster)] Track download completed
+/home/evan/Music/Talking Heads - Psycho Killer (2005 Remaster).mp3
+2020-12-04 18:39:00,903 - [INFO] [Tears for Fears - Mad World] Getting the tags
+2020-12-04 18:39:00,991 - [WARNING] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Track not available, using fallback id
+2020-12-04 18:39:01,147 - [INFO] [Tears for Fears - Mad World] Getting lyrics
+2020-12-04 18:39:01,153 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Applying tags to the track
+2020-12-04 18:39:01,162 - [INFO] [Tears for Fears - Everybody Wants To Rule The World] Track download completed
+/home/evan/Music/Tears for Fears - Everybody Wants To Rule The World.mp3
+2020-12-04 18:39:01,163 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting the tags
+2020-12-04 18:39:01,345 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting lyrics
+2020-12-04 18:39:01,464 - [INFO] [Tears for Fears - Mad World] Getting album infos
+2020-12-04 18:39:01,601 - [INFO] [Tears for Fears - Mad World] Getting extra track infos
+2020-12-04 18:39:01,662 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting album infos
+2020-12-04 18:39:01,735 - [INFO] [Tears for Fears - Mad World] Getting more album infos
+2020-12-04 18:39:01,791 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting more album infos
+2020-12-04 18:39:02,116 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting artist picture fallback
+2020-12-04 18:39:02,239 - [INFO] [Tears for Fears - Mad World] Getting the album cover
+2020-12-04 18:39:02,249 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting extra track infos
+2020-12-04 18:39:02,294 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Getting the album cover
+2020-12-04 18:39:02,294 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Downloading the track
+2020-12-04 18:39:02,322 - [INFO] [Tears for Fears - Mad World] Downloading the track
+2020-12-04 18:39:02,439 - [INFO] [Tears for Fears - Mad World] downloading 8618317 bytes
+2020-12-04 18:39:02,461 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] downloading 10248358 bytes
+2020-12-04 18:39:02,874 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Fallback to lower bitrate
+2020-12-04 18:39:02,875 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting the album cover
+2020-12-04 18:39:03,056 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Downloading the track
+2020-12-04 18:39:03,217 - [WARNING] [Tears for Fears - Sowing The Seeds Of Love] Track not available, using fallback id
+2020-12-04 18:39:04,301 - [INFO] [Tears for Fears - Mad World] Applying tags to the track
+2020-12-04 18:39:04,309 - [INFO] [Tears for Fears - Mad World] Track download completed
+/home/evan/Music/Tears for Fears - Mad World.mp3
+2020-12-04 18:39:04,314 - [INFO] [The B-52's - Love Shack] Getting the tags
+2020-12-04 18:39:04,523 - [INFO] [The B-52's - Love Shack] Getting lyrics
+2020-12-04 18:39:04,689 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Applying tags to the track
+2020-12-04 18:39:04,697 - [INFO] [Tears for Fears - Head Over Heels (Dave Bascombe 7" N.Mix)] Track download completed
+/home/evan/Music/Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3
+2020-12-04 18:39:04,701 - [INFO] [Bangles - Manic Monday] Getting the tags
+2020-12-04 18:39:04,701 - [INFO] [Bangles - Manic Monday] Getting the album cover
+2020-12-04 18:39:04,829 - [INFO] [The B-52's - Love Shack] Getting album infos
+2020-12-04 18:39:04,903 - [INFO] [Bangles - Manic Monday] Downloading the track
+2020-12-04 18:39:04,948 - [INFO] [The B-52's - Love Shack] Getting more album infos
+2020-12-04 18:39:05,237 - [INFO] [The B-52's - Love Shack] Getting artist picture fallback
+2020-12-04 18:39:05,360 - [INFO] [The B-52's - Love Shack] Getting extra track infos
+2020-12-04 18:39:05,408 - [WARNING] [Bangles - Manic Monday] Track not available, using fallback id
+2020-12-04 18:39:05,950 - [INFO] [Bangles - Manic Monday] Getting the album cover
+2020-12-04 18:39:05,950 - [INFO] [Bangles - Manic Monday] Downloading the track
+2020-12-04 18:39:05,962 - [INFO] [The B-52's - Love Shack] Getting the album cover
+2020-12-04 18:39:06,256 - [INFO] [The B-52's - Love Shack] Downloading the track
+2020-12-04 18:39:06,374 - [INFO] [The B-52's - Love Shack] downloading 12865827 bytes
+2020-12-04 18:39:06,525 - [INFO] [Bangles - Manic Monday] downloading 2965837 bytes
+2020-12-04 18:39:06,665 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Getting the album cover
+2020-12-04 18:39:06,667 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Downloading the track
+2020-12-04 18:39:06,963 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] downloading 15107133 bytes
+2020-12-04 18:39:07,137 - [INFO] [Bangles - Manic Monday] Track download completed
+/home/evan/Music/Bangles - Manic Monday.mp3
+2020-12-04 18:39:07,138 - [INFO] [The Bangles - Walk Like an Egyptian] Getting the tags
+2020-12-04 18:39:07,440 - [INFO] [The Bangles - Walk Like an Egyptian] Getting lyrics
+2020-12-04 18:39:07,746 - [INFO] [The Bangles - Walk Like an Egyptian] Getting album infos
+2020-12-04 18:39:07,899 - [INFO] [The Bangles - Walk Like an Egyptian] Getting extra track infos
+2020-12-04 18:39:08,027 - [INFO] [The Bangles - Walk Like an Egyptian] Getting more album infos
+2020-12-04 18:39:08,830 - [INFO] [The Bangles - Walk Like an Egyptian] Getting the album cover
+2020-12-04 18:39:08,951 - [INFO] [The Bangles - Walk Like an Egyptian] Downloading the track
+2020-12-04 18:39:09,148 - [INFO] [The Bangles - Walk Like an Egyptian] downloading 8190954 bytes
+2020-12-04 18:39:09,283 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Applying tags to the track
+2020-12-04 18:39:09,296 - [INFO] [Tears for Fears - Sowing The Seeds Of Love] Track download completed
+/home/evan/Music/Tears for Fears - Sowing The Seeds Of Love.mp3
+2020-12-04 18:39:09,298 - [INFO] [The Black Crowes - Remedy] Getting the tags
+2020-12-04 18:39:09,515 - [INFO] [The Black Crowes - Remedy] Getting lyrics
+2020-12-04 18:39:09,881 - [INFO] [The Black Crowes - Remedy] Getting album infos
+2020-12-04 18:39:10,025 - [INFO] [The Black Crowes - Remedy] Getting extra track infos
+2020-12-04 18:39:10,172 - [INFO] [The Black Crowes - Remedy] Getting more album infos
+2020-12-04 18:39:10,683 - [INFO] [The Bangles - Walk Like an Egyptian] Applying tags to the track
+2020-12-04 18:39:10,692 - [INFO] [The Bangles - Walk Like an Egyptian] Track download completed
+/home/evan/Music/The Bangles - Walk Like an Egyptian.mp3
+2020-12-04 18:39:10,694 - [INFO] [The Buggles - Video Killed The Radio Star] Getting the tags
+2020-12-04 18:39:10,853 - [INFO] [The Black Crowes - Remedy] Getting the album cover
+2020-12-04 18:39:10,920 - [INFO] [The Buggles - Video Killed The Radio Star] Getting lyrics
+2020-12-04 18:39:10,966 - [INFO] [The Black Crowes - Remedy] Downloading the track
+2020-12-04 18:39:11,181 - [INFO] [The Black Crowes - Remedy] downloading 12920162 bytes
+2020-12-04 18:39:11,226 - [INFO] [The Buggles - Video Killed The Radio Star] Getting album infos
+2020-12-04 18:39:11,364 - [INFO] [The Buggles - Video Killed The Radio Star] Getting more album infos
+2020-12-04 18:39:11,681 - [INFO] [The Buggles - Video Killed The Radio Star] Getting artist picture fallback
+2020-12-04 18:39:11,801 - [INFO] [The Buggles - Video Killed The Radio Star] Getting extra track infos
+2020-12-04 18:39:12,153 - [INFO] [The Buggles - Video Killed The Radio Star] Fallback to lower bitrate
+2020-12-04 18:39:12,155 - [INFO] [The Buggles - Video Killed The Radio Star] Getting the album cover
+2020-12-04 18:39:12,376 - [INFO] [The Buggles - Video Killed The Radio Star] Downloading the track
+2020-12-04 18:39:12,904 - [WARNING] [The Buggles - Video Killed The Radio Star] Track not available, using fallback id
+2020-12-04 18:39:13,104 - [INFO] [The Black Crowes - Remedy] Applying tags to the track
+2020-12-04 18:39:13,113 - [INFO] [The Black Crowes - Remedy] Track download completed
+/home/evan/Music/The Black Crowes - Remedy.mp3
+2020-12-04 18:39:13,115 - [INFO] [The Cars - Drive] Getting the tags
+2020-12-04 18:39:13,350 - [INFO] [The Cars - Drive] Getting lyrics
+2020-12-04 18:39:13,646 - [INFO] [The Cars - Drive] Getting album infos
+2020-12-04 18:39:13,811 - [INFO] [The Cars - Drive] Getting extra track infos
+2020-12-04 18:39:13,960 - [INFO] [The Cars - Drive] Getting more album infos
+2020-12-04 18:39:14,094 - [INFO] [The Buggles - Video Killed The Radio Star] Getting the album cover
+2020-12-04 18:39:14,095 - [INFO] [The Buggles - Video Killed The Radio Star] Downloading the track
+2020-12-04 18:39:14,260 - [INFO] [The Buggles - Video Killed The Radio Star] downloading 10154317 bytes
+2020-12-04 18:39:14,824 - [INFO] [The Cars - Drive] Getting the album cover
+2020-12-04 18:39:15,180 - [INFO] [The Cars - Drive] Downloading the track
+2020-12-04 18:39:15,280 - [INFO] [The Buggles - Video Killed The Radio Star] Applying tags to the track
+2020-12-04 18:39:15,286 - [INFO] [The Buggles - Video Killed The Radio Star] Track download completed
+/home/evan/Music/The Buggles - Video Killed The Radio Star.mp3
+2020-12-04 18:39:15,287 - [INFO] [The Cars - Just What I Needed] Getting the tags
+2020-12-04 18:39:15,308 - [INFO] [The Cars - Drive] downloading 9506480 bytes
+2020-12-04 18:39:15,500 - [INFO] [The Cars - Just What I Needed] Getting album infos
+2020-12-04 18:39:15,647 - [INFO] [The Cars - Just What I Needed] Getting extra track infos
+2020-12-04 18:39:15,767 - [INFO] [The Cars - Just What I Needed] Getting more album infos
+2020-12-04 18:39:16,888 - [INFO] [The Cars - Drive] Applying tags to the track
+2020-12-04 18:39:16,900 - [INFO] [The Cars - Drive] Track download completed
+/home/evan/Music/The Cars - Drive.mp3
+2020-12-04 18:39:16,902 - [INFO] [The Cars - Moving in Stereo] Getting the tags
+2020-12-04 18:39:17,141 - [INFO] [The Cars - Moving in Stereo] Getting album infos
+2020-12-04 18:39:17,268 - [INFO] [The Cars - Just What I Needed] Getting the album cover
+2020-12-04 18:39:17,296 - [INFO] [The Cars - Moving in Stereo] Getting extra track infos
+2020-12-04 18:39:17,398 - [INFO] [The Cars - Just What I Needed] Downloading the track
+2020-12-04 18:39:17,476 - [INFO] [The Cars - Moving in Stereo] Getting more album infos
+2020-12-04 18:39:17,545 - [INFO] [The Cars - Just What I Needed] downloading 9027917 bytes
+2020-12-04 18:39:18,244 - [INFO] [The Cars - Moving in Stereo] Getting the album cover
+2020-12-04 18:39:18,244 - [INFO] [The Cars - Moving in Stereo] Downloading the track
+2020-12-04 18:39:18,421 - [INFO] [The Cars - Moving in Stereo] downloading 11446856 bytes
+2020-12-04 18:39:19,279 - [INFO] [The B-52's - Love Shack] Applying tags to the track
+2020-12-04 18:39:19,290 - [INFO] [The B-52's - Love Shack] Track download completed
+/home/evan/Music/The B-52's - Love Shack.mp3
+2020-12-04 18:39:19,303 - [INFO] [The Cars - My Best Friend's Girl] Getting the tags
+2020-12-04 18:39:19,537 - [INFO] [The Cars - My Best Friend's Girl] Getting lyrics
+2020-12-04 18:39:19,918 - [INFO] [The Cars - My Best Friend's Girl] Getting album infos
+2020-12-04 18:39:20,070 - [INFO] [The Cars - My Best Friend's Girl] Getting extra track infos
+2020-12-04 18:39:20,152 - [INFO] [The Cars - Moving in Stereo] Applying tags to the track
+2020-12-04 18:39:20,162 - [INFO] [The Cars - Moving in Stereo] Track download completed
+/home/evan/Music/The Cars - Moving in Stereo.mp3
+2020-12-04 18:39:20,162 - [INFO] [The Cars - You Might Think] Getting the tags
+2020-12-04 18:39:20,217 - [INFO] [The Cars - My Best Friend's Girl] Getting more album infos
+2020-12-04 18:39:20,333 - [INFO] [The Cars - You Might Think] Getting lyrics
+2020-12-04 18:39:20,638 - [INFO] [The Cars - You Might Think] Getting album infos
+2020-12-04 18:39:20,815 - [INFO] [The Cars - You Might Think] Getting extra track infos
+2020-12-04 18:39:20,950 - [INFO] [The Cars - You Might Think] Getting more album infos
+2020-12-04 18:39:20,996 - [INFO] [The Cars - My Best Friend's Girl] Getting the album cover
+2020-12-04 18:39:20,997 - [INFO] [The Cars - My Best Friend's Girl] Downloading the track
+2020-12-04 18:39:21,193 - [INFO] [The Cars - My Best Friend's Girl] downloading 9041501 bytes
+2020-12-04 18:39:21,737 - [INFO] [The Cars - You Might Think] Getting the album cover
+2020-12-04 18:39:21,737 - [INFO] [The Cars - You Might Think] Downloading the track
+2020-12-04 18:39:21,907 - [INFO] [The Cars - You Might Think] downloading 7521174 bytes
+2020-12-04 18:39:23,271 - [INFO] [The Cars - You Might Think] Applying tags to the track
+2020-12-04 18:39:23,280 - [INFO] [The Cars - You Might Think] Track download completed
+/home/evan/Music/The Cars - You Might Think.mp3
+2020-12-04 18:39:23,281 - [INFO] [The Clash - Should I Stay or Should I Go] Getting the tags
+2020-12-04 18:39:23,532 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Getting lyrics
+2020-12-04 18:39:23,875 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Getting album infos
+2020-12-04 18:39:24,036 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Getting extra track infos
+2020-12-04 18:39:24,179 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Getting more album infos
+2020-12-04 18:39:24,964 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Getting the album cover
+2020-12-04 18:39:25,075 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Downloading the track
+2020-12-04 18:39:25,192 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] downloading 7561925 bytes
+2020-12-04 18:39:26,440 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Applying tags to the track
+2020-12-04 18:39:26,446 - [INFO] [The Clash - Should I Stay or Should I Go (Remastered)] Track download completed
+/home/evan/Music/The Clash - Should I Stay or Should I Go (Remastered).mp3
+2020-12-04 18:39:26,446 - [INFO] [The Cult - She Sells Sanctuary] Getting the tags
+2020-12-04 18:39:26,685 - [INFO] [The Cult - She Sells Sanctuary] Getting lyrics
+2020-12-04 18:39:27,034 - [INFO] [The Cult - She Sells Sanctuary] Getting album infos
+2020-12-04 18:39:27,174 - [INFO] [The Cult - She Sells Sanctuary] Getting extra track infos
+2020-12-04 18:39:27,305 - [INFO] [The Cult - She Sells Sanctuary] Getting more album infos
+2020-12-04 18:39:28,204 - [INFO] [The Cult - She Sells Sanctuary] Getting the album cover
+2020-12-04 18:39:28,313 - [INFO] [The Cult - She Sells Sanctuary] Downloading the track
+2020-12-04 18:39:28,504 - [INFO] [The Cult - She Sells Sanctuary] downloading 10522121 bytes
+2020-12-04 18:39:31,355 - [INFO] [The Cars - Just What I Needed] Applying tags to the track
+2020-12-04 18:39:31,370 - [INFO] [The Cars - Just What I Needed] Track download completed
+/home/evan/Music/The Cars - Just What I Needed.mp3
+2020-12-04 18:39:31,376 - [INFO] [The Cure - Boys Don't Cry] Getting the tags
+2020-12-04 18:39:31,616 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Getting lyrics
+2020-12-04 18:39:31,950 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Getting album infos
+2020-12-04 18:39:32,117 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Getting extra track infos
+2020-12-04 18:39:32,245 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Getting more album infos
+2020-12-04 18:39:33,233 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Getting the album cover
+2020-12-04 18:39:33,342 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Downloading the track
+2020-12-04 18:39:33,505 - [INFO] [The Cure - Boys Don't Cry (Single Version)] downloading 6303868 bytes
+2020-12-04 18:39:34,638 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Applying tags to the track
+2020-12-04 18:39:34,645 - [INFO] [The Cure - Boys Don't Cry (Single Version)] Track download completed
+/home/evan/Music/The Cure - Boys Don't Cry (Single Version).mp3
+2020-12-04 18:39:34,645 - [INFO] [The Cure - Friday I'm in Love] Getting the tags
+2020-12-04 18:39:34,751 - [INFO] [The Cars - My Best Friend's Girl] Applying tags to the track
+2020-12-04 18:39:34,762 - [INFO] [The Cars - My Best Friend's Girl] Track download completed
+/home/evan/Music/The Cars - My Best Friend's Girl.mp3
+2020-12-04 18:39:34,763 - [INFO] [The Cure - Just like Heaven] Getting the tags
+2020-12-04 18:39:34,894 - [INFO] [The Cure - Friday I'm in Love] Getting lyrics
+2020-12-04 18:39:34,941 - [INFO] [The Cure - Just like Heaven] Getting lyrics
+2020-12-04 18:39:35,184 - [INFO] [The Cure - Friday I'm in Love] Getting album infos
+2020-12-04 18:39:35,244 - [INFO] [The Cure - Just like Heaven] Getting album infos
+2020-12-04 18:39:35,399 - [INFO] [The Cure - Just like Heaven] Getting extra track infos
+2020-12-04 18:39:35,406 - [INFO] [The Cure - Friday I'm in Love] Getting more album infos
+2020-12-04 18:39:35,532 - [INFO] [The Cure - Just like Heaven] Getting more album infos
+2020-12-04 18:39:35,713 - [INFO] [The Cure - Friday I'm in Love] Getting artist picture fallback
+2020-12-04 18:39:35,891 - [INFO] [The Cure - Friday I'm in Love] Getting extra track infos
+2020-12-04 18:39:36,644 - [INFO] [The Cure - Friday I'm in Love] Fallback to lower bitrate
+2020-12-04 18:39:36,644 - [INFO] [The Cure - Friday I'm in Love] Getting the album cover
+2020-12-04 18:39:36,847 - [INFO] [The Cure - Friday I'm in Love] Downloading the track
+2020-12-04 18:39:36,875 - [INFO] [The Cure - Just like Heaven] Getting the album cover
+2020-12-04 18:39:36,979 - [INFO] [The Cure - Just like Heaven] Downloading the track
+2020-12-04 18:39:37,266 - [INFO] [The Cure - Just like Heaven] downloading 8482480 bytes
+2020-12-04 18:39:37,330 - [WARNING] [The Cure - Friday I'm in Love] Track not available, using fallback id
+2020-12-04 18:39:38,351 - [INFO] [The Cure - Friday I'm in Love] Getting the album cover
+2020-12-04 18:39:38,352 - [INFO] [The Cure - Friday I'm in Love] Downloading the track
+2020-12-04 18:39:38,591 - [INFO] [The Cure - Friday I'm in Love] downloading 8614137 bytes
+2020-12-04 18:39:38,648 - [INFO] [The Cure - Just like Heaven] Applying tags to the track
+2020-12-04 18:39:38,657 - [INFO] [The Cure - Just like Heaven] Track download completed
+/home/evan/Music/The Cure - Just like Heaven.mp3
+2020-12-04 18:39:38,664 - [INFO] [The Hives - Hate To Say I Told You So] Getting the tags
+2020-12-04 18:39:38,897 - [INFO] [The Hives - Hate To Say I Told You So] Getting lyrics
+2020-12-04 18:39:39,209 - [INFO] [The Hives - Hate To Say I Told You So] Getting album infos
+2020-12-04 18:39:39,365 - [INFO] [The Hives - Hate To Say I Told You So] Getting extra track infos
+2020-12-04 18:39:39,510 - [INFO] [The Hives - Hate To Say I Told You So] Getting more album infos
+2020-12-04 18:39:39,688 - [INFO] [The Cure - Friday I'm in Love] Applying tags to the track
+2020-12-04 18:39:39,695 - [INFO] [The Cure - Friday I'm in Love] Track download completed
+/home/evan/Music/The Cure - Friday I'm in Love.mp3
+2020-12-04 18:39:39,696 - [INFO] [The Hives - Tick Tick Boom] Getting the tags
+2020-12-04 18:39:39,937 - [INFO] [The Hives - Tick Tick Boom] Getting lyrics
+2020-12-04 18:39:40,250 - [INFO] [The Hives - Tick Tick Boom] Getting album infos
+2020-12-04 18:39:40,378 - [INFO] [The Hives - Hate To Say I Told You So] Fallback to lower bitrate
+2020-12-04 18:39:40,379 - [INFO] [The Hives - Hate To Say I Told You So] Getting the album cover
+2020-12-04 18:39:40,384 - [INFO] [The Hives - Tick Tick Boom] Getting extra track infos
+2020-12-04 18:39:40,472 - [INFO] [The Hives - Hate To Say I Told You So] Downloading the track
+2020-12-04 18:39:40,524 - [INFO] [The Hives - Tick Tick Boom] Getting more album infos
+2020-12-04 18:39:40,986 - [WARNING] [The Hives - Hate To Say I Told You So] Track not available, using fallback id
+2020-12-04 18:39:41,343 - [INFO] [The Hives - Tick Tick Boom] Getting the album cover
+2020-12-04 18:39:41,573 - [INFO] [The Hives - Tick Tick Boom] Downloading the track
+2020-12-04 18:39:41,775 - [INFO] [The Hives - Tick Tick Boom] downloading 8219166 bytes
+2020-12-04 18:39:42,079 - [INFO] [The Hives - Hate To Say I Told You So] Getting the album cover
+2020-12-04 18:39:42,081 - [INFO] [The Hives - Hate To Say I Told You So] Downloading the track
+2020-12-04 18:39:42,257 - [INFO] [The Hives - Hate To Say I Told You So] downloading 7988244 bytes
+2020-12-04 18:39:43,736 - [INFO] [The Hives - Hate To Say I Told You So] Applying tags to the track
+2020-12-04 18:39:43,744 - [INFO] [The Hives - Hate To Say I Told You So] Track download completed
+/home/evan/Music/The Hives - Hate To Say I Told You So.mp3
+2020-12-04 18:39:43,744 - [INFO] [The Hives - Walk Idiot Walk] Getting the tags
+2020-12-04 18:39:43,998 - [INFO] [The Hives - Walk Idiot Walk Album Version] Getting lyrics
+2020-12-04 18:39:44,307 - [INFO] [The Hives - Walk Idiot Walk Album Version] Getting album infos
+2020-12-04 18:39:44,450 - [INFO] [The Hives - Walk Idiot Walk Album Version] Getting extra track infos
+2020-12-04 18:39:44,581 - [INFO] [The Hives - Walk Idiot Walk Album Version] Getting more album infos
+2020-12-04 18:39:45,675 - [INFO] [The Hives - Walk Idiot Walk Album Version] Getting the album cover
+2020-12-04 18:39:45,886 - [INFO] [The Hives - Walk Idiot Walk Album Version] Downloading the track
+2020-12-04 18:39:46,099 - [INFO] [The Hives - Walk Idiot Walk Album Version] downloading 8427135 bytes
+2020-12-04 18:39:47,244 - [INFO] [The Hives - Tick Tick Boom] Applying tags to the track
+2020-12-04 18:39:47,260 - [INFO] [The Hives - Tick Tick Boom] Track download completed
+/home/evan/Music/The Hives - Tick Tick Boom.mp3
+2020-12-04 18:39:47,260 - [INFO] [The Human League - Don't You Want Me] Getting the tags
+2020-12-04 18:39:48,362 - [INFO] [The Human League - Don't You Want Me] Getting lyrics
+2020-12-04 18:39:48,668 - [INFO] [The Human League - Don't You Want Me] Getting album infos
+2020-12-04 18:39:48,845 - [INFO] [The Human League - Don't You Want Me] Getting extra track infos
+2020-12-04 18:39:48,975 - [INFO] [The Human League - Don't You Want Me] Getting more album infos
+2020-12-04 18:39:49,784 - [INFO] [The Human League - Don't You Want Me] Getting the album cover
+2020-12-04 18:39:49,898 - [INFO] [The Human League - Don't You Want Me] Downloading the track
+2020-12-04 18:39:50,022 - [INFO] [The Human League - Don't You Want Me] downloading 9479313 bytes
+2020-12-04 18:39:54,571 - [INFO] [The Hives - Walk Idiot Walk Album Version] Applying tags to the track
+2020-12-04 18:39:54,580 - [INFO] [The Hives - Walk Idiot Walk Album Version] Track download completed
+/home/evan/Music/The Hives - Walk Idiot Walk Album Version.mp3
+2020-12-04 18:39:54,581 - [INFO] [The Human League - Mirror Man] Getting the tags
+2020-12-04 18:39:54,824 - [INFO] [The Human League - Mirror Man] Getting lyrics
+2020-12-04 18:39:55,127 - [INFO] [The Human League - Mirror Man] Getting album infos
+2020-12-04 18:39:55,298 - [INFO] [The Human League - Mirror Man] Getting extra track infos
+2020-12-04 18:39:55,432 - [INFO] [The Human League - Mirror Man] Getting more album infos
+2020-12-04 18:39:55,946 - [INFO] [The Human League - Mirror Man] Getting the album cover
+2020-12-04 18:39:56,049 - [INFO] [The Human League - Mirror Man] Downloading the track
+2020-12-04 18:39:56,173 - [INFO] [The Human League - Mirror Man] downloading 9278693 bytes
+2020-12-04 18:40:02,244 - [INFO] [The Cult - She Sells Sanctuary] Applying tags to the track
+2020-12-04 18:40:02,261 - [INFO] [The Cult - She Sells Sanctuary] Track download completed
+/home/evan/Music/The Cult - She Sells Sanctuary.mp3
+2020-12-04 18:40:02,269 - [INFO] [The Knack - My Sharona] Getting the tags
+2020-12-04 18:40:02,495 - [INFO] [The Knack - My Sharona] Getting album infos
+2020-12-04 18:40:02,642 - [INFO] [The Knack - My Sharona] Getting extra track infos
+2020-12-04 18:40:02,768 - [INFO] [The Knack - My Sharona] Getting more album infos
+2020-12-04 18:40:03,572 - [INFO] [The Knack - My Sharona] Getting the album cover
+2020-12-04 18:40:03,698 - [INFO] [The Knack - My Sharona] Downloading the track
+2020-12-04 18:40:03,897 - [INFO] [The Knack - My Sharona] downloading 11818840 bytes
+2020-12-04 18:40:04,608 - [INFO] [The Human League - Don't You Want Me] Applying tags to the track
+2020-12-04 18:40:04,617 - [INFO] [The Human League - Don't You Want Me] Track download completed
+/home/evan/Music/The Human League - Don't You Want Me.mp3
+2020-12-04 18:40:04,626 - [INFO] [The Offspring - Days Go By] Getting the tags
+2020-12-04 18:40:04,845 - [INFO] [The Offspring - Days Go By] Getting album infos
+2020-12-04 18:40:04,964 - [INFO] [The Offspring - Days Go By] Getting more album infos
+2020-12-04 18:40:05,305 - [INFO] [The Offspring - Days Go By] Getting artist picture fallback
+2020-12-04 18:40:05,451 - [INFO] [The Human League - Mirror Man] Applying tags to the track
+2020-12-04 18:40:05,460 - [INFO] [The Human League - Mirror Man] Track download completed
+/home/evan/Music/The Human League - Mirror Man.mp3
+2020-12-04 18:40:05,460 - [INFO] [The Police - Can't Stand Losing You] Getting the tags
+2020-12-04 18:40:05,500 - [INFO] [The Offspring - Days Go By] Getting extra track infos
+2020-12-04 18:40:05,627 - [INFO] [The Knack - My Sharona] Applying tags to the track
+2020-12-04 18:40:05,637 - [INFO] [The Knack - My Sharona] Track download completed
+/home/evan/Music/The Knack - My Sharona.mp3
+2020-12-04 18:40:05,642 - [INFO] [The Police - Can't Stand Losing You] Getting lyrics
+2020-12-04 18:40:05,645 - [INFO] [The Police - Don't Stand So Close To Me] Getting the tags
+2020-12-04 18:40:05,816 - [INFO] [The Police - Don't Stand So Close To Me] Getting lyrics
+2020-12-04 18:40:05,976 - [INFO] [The Police - Can't Stand Losing You] Getting album infos
+2020-12-04 18:40:06,121 - [INFO] [The Police - Don't Stand So Close To Me] Getting album infos
+2020-12-04 18:40:06,127 - [INFO] [The Offspring - Days Go By] Fallback to lower bitrate
+2020-12-04 18:40:06,128 - [INFO] [The Offspring - Days Go By] Getting the album cover
+2020-12-04 18:40:06,144 - [INFO] [The Police - Can't Stand Losing You] Getting extra track infos
+2020-12-04 18:40:06,249 - [INFO] [The Police - Don't Stand So Close To Me] Getting extra track infos
+2020-12-04 18:40:06,280 - [INFO] [The Police - Can't Stand Losing You] Getting more album infos
+2020-12-04 18:40:06,366 - [INFO] [The Police - Don't Stand So Close To Me] Getting more album infos
+2020-12-04 18:40:06,397 - [INFO] [The Offspring - Days Go By] Downloading the track
+2020-12-04 18:40:06,812 - [WARNING] [The Offspring - Days Go By] Track not available, using fallback id
+2020-12-04 18:40:07,031 - [INFO] [The Police - Can't Stand Losing You] Getting the album cover
+2020-12-04 18:40:07,131 - [INFO] [The Police - Can't Stand Losing You] Downloading the track
+2020-12-04 18:40:07,246 - [INFO] [The Police - Can't Stand Losing You] downloading 7146056 bytes
+2020-12-04 18:40:08,933 - [INFO] [The Offspring - Days Go By] Getting the album cover
+2020-12-04 18:40:08,934 - [INFO] [The Offspring - Days Go By] Downloading the track
+2020-12-04 18:40:09,146 - [INFO] [The Offspring - Days Go By] downloading 9673664 bytes
+2020-12-04 18:40:10,446 - [INFO] [The Offspring - Days Go By] Applying tags to the track
+2020-12-04 18:40:10,454 - [INFO] [The Offspring - Days Go By] Track download completed
+/home/evan/Music/The Offspring - Days Go By.mp3
+2020-12-04 18:40:10,455 - [INFO] [The Police - Every Breath You Take] Getting the tags
+2020-12-04 18:40:11,330 - [INFO] [The Police - Don't Stand So Close To Me] Getting the album cover
+2020-12-04 18:40:11,428 - [INFO] [The Police - Don't Stand So Close To Me] Downloading the track
+2020-12-04 18:40:11,493 - [INFO] [The Police - Every Breath You Take] Getting lyrics
+2020-12-04 18:40:11,721 - [INFO] [The Police - Don't Stand So Close To Me] downloading 9709191 bytes
+2020-12-04 18:40:11,803 - [INFO] [The Police - Every Breath You Take] Getting album infos
+2020-12-04 18:40:12,001 - [INFO] [The Police - Every Breath You Take] Getting extra track infos
+2020-12-04 18:40:12,145 - [INFO] [The Police - Every Breath You Take] Getting more album infos
+2020-12-04 18:40:12,646 - [INFO] [The Police - Every Breath You Take] Getting the album cover
+2020-12-04 18:40:12,748 - [INFO] [The Police - Every Breath You Take] Downloading the track
+2020-12-04 18:40:12,864 - [INFO] [The Police - Every Breath You Take] downloading 10171035 bytes
+2020-12-04 18:40:13,194 - [INFO] [The Police - Don't Stand So Close To Me] Applying tags to the track
+2020-12-04 18:40:13,201 - [INFO] [The Police - Don't Stand So Close To Me] Track download completed
+/home/evan/Music/The Police - Don't Stand So Close To Me.mp3
+2020-12-04 18:40:13,207 - [INFO] [The Police - Roxanne] Getting the tags
+2020-12-04 18:40:13,391 - [INFO] [The Police - Can't Stand Losing You] Applying tags to the track
+2020-12-04 18:40:13,398 - [INFO] [The Police - Can't Stand Losing You] Track download completed
+/home/evan/Music/The Police - Can't Stand Losing You.mp3
+2020-12-04 18:40:13,403 - [INFO] [The Police - So Lonely] Getting the tags
+2020-12-04 18:40:13,441 - [INFO] [The Police - Roxanne] Getting lyrics
+2020-12-04 18:40:13,585 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting lyrics
+2020-12-04 18:40:13,744 - [INFO] [The Police - Roxanne] Getting album infos
+2020-12-04 18:40:13,888 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting album infos
+2020-12-04 18:40:13,965 - [INFO] [The Police - Roxanne] Getting extra track infos
+2020-12-04 18:40:14,058 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting more album infos
+2020-12-04 18:40:14,097 - [INFO] [The Police - Roxanne] Getting more album infos
+2020-12-04 18:40:14,338 - [INFO] [The Police - Every Breath You Take] Applying tags to the track
+2020-12-04 18:40:14,349 - [INFO] [The Police - Every Breath You Take] Track download completed
+/home/evan/Music/The Police - Every Breath You Take.mp3
+2020-12-04 18:40:14,350 - [INFO] [The Turtles - Happy Together] Getting the tags
+2020-12-04 18:40:14,360 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting artist picture fallback
+2020-12-04 18:40:14,491 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting extra track infos
+2020-12-04 18:40:14,649 - [INFO] [The Turtles - Happy Together] Getting lyrics
+2020-12-04 18:40:14,894 - [INFO] [The Police - Roxanne] Getting the album cover
+2020-12-04 18:40:14,894 - [INFO] [The Police - Roxanne] Downloading the track
+2020-12-04 18:40:14,980 - [INFO] [The Turtles - Happy Together] Getting album infos
+2020-12-04 18:40:15,012 - [INFO] [The Police - Roxanne] downloading 7643427 bytes
+2020-12-04 18:40:15,133 - [INFO] [The Turtles - Happy Together] Getting extra track infos
+2020-12-04 18:40:15,138 - [INFO] [The Police - So Lonely (Remastered 2003)] Fallback to lower bitrate
+2020-12-04 18:40:15,139 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting the album cover
+2020-12-04 18:40:15,253 - [INFO] [The Turtles - Happy Together] Getting more album infos
+2020-12-04 18:40:15,367 - [INFO] [The Police - So Lonely (Remastered 2003)] Downloading the track
+2020-12-04 18:40:15,581 - [WARNING] [The Police - So Lonely (Remastered 2003)] Track not available, using fallback id
+2020-12-04 18:40:16,050 - [INFO] [The Turtles - Happy Together] Getting the album cover
+2020-12-04 18:40:16,168 - [INFO] [The Turtles - Happy Together] Downloading the track
+2020-12-04 18:40:16,261 - [INFO] [The Police - Roxanne] Applying tags to the track
+2020-12-04 18:40:16,267 - [INFO] [The Police - Roxanne] Track download completed
+/home/evan/Music/The Police - Roxanne.mp3
+2020-12-04 18:40:16,267 - [INFO] [The Vapors - Turning Japanese] Getting the tags
+2020-12-04 18:40:16,350 - [INFO] [The Turtles - Happy Together] downloading 7054105 bytes
+2020-12-04 18:40:16,446 - [INFO] [The Vapors - Turning Japanese] Getting lyrics
+2020-12-04 18:40:16,626 - [INFO] [The Police - So Lonely (Remastered 2003)] Getting the album cover
+2020-12-04 18:40:16,628 - [INFO] [The Police - So Lonely (Remastered 2003)] Downloading the track
+2020-12-04 18:40:16,759 - [INFO] [The Vapors - Turning Japanese] Getting album infos
+2020-12-04 18:40:16,817 - [INFO] [The Police - So Lonely (Remastered 2003)] downloading 11518954 bytes
+2020-12-04 18:40:16,915 - [INFO] [The Vapors - Turning Japanese] Getting extra track infos
+2020-12-04 18:40:17,052 - [INFO] [The Vapors - Turning Japanese] Getting more album infos
+2020-12-04 18:40:17,651 - [INFO] [The Turtles - Happy Together] Applying tags to the track
+2020-12-04 18:40:17,656 - [INFO] [The Turtles - Happy Together] Track download completed
+/home/evan/Music/The Turtles - Happy Together.mp3
+2020-12-04 18:40:17,657 - [INFO] [The Vines - Get Free] Getting the tags
+2020-12-04 18:40:17,841 - [INFO] [The Vapors - Turning Japanese] Getting the album cover
+2020-12-04 18:40:17,885 - [INFO] [The Vines - Get Free] Getting lyrics
+2020-12-04 18:40:18,197 - [INFO] [The Vines - Get Free] Getting album infos
+2020-12-04 18:40:18,345 - [INFO] [The Vapors - Turning Japanese] Downloading the track
+2020-12-04 18:40:18,421 - [INFO] [The Vines - Get Free] Getting extra track infos
+2020-12-04 18:40:18,463 - [INFO] [The Vapors - Turning Japanese] downloading 9010154 bytes
+2020-12-04 18:40:18,548 - [INFO] [The Vines - Get Free] Getting more album infos
+2020-12-04 18:40:19,062 - [INFO] [The Vines - Get Free] Getting the album cover
+2020-12-04 18:40:19,198 - [INFO] [The Vines - Get Free] Downloading the track
+2020-12-04 18:40:19,320 - [INFO] [The Vines - Get Free] downloading 5065664 bytes
+2020-12-04 18:40:19,925 - [INFO] [The Vapors - Turning Japanese] Applying tags to the track
+2020-12-04 18:40:19,932 - [INFO] [The Vapors - Turning Japanese] Track download completed
+/home/evan/Music/The Vapors - Turning Japanese.mp3
+2020-12-04 18:40:19,938 - [INFO] [The Who - Won't Get Fooled Again] Getting the tags
+2020-12-04 18:40:20,184 - [INFO] [The Who - Won't Get Fooled Again] Getting lyrics
+2020-12-04 18:40:20,241 - [INFO] [The Vines - Get Free] Applying tags to the track
+2020-12-04 18:40:20,248 - [INFO] [The Vines - Get Free] Track download completed
+/home/evan/Music/The Vines - Get Free.mp3
+2020-12-04 18:40:20,249 - [INFO] [Toto - Africa] Getting the tags
+2020-12-04 18:40:20,423 - [INFO] [Toto - Africa] Getting album infos
+2020-12-04 18:40:20,512 - [INFO] [The Who - Won't Get Fooled Again] Getting album infos
+2020-12-04 18:40:20,560 - [INFO] [Toto - Africa] Getting extra track infos
+2020-12-04 18:40:20,684 - [INFO] [The Who - Won't Get Fooled Again] Getting extra track infos
+2020-12-04 18:40:20,734 - [INFO] [Toto - Africa] Getting more album infos
+2020-12-04 18:40:20,814 - [INFO] [The Who - Won't Get Fooled Again] Getting more album infos
+2020-12-04 18:40:21,168 - [INFO] [Toto - Africa] Getting the album cover
+2020-12-04 18:40:21,280 - [INFO] [Toto - Africa] Downloading the track
+2020-12-04 18:40:21,380 - [INFO] [Toto - Africa] downloading 11838693 bytes
+2020-12-04 18:40:21,632 - [INFO] [The Who - Won't Get Fooled Again] Getting the album cover
+2020-12-04 18:40:21,744 - [INFO] [The Who - Won't Get Fooled Again] Downloading the track
+2020-12-04 18:40:21,925 - [INFO] [The Who - Won't Get Fooled Again] downloading 20496717 bytes
+2020-12-04 18:40:26,034 - [INFO] [The Police - So Lonely (Remastered 2003)] Applying tags to the track
+2020-12-04 18:40:26,042 - [INFO] [The Police - So Lonely (Remastered 2003)] Track download completed
+/home/evan/Music/The Police - So Lonely (Remastered 2003).mp3
+2020-12-04 18:40:26,043 - [INFO] [Toto - Gift Of Faith] Getting the tags
+2020-12-04 18:40:26,259 - [INFO] [Toto - Gift Of Faith] Getting lyrics
+2020-12-04 18:40:26,626 - [INFO] [Toto - Gift Of Faith] Getting album infos
+2020-12-04 18:40:26,822 - [INFO] [Toto - Gift Of Faith] Getting extra track infos
+2020-12-04 18:40:26,948 - [INFO] [Toto - Gift Of Faith] Getting more album infos
+2020-12-04 18:40:28,304 - [INFO] [Toto - Gift Of Faith] Getting the album cover
+2020-12-04 18:40:29,683 - [INFO] [Toto - Africa] Applying tags to the track
+2020-12-04 18:40:29,695 - [INFO] [Toto - Africa] Track download completed
+/home/evan/Music/Toto - Africa.mp3
+2020-12-04 18:40:29,698 - [INFO] [Toto - Hold the Line] Getting the tags
+2020-12-04 18:40:29,931 - [INFO] [Toto - Hold the Line] Getting lyrics
+2020-12-04 18:40:30,247 - [INFO] [Toto - Hold the Line] Getting album infos
+2020-12-04 18:40:30,386 - [INFO] [Toto - Hold the Line] Getting extra track infos
+2020-12-04 18:40:30,512 - [INFO] [Toto - Hold the Line] Getting more album infos
+2020-12-04 18:40:31,223 - [INFO] [Toto - Gift Of Faith] Downloading the track
+2020-12-04 18:40:31,276 - [INFO] [Toto - Hold the Line] Getting the album cover
+2020-12-04 18:40:31,390 - [INFO] [Toto - Hold the Line] Downloading the track
+2020-12-04 18:40:31,475 - [INFO] [Toto - Gift Of Faith] downloading 17731917 bytes
+2020-12-04 18:40:31,578 - [INFO] [Toto - Hold the Line] downloading 9424978 bytes
+2020-12-04 18:40:33,146 - [INFO] [Toto - Hold the Line] Applying tags to the track
+2020-12-04 18:40:33,153 - [INFO] [Toto - Hold the Line] Track download completed
+/home/evan/Music/Toto - Hold the Line.mp3
+2020-12-04 18:40:33,155 - [INFO] [Toto - Pamela] Getting the tags
+2020-12-04 18:40:33,422 - [INFO] [Toto - Pamela] Getting lyrics
+2020-12-04 18:40:33,713 - [INFO] [Toto - Pamela] Getting album infos
+2020-12-04 18:40:33,861 - [INFO] [Toto - Pamela] Getting extra track infos
+2020-12-04 18:40:33,985 - [INFO] [Toto - Pamela] Getting more album infos
+2020-12-04 18:40:36,790 - [INFO] [Toto - Pamela] Getting the album cover
+2020-12-04 18:40:36,920 - [INFO] [Toto - Pamela] Downloading the track
+2020-12-04 18:40:37,216 - [INFO] [Toto - Pamela] downloading 12380995 bytes
+2020-12-04 18:40:49,614 - [INFO] [Toto - Gift Of Faith] Applying tags to the track
+2020-12-04 18:40:49,622 - [INFO] [Toto - Gift Of Faith] Track download completed
+/home/evan/Music/Toto - Gift Of Faith.mp3
+2020-12-04 18:40:49,624 - [INFO] [Toto - Rosanna] Getting the tags
+2020-12-04 18:40:49,825 - [INFO] [Toto - Rosanna] Getting lyrics
+2020-12-04 18:40:50,172 - [INFO] [Toto - Rosanna] Getting album infos
+2020-12-04 18:40:50,306 - [INFO] [Toto - Rosanna] Getting extra track infos
+2020-12-04 18:40:50,446 - [INFO] [Toto - Rosanna] Getting more album infos
+2020-12-04 18:40:51,275 - [INFO] [Toto - Rosanna] Getting the album cover
+2020-12-04 18:40:51,277 - [INFO] [Toto - Rosanna] Downloading the track
+2020-12-04 18:40:51,402 - [INFO] [Toto - Rosanna] downloading 13250350 bytes
+2020-12-04 18:40:52,107 - [INFO] [The Who - Won't Get Fooled Again] Applying tags to the track
+2020-12-04 18:40:52,134 - [INFO] [The Who - Won't Get Fooled Again] Track download completed
+/home/evan/Music/The Who - Won't Get Fooled Again.mp3
+2020-12-04 18:40:52,136 - [INFO] [Van Halen - I'll Wait] Getting the tags
+2020-12-04 18:40:52,390 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Getting lyrics
+2020-12-04 18:40:52,716 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Getting album infos
+2020-12-04 18:40:52,852 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Getting extra track infos
+2020-12-04 18:40:53,033 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Getting more album infos
+2020-12-04 18:40:53,847 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Getting the album cover
+2020-12-04 18:40:53,969 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Downloading the track
+2020-12-04 18:40:54,097 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] downloading 11208619 bytes
+2020-12-04 18:40:55,853 - [INFO] [Toto - Pamela] Applying tags to the track
+2020-12-04 18:40:55,864 - [INFO] [Toto - Pamela] Track download completed
+/home/evan/Music/Toto - Pamela.mp3
+2020-12-04 18:40:55,870 - [INFO] [Wang Chung - To Live And Die In L.A.] Getting the tags
+2020-12-04 18:40:55,940 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Applying tags to the track
+2020-12-04 18:40:55,949 - [INFO] [Van Halen - I'll Wait (2015 Remaster)] Track download completed
+/home/evan/Music/Van Halen - I'll Wait (2015 Remaster).mp3
+2020-12-04 18:40:55,952 - [INFO] [Wham! - Everything She Wants] Getting the tags
+2020-12-04 18:40:56,131 - [INFO] [Wang Chung - To Live And Die In L.A.] Getting lyrics
+2020-12-04 18:40:56,140 - [INFO] [Wham! - Everything She Wants] Getting lyrics
+2020-12-04 18:40:56,462 - [INFO] [Wang Chung - To Live And Die In L.A.] Getting album infos
+2020-12-04 18:40:56,476 - [INFO] [Wham! - Everything She Wants] Getting album infos
+2020-12-04 18:40:56,613 - [INFO] [Wang Chung - To Live And Die In L.A.] Getting extra track infos
+2020-12-04 18:40:56,628 - [INFO] [Wham! - Everything She Wants] Getting extra track infos
+2020-12-04 18:40:56,741 - [INFO] [Wang Chung - To Live And Die In L.A.] Getting more album infos
+2020-12-04 18:40:56,765 - [INFO] [Wham! - Everything She Wants] Getting more album infos
+2020-12-04 18:40:57,273 - [INFO] [Wham! - Everything She Wants] Getting the album cover
+2020-12-04 18:40:57,403 - [INFO] [Wham! - Everything She Wants] Downloading the track
+2020-12-04 18:40:57,521 - [INFO] [Wham! - Everything She Wants] downloading 12110366 bytes
+2020-12-04 18:40:57,825 - [INFO] [Wang Chung - To Live And Die In L.A.] Getting the album cover
+2020-12-04 18:40:58,075 - [INFO] [Wang Chung - To Live And Die In L.A.] Downloading the track
+2020-12-04 18:40:58,315 - [INFO] [Wang Chung - To Live And Die In L.A.] downloading 11703935 bytes
+2020-12-04 18:40:59,405 - [INFO] [Wham! - Everything She Wants] Applying tags to the track
+2020-12-04 18:40:59,417 - [INFO] [Wham! - Everything She Wants] Track download completed
+/home/evan/Music/Wham! - Everything She Wants.mp3
+2020-12-04 18:40:59,418 - [INFO] [Wolfmother - Woman] Getting the tags
+2020-12-04 18:40:59,631 - [INFO] [Wolfmother - Woman] Getting lyrics
+2020-12-04 18:40:59,945 - [INFO] [Wolfmother - Woman] Getting album infos
+2020-12-04 18:41:00,124 - [INFO] [Wolfmother - Woman] Getting extra track infos
+2020-12-04 18:41:00,380 - [INFO] [Wolfmother - Woman] Getting more album infos
+2020-12-04 18:41:01,135 - [INFO] [Wolfmother - Woman] Getting the album cover
+2020-12-04 18:41:01,248 - [INFO] [Wolfmother - Woman] Downloading the track
+2020-12-04 18:41:01,379 - [INFO] [Wolfmother - Woman] downloading 7057240 bytes
+2020-12-04 18:41:02,658 - [INFO] [Wolfmother - Woman] Applying tags to the track
+2020-12-04 18:41:02,664 - [INFO] [Wolfmother - Woman] Track download completed
+/home/evan/Music/Wolfmother - Woman.mp3
+2020-12-04 18:41:02,666 - [INFO] [The Guess Who - Undun] Getting the tags
+2020-12-04 18:41:02,908 - [INFO] [The Guess Who - Undun (Remastered)] Getting album infos
+2020-12-04 18:41:03,043 - [INFO] [The Guess Who - Undun (Remastered)] Getting extra track infos
+2020-12-04 18:41:03,174 - [INFO] [The Guess Who - Undun (Remastered)] Getting more album infos
+2020-12-04 18:41:04,423 - [INFO] [The Guess Who - Undun (Remastered)] Getting the album cover
+2020-12-04 18:41:04,538 - [INFO] [The Guess Who - Undun (Remastered)] Downloading the track
+2020-12-04 18:41:04,723 - [INFO] [The Guess Who - Undun (Remastered)] downloading 10316310 bytes
+2020-12-04 18:41:10,263 - [INFO] [Wang Chung - To Live And Die In L.A.] Applying tags to the track
+2020-12-04 18:41:10,297 - [INFO] [Wang Chung - To Live And Die In L.A.] Track download completed
+/home/evan/Music/Wang Chung - To Live And Die In L.A.mp3
+2020-12-04 18:41:10,303 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Getting the tags
+2020-12-04 18:41:10,536 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Getting lyrics
+2020-12-04 18:41:10,892 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Getting album infos
+2020-12-04 18:41:11,050 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Getting extra track infos
+2020-12-04 18:41:11,175 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Getting more album infos
+2020-12-04 18:41:11,751 - [INFO] [Toto - Rosanna] Applying tags to the track
+2020-12-04 18:41:11,758 - [INFO] [Toto - Rosanna] Track download completed
+/home/evan/Music/Toto - Rosanna.mp3
+2020-12-04 18:41:11,758 - [INFO] [Tears for Fears - Shout] Getting the tags
+2020-12-04 18:41:11,974 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Getting the album cover
+2020-12-04 18:41:11,990 - [INFO] [Tears for Fears - Shout] Getting lyrics
+2020-12-04 18:41:12,179 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Downloading the track
+2020-12-04 18:41:12,321 - [INFO] [Tears for Fears - Shout] Getting album infos
+2020-12-04 18:41:12,360 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] downloading 11732113 bytes
+2020-12-04 18:41:12,458 - [INFO] [Tears for Fears - Shout] Getting more album infos
+2020-12-04 18:41:12,769 - [INFO] [Tears for Fears - Shout] Getting artist picture fallback
+2020-12-04 18:41:12,899 - [INFO] [Tears for Fears - Shout] Getting extra track infos
+2020-12-04 18:41:13,523 - [INFO] [Tears for Fears - Shout] Fallback to lower bitrate
+2020-12-04 18:41:13,524 - [INFO] [Tears for Fears - Shout] Getting the album cover
+2020-12-04 18:41:13,817 - [INFO] [Tears for Fears - Shout] Downloading the track
+2020-12-04 18:41:14,240 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Applying tags to the track
+2020-12-04 18:41:14,250 - [INFO] [The Guess Who - No Sugar Tonight / New Mother Nature] Track download completed
+/home/evan/Music/The Guess Who - No Sugar Tonight _ New Mother Nature.mp3
+2020-12-04 18:41:14,252 - [WARNING] [Tears for Fears - Shout] Track not available, using fallback id
+2020-12-04 18:41:16,104 - [INFO] [Tears for Fears - Shout] Getting the album cover
+2020-12-04 18:41:16,105 - [INFO] [Tears for Fears - Shout] Downloading the track
+2020-12-04 18:41:16,286 - [INFO] [Tears for Fears - Shout] downloading 15710040 bytes
+2020-12-04 18:41:31,178 - [INFO] [Tears for Fears - Shout] Applying tags to the track
+2020-12-04 18:41:31,187 - [INFO] [Tears for Fears - Shout] Track download completed
+/home/evan/Music/Tears for Fears - Shout.mp3
+2020-12-04 18:41:50,354 - [INFO] [The Guess Who - Undun (Remastered)] Applying tags to the track
+2020-12-04 18:41:50,373 - [INFO] [The Guess Who - Undun (Remastered)] Track download completed
+/home/evan/Music/The Guess Who - Undun (Remastered).mp3
+2020-12-04 18:41:50,600 - [INFO] [playlist_8443425602_3] Finished downloading.

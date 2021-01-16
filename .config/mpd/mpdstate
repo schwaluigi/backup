@@ -1,0 +1,151 @@
+sw_volume: 80
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 27
+time: 146.604000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:a-ha - Take on Me.mp3
+1:AC_DC - You Shook Me All Night Long.mp3
+2:Ace Frehley - New York Groove.mp3
+3:Annie Lennox - Walking on Broken Glass.mp3
+4:Bananarama - Venus.mp3
+5:Bangles - Manic Monday.mp3
+6:Biffy Clyro - Bubbles.mp3
+7:Billy Joel - Piano Man.mp3
+8:Bloc Party - Banquet.mp3
+9:Blondie - Call Me.mp3
+10:Blondie - Heart Of Glass.mp3
+11:Blondie - I'm On E.mp3
+12:Bon Jovi - You Give Love A Bad Name.mp3
+13:Chris Cornell - You Know My Name.mp3
+14:Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3
+15:Daryl Hall & John Oates - Maneater.mp3
+16:Daryl Hall & John Oates - Out of Touch (Single Version).mp3
+17:Daryl Hall & John Oates - Private Eyes.mp3
+18:Daryl Hall & John Oates - You Make My Dreams (Come True).mp3
+19:Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3
+20:Depeche Mode - Enjoy the Silence.mp3
+21:Depeche Mode - Just Can't Get Enough.mp3
+22:Depeche Mode - Strangelove.mp3
+23:Devo - Gates of Steel.mp3
+24:Devo - Girl U Want (2009 Remaster).mp3
+25:Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3
+26:Devo - Time out for Fun.mp3
+27:Devo - Whip It.mp3
+28:Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3
+29:Duran Duran - Rio (2009 Remaster).mp3
+30:Electric Light Orchestra - Mr. Blue Sky.mp3
+31:Erasure - A Little Respect.mp3
+32:Eurythmics - Here Comes the Rain Again (Remastered Version).mp3
+33:Fine Young Cannibals - Good Thing.mp3
+34:Foo Fighters - Big Me.mp3
+35:Foo Fighters - Breakout.mp3
+36:Foo Fighters - Congregation.mp3
+37:Foo Fighters - DOA.mp3
+38:Foo Fighters - Generator.mp3
+39:Foo Fighters - I'll Stick Around.mp3
+40:Foo Fighters - Long Road To Ruin.mp3
+41:Foo Fighters - Rope.mp3
+42:Foster the People - Pumped Up Kicks.mp3
+43:Frankie Goes to Hollywood - Relax.mp3
+44:Gary Numan - Cars.mp3
+45:Guns N' Roses - Sweet Child O' Mine.mp3
+46:Heart - Barracuda.mp3
+47:Huey Lewis & The News - Doing It All For My Baby.mp3
+48:Incubus - Megalomaniac.mp3
+49:INXS - New Sensation.mp3
+50:Joe Jackson - Steppin' Out.mp3
+51:John Mellencamp - Hurts So Good.mp3
+52:Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3
+53:Kaiser Chiefs - I Predict A Riot.mp3
+54:Kaiser Chiefs - Never Miss A Beat.mp3
+55:Kings of Leon - Molly's Chambers.mp3
+56:Kings of Leon - The Bucket.mp3
+57:KISS - I Was Made For Lovin' You.mp3
+58:Lindsey Buckingham - Go Insane.mp3
+59:Loverboy - Turn Me Loose.mp3
+60:Madness - Our House.mp3
+61:Martha and the Muffins - Echo Beach.mp3
+62:Missing Persons - Mental Hopscotch.mp3
+63:Naked Eyes - Promises, Promises (Single Edit).mp3
+64:New Order - Blue Monday (2016 Remaster).mp3
+65:Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3
+66:Pat Benatar - Hit Me With Your Best Shot.mp3
+67:Pet Shop Boys - Always on My Mind (2003 Remaster).mp3
+68:Pet Shop Boys - West End Girls (2001 Remaster).mp3
+69:Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3
+70:Pink Floyd - Have a Cigar.mp3
+71:Queen - Another One Bites The Dust.mp3
+72:Queen - Don't Stop Me Now.mp3
+73:Queen - Somebody To Love.mp3
+74:Queen - We Will Rock You.mp3
+75:Queen - Under Pressure.mp3
+76:Queens of the Stone Age - 3's & 7's.mp3
+77:Radiohead - Creep.mp3
+78:Radiohead - High and Dry.mp3
+79:Radiohead - Weird Fishes_ Arpeggi.mp3
+80:Rick Springfield - Jessie's Girl.mp3
+81:Rise Against - Re-Education (Through Labor).mp3
+82:Simple Minds - Don't You (Forget About Me).mp3
+83:Soft Cell - Tainted Love.mp3
+84:Steely Dan - My Old School.mp3
+85:Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3
+86:Styx - Mr. Roboto.mp3
+87:Talk Talk - It's My Life (1997 Remaster).mp3
+88:Talking Heads - Burning Down the House.mp3
+89:Talking Heads - Psycho Killer (2005 Remaster).mp3
+90:Tears for Fears - Everybody Wants To Rule The World.mp3
+91:Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3
+92:Tears for Fears - Mad World.mp3
+93:Tears for Fears - Shout.mp3
+94:Tears for Fears - Sowing The Seeds Of Love.mp3
+95:The B-52's - Love Shack.mp3
+96:The Bangles - Walk Like an Egyptian.mp3
+97:The Black Crowes - Remedy.mp3
+98:The Buggles - Video Killed The Radio Star.mp3
+99:The Cars - Drive.mp3
+100:The Cars - Just What I Needed.mp3
+101:The Cars - Moving in Stereo.mp3
+102:The Cars - My Best Friend's Girl.mp3
+103:The Cars - You Might Think.mp3
+104:The Clash - Should I Stay or Should I Go (Remastered).mp3
+105:The Cult - She Sells Sanctuary.mp3
+106:The Cure - Boys Don't Cry (Single Version).mp3
+107:The Cure - Friday I'm in Love.mp3
+108:The Cure - Just like Heaven.mp3
+109:The Guess Who - No Sugar Tonight _ New Mother Nature.mp3
+110:The Guess Who - Undun (Remastered).mp3
+111:The Hives - Hate To Say I Told You So.mp3
+112:The Hives - Tick Tick Boom.mp3
+113:The Hives - Walk Idiot Walk Album Version.mp3
+114:The Human League - Don't You Want Me.mp3
+115:The Human League - Mirror Man.mp3
+116:The Knack - My Sharona.mp3
+117:The Offspring - Days Go By.mp3
+118:The Police - Can't Stand Losing You.mp3
+119:The Police - Don't Stand So Close To Me.mp3
+120:The Police - Every Breath You Take.mp3
+121:The Police - Roxanne.mp3
+122:The Police - So Lonely (Remastered 2003).mp3
+123:The Turtles - Happy Together.mp3
+124:The Vapors - Turning Japanese.mp3
+125:The Vines - Get Free.mp3
+126:The Who - Won't Get Fooled Again.mp3
+127:Toto - Africa.mp3
+128:Toto - Gift Of Faith.mp3
+129:Toto - Hold the Line.mp3
+130:Toto - Pamela.mp3
+131:Toto - Rosanna.mp3
+132:Van Halen - I'll Wait (2015 Remaster).mp3
+133:Wang Chung - To Live And Die In L.A.mp3
+134:Wham! - Everything She Wants.mp3
+135:Wolfmother - Woman.mp3
+playlist_end

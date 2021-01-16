@@ -1,0 +1,2270 @@
+Dec 01 23:04 : exception: Failed to open '/home/evan/.config/mpd/mpdstate': No such file or directory
+Dec 01 23:04 : update: added AC-DC/Who Made Who/You Shook Me All Night Long.mp3
+Dec 01 23:04 : update: added a-ha/The Greatest 80's Hits/Take On Me.mp3
+Dec 01 23:04 : update: added Ace Frehley/Kiss - Best Of Solo Albums/New York Groove.mp3
+Dec 01 23:14 : update: removing AC-DC/Who Made Who/You Shook Me All Night Long.mp3
+Dec 01 23:14 : update: added AC-DC/Who Made Who/Annie#Lennox#-#Walking#on#Broken#Glass#(Official#Video).mp3_new.mp3
+Dec 01 23:14 : update: added Bananarama/World of Dance: New Wave the 80's/Venus.mp3
+Dec 01 23:14 : update: added Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3
+Dec 01 23:14 : update: updating a-ha/The Greatest 80's Hits/Take On Me.mp3
+Dec 01 23:14 : update: updating Ace Frehley/Kiss - Best Of Solo Albums/New York Groove.mp3
+Dec 01 23:45 : player: played "Bananarama/World of Dance: New Wave the 80's/Venus.mp3"
+Dec 01 23:46 : exception: Failed to decode /home/evan/Music/AC-DC/Who Made Who/Annie#Lennox#-#Walking#on#Broken#Glass#(Official#Video).mp3_new.mp3; Failed to open '/home/evan/Music/AC-DC/Who Made Who/Annie#Lennox#-#Walking#on#Broken#Glass#(Official#Video).mp3_new.mp3': No such file or directory
+Dec 01 23:46 : player: played "AC-DC/Who Made Who/Annie#Lennox#-#Walking#on#Broken#Glass#(Official#Video).mp3_new.mp3"
+Dec 01 23:47 : update: added Chiptune Punks/Bitpop Hits, Vol. 8/Banquet (8-Bit Computer Game Cover Version of Bloc Party).mp3
+Dec 01 23:47 : update: removing AC-DC/Who Made Who/Annie#Lennox#-#Walking#on#Broken#Glass#(Official#Video).mp3_new.mp3
+Dec 01 23:47 : update: added AC-DC/Who Made Who/You Shook Me All Night Long.mp3
+Dec 01 23:47 : update: updating Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3
+Dec 01 23:47 : update: updating a-ha/The Greatest 80's Hits/Take On Me.mp3
+Dec 01 23:47 : update: updating Ace Frehley/Kiss - Best Of Solo Albums/New York Groove.mp3
+Dec 02 00:00 : player: played "Chiptune Punks/Bitpop Hits, Vol. 8/Banquet (8-Bit Computer Game Cover Version of Bloc Party).mp3"
+Dec 02 00:02 : update: removing Chiptune Punks/Bitpop Hits, Vol. 8/Banquet (8-Bit Computer Game Cover Version of Bloc Party).mp3
+Dec 04 12:09 : player: played "Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3"
+Dec 04 13:07 : player: played "Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3"
+Dec 04 14:09 : player: played "Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3"
+Dec 04 14:09 : exception: Failed to decode /home/evan/Music/Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3; Failed to open '/home/evan/Music/Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3': No such file or directory
+Dec 04 14:09 : player: played "Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3"
+Dec 04 17:25 : update: removing AC-DC/Who Made Who/You Shook Me All Night Long.mp3
+Dec 04 17:25 : update: removing a-ha/The Greatest 80's Hits/Take On Me.mp3
+Dec 04 17:25 : update: added deemix Music/Tears for Fears - Shout.mp3
+Dec 04 17:25 : update: removing Bananarama/World of Dance: New Wave the 80's/Venus.mp3
+Dec 04 17:25 : update: removing Backing Tracks Minus Vocals/Hits of the 90's Girls Vol 200 (Backing Tracks Minus Vocals)/Walking On Broken Glass [In the style of] Annie Lennox.mp3
+Dec 04 17:25 : update: removing Ace Frehley/Kiss - Best Of Solo Albums/New York Groove.mp3
+Dec 04 17:42 : update: removing deemix Music/Tears for Fears - Shout.mp3
+Dec 04 17:42 : update: added deemix Music/songs/010 - Blondie - I'm On E.mp3
+Dec 04 17:42 : update: added deemix Music/songs/117 - The Police - Every Breath You Take.mp3
+Dec 04 17:42 : update: added deemix Music/songs/064 - Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3
+Dec 04 17:42 : update: added deemix Music/songs/004 - Annie Lennox - Walking on Broken Glass.mp3
+Dec 04 17:42 : update: added deemix Music/songs/002 - Ace Frehley - New York Groove.mp3
+Dec 04 17:42 : update: added deemix Music/songs/111 - The Human League - Don't You Want Me.mp3
+Dec 04 17:42 : update: added deemix Music/songs/001 - AC_DC - You Shook Me All Night Long.mp3
+Dec 04 17:42 : update: added deemix Music/songs/065 - Pat Benatar - Hit Me With Your Best Shot.mp3
+Dec 04 17:42 : update: added deemix Music/songs/061 - Missing Persons - Mental Hopscotch.mp3
+Dec 04 17:42 : update: added deemix Music/songs/038 - Foo Fighters - I'll Stick Around.mp3
+Dec 04 17:42 : update: added deemix Music/songs/048 - INXS - New Sensation.mp3
+Dec 04 17:42 : update: added deemix Music/songs/059 - Madness - Our House.mp3
+Dec 04 17:42 : update: added deemix Music/songs/106 - The Cure - Friday I'm in Love.mp3
+Dec 04 17:42 : update: added deemix Music/songs/007 - Bloc Party - Banquet.mp3
+Dec 04 17:42 : update: added deemix Music/songs/124 - The Who - Won't Get Fooled Again.mp3
+Dec 04 17:42 : update: added deemix Music/songs/113 - The Knack - My Sharona.mp3
+Dec 04 17:42 : update: added deemix Music/songs/115 - The Police - Can't Stand Losing You.mp3
+Dec 04 17:42 : update: added deemix Music/songs/022 - Devo - Gates of Steel.mp3
+Dec 04 17:42 : update: added deemix Music/songs/112 - The Human League - Mirror Man.mp3
+Dec 04 17:42 : update: added deemix Music/songs/014 - Daryl Hall & John Oates - Maneater.mp3
+Dec 04 17:42 : update: added deemix Music/songs/046 - Huey Lewis & The News - Doing It All For My Baby.mp3
+Dec 04 17:42 : update: added deemix Music/songs/101 - The Cars - My Best Friend's Girl.mp3
+Dec 04 17:42 : update: added deemix Music/songs/133 - Wolfmother - Woman.mp3
+Dec 04 17:42 : update: added deemix Music/songs/020 - Depeche Mode - Just Can't Get Enough.mp3
+Dec 04 17:42 : update: added deemix Music/songs/056 - KISS - I Was Made For Lovin' You.mp3
+Dec 04 17:42 : update: added deemix Music/songs/012 - Chris Cornell - You Know My Name.mp3
+Dec 04 17:42 : update: added deemix Music/songs/080 - Rise Against - Re-Education (Through Labor).mp3
+Dec 04 17:42 : update: added deemix Music/songs/008 - Blondie - Call Me.mp3
+Dec 04 17:42 : update: added deemix Music/songs/039 - Foo Fighters - Long Road To Ruin.mp3
+Dec 04 17:42 : update: added deemix Music/songs/049 - Joe Jackson - Steppin' Out.mp3
+Dec 04 17:42 : update: added deemix Music/songs/108 - The Hives - Hate To Say I Told You So.mp3
+Dec 04 17:42 : update: added deemix Music/songs/017 - Daryl Hall & John Oates - You Make My Dreams (Come True).mp3
+Dec 04 17:42 : update: added deemix Music/songs/105 - The Cure - Boys Don't Cry (Single Version).mp3
+Dec 04 17:42 : update: added deemix Music/songs/042 - Frankie Goes to Hollywood - Relax.mp3
+Dec 04 17:42 : update: added deemix Music/songs/102 - The Cars - You Might Think.mp3
+Dec 04 17:42 : update: added deemix Music/songs/119 - The Police - Roxanne.mp3
+Dec 04 17:42 : update: added deemix Music/songs/053 - Kaiser Chiefs - Never Miss A Beat.mp3
+Dec 04 17:42 : update: added deemix Music/songs/057 - Lindsey Buckingham - Go Insane.mp3
+Dec 04 17:42 : update: added deemix Music/songs/078 - Radiohead - Weird Fishes_ Arpeggi.mp3
+Dec 04 17:42 : update: added deemix Music/songs/019 - Depeche Mode - Enjoy the Silence.mp3
+Dec 04 17:42 : update: added deemix Music/songs/085 - Styx - Mr. Roboto.mp3
+Dec 04 17:42 : update: added deemix Music/songs/063 - New Order - Blue Monday (2016 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/083 - Steely Dan - My Old School.mp3
+Dec 04 17:42 : update: added deemix Music/songs/009 - Blondie - Heart Of Glass.mp3
+Dec 04 17:42 : update: added deemix Music/songs/116 - The Police - Don't Stand So Close To Me.mp3
+Dec 04 17:42 : update: added deemix Music/songs/041 - Foster the People - Pumped Up Kicks.mp3
+Dec 04 17:42 : update: added deemix Music/songs/090 - Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3
+Dec 04 17:42 : update: added deemix Music/songs/032 - Fine Young Cannibals - Good Thing.mp3
+Dec 04 17:42 : update: added deemix Music/songs/043 - Gary Numan - Cars.mp3
+Dec 04 17:42 : update: added deemix Music/songs/127 - Toto - Hold the Line.mp3
+Dec 04 17:42 : update: added deemix Music/songs/087 - Talking Heads - Psycho Killer (2005 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/044 - Guns N' Roses - Sweet Child O' Mine.mp3
+Dec 04 17:42 : update: added deemix Music/songs/114 - The Offspring - Days Go By.mp3
+Dec 04 17:42 : update: added deemix Music/songs/089 - Tears for Fears - Everybody Wants To Rule The World.mp3
+Dec 04 17:42 : update: added deemix Music/songs/047 - Incubus - Megalomaniac.mp3
+Dec 04 17:42 : update: added deemix Music/songs/098 - The Cars - Drive.mp3
+Dec 04 17:42 : update: added deemix Music/songs/107 - The Cure - Just like Heaven.mp3
+Dec 04 17:42 : update: added deemix Music/songs/028 - Duran Duran - Rio (2009 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/051 - Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/077 - Radiohead - High and Dry.mp3
+Dec 04 17:42 : update: added deemix Music/songs/011 - Bon Jovi - You Give Love A Bad Name.mp3
+Dec 04 17:42 : update: added deemix Music/songs/070 - Queen - Another One Bites The Dust.mp3
+Dec 04 17:42 : update: added deemix Music/songs/129 - Toto - Rosanna.mp3
+Dec 04 17:42 : update: added deemix Music/songs/003 - a-ha - Take on Me.mp3
+Dec 04 17:42 : update: added deemix Music/songs/035 - Foo Fighters - Congregation.mp3
+Dec 04 17:42 : update: added deemix Music/songs/073 - Queen - Under Pressure.mp3
+Dec 04 17:42 : update: added deemix Music/songs/066 - Pet Shop Boys - Always on My Mind (2003 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/131 - Wang Chung - To Live And Die In L.A.mp3
+Dec 04 17:42 : update: added deemix Music/songs/072 - Queen - Somebody To Love.mp3
+Dec 04 17:42 : update: added deemix Music/songs/030 - Erasure - A Little Respect.mp3
+Dec 04 17:42 : update: added deemix Music/songs/082 - Soft Cell - Tainted Love.mp3
+Dec 04 17:42 : update: added deemix Music/songs/052 - Kaiser Chiefs - I Predict A Riot.mp3
+Dec 04 17:42 : update: added deemix Music/songs/025 - Devo - Time out for Fun.mp3
+Dec 04 17:42 : update: added deemix Music/songs/126 - Toto - Gift Of Faith.mp3
+Dec 04 17:42 : update: added deemix Music/songs/121 - The Turtles - Happy Together.mp3
+Dec 04 17:42 : update: added deemix Music/songs/093 - The B-52's - Love Shack.mp3
+Dec 04 17:42 : update: added deemix Music/songs/006 - Biffy Clyro - Bubbles.mp3
+Dec 04 17:42 : update: added deemix Music/songs/086 - Talking Heads - Burning Down the House.mp3
+Dec 04 17:42 : update: added deemix Music/songs/058 - Loverboy - Turn Me Loose.mp3
+Dec 04 17:42 : update: added deemix Music/songs/136 - Tears for Fears - Shout.mp3
+Dec 04 17:42 : update: added deemix Music/songs/069 - Pink Floyd - Have a Cigar.mp3
+Dec 04 17:42 : update: added deemix Music/songs/060 - Martha and the Muffins - Echo Beach.mp3
+Dec 04 17:42 : update: added deemix Music/songs/005 - Bananarama - Venus.mp3
+Dec 04 17:42 : update: added deemix Music/songs/081 - Simple Minds - Don't You (Forget About Me).mp3
+Dec 04 17:42 : update: added deemix Music/songs/013 - Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3
+Dec 04 17:42 : update: added deemix Music/songs/088 - Talk Talk - It's My Life (1997 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/029 - Electric Light Orchestra - Mr. Blue Sky.mp3
+Dec 04 17:42 : update: added deemix Music/songs/075 - Queens of the Stone Age - 3's & 7's.mp3
+Dec 04 17:42 : update: added deemix Music/songs/037 - Foo Fighters - Generator.mp3
+Dec 04 17:42 : update: added deemix Music/songs/024 - Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/122 - The Vapors - Turning Japanese.mp3
+Dec 04 17:42 : update: added deemix Music/songs/132 - Wham! - Everything She Wants.mp3
+Dec 04 17:42 : update: added deemix Music/songs/034 - Foo Fighters - Breakout.mp3
+Dec 04 17:42 : update: added deemix Music/songs/135 - The Guess Who - No Sugar Tonight _ New Mother Nature.mp3
+Dec 04 17:42 : update: added deemix Music/songs/021 - Depeche Mode - Strangelove.mp3
+Dec 04 17:42 : update: added deemix Music/songs/026 - Devo - Whip It.mp3
+Dec 04 17:42 : update: added deemix Music/songs/076 - Radiohead - Creep.mp3
+Dec 04 17:42 : update: added deemix Music/songs/109 - The Hives - Tick Tick Boom.mp3
+Dec 04 17:42 : update: added deemix Music/songs/045 - Heart - Barracuda.mp3
+Dec 04 17:42 : update: added deemix Music/songs/071 - Queen - Don't Stop Me Now.mp3
+Dec 04 17:42 : update: added deemix Music/songs/084 - Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/079 - Rick Springfield - Jessie's Girl.mp3
+Dec 04 17:42 : update: added deemix Music/songs/023 - Devo - Girl U Want (2009 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/031 - Eurythmics - Here Comes the Rain Again (Remastered Version).mp3
+Dec 04 17:42 : update: added deemix Music/songs/125 - Toto - Africa.mp3
+Dec 04 17:42 : update: added deemix Music/songs/110 - The Hives - Walk Idiot Walk Album Version.mp3
+Dec 04 17:42 : update: added deemix Music/songs/128 - Toto - Pamela.mp3
+Dec 04 17:42 : update: added deemix Music/songs/104 - The Cult - She Sells Sanctuary.mp3
+Dec 04 17:42 : update: added deemix Music/songs/096 - The Black Crowes - Remedy.mp3
+Dec 04 17:42 : update: added deemix Music/songs/103 - The Clash - Should I Stay or Should I Go (Remastered).mp3
+Dec 04 17:42 : update: added deemix Music/songs/095 - The Bangles - Walk Like an Egyptian.mp3
+Dec 04 17:42 : update: added deemix Music/songs/055 - Kings of Leon - The Bucket.mp3
+Dec 04 17:42 : update: added deemix Music/songs/036 - Foo Fighters - DOA.mp3
+Dec 04 17:42 : update: added deemix Music/songs/100 - The Cars - Moving in Stereo.mp3
+Dec 04 17:42 : update: added deemix Music/songs/050 - John Mellencamp - Hurts So Good.mp3
+Dec 04 17:42 : update: added deemix Music/songs/018 - Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3
+Dec 04 17:42 : update: added deemix Music/songs/092 - Tears for Fears - Sowing The Seeds Of Love.mp3
+Dec 04 17:42 : update: added deemix Music/songs/097 - The Buggles - Video Killed The Radio Star.mp3
+Dec 04 17:42 : update: added deemix Music/songs/067 - Pet Shop Boys - West End Girls (2001 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/120 - The Police - So Lonely (Remastered 2003).mp3
+Dec 04 17:42 : update: added deemix Music/songs/015 - Daryl Hall & John Oates - Out of Touch (Single Version).mp3
+Dec 04 17:42 : update: added deemix Music/songs/130 - Van Halen - I'll Wait (2015 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/134 - The Guess Who - Undun (Remastered).mp3
+Dec 04 17:42 : update: added deemix Music/songs/062 - Naked Eyes - Promises, Promises (Single Edit).mp3
+Dec 04 17:42 : update: added deemix Music/songs/123 - The Vines - Get Free.mp3
+Dec 04 17:42 : update: added deemix Music/songs/033 - Foo Fighters - Big Me.mp3
+Dec 04 17:42 : update: added deemix Music/songs/040 - Foo Fighters - Rope.mp3
+Dec 04 17:42 : update: added deemix Music/songs/099 - The Cars - Just What I Needed.mp3
+Dec 04 17:42 : update: added deemix Music/songs/016 - Daryl Hall & John Oates - Private Eyes.mp3
+Dec 04 17:42 : update: added deemix Music/songs/068 - Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3
+Dec 04 17:42 : update: added deemix Music/songs/074 - Queen - We Will Rock You.mp3
+Dec 04 17:42 : update: added deemix Music/songs/094 - Bangles - Manic Monday.mp3
+Dec 04 17:42 : update: added deemix Music/songs/027 - Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3
+Dec 04 17:42 : update: added deemix Music/songs/091 - Tears for Fears - Mad World.mp3
+Dec 04 17:42 : update: added deemix Music/songs/054 - Kings of Leon - Molly's Chambers.mp3
+Dec 04 17:43 : player: played "deemix Music/Tears for Fears - Shout.mp3"
+Dec 04 17:56 : player: played "deemix Music/songs/075 - Queens of the Stone Age - 3's & 7's.mp3"
+Dec 04 17:59 : player: played "deemix Music/songs/076 - Radiohead - Creep.mp3"
+Dec 04 18:07 : player: played "deemix Music/songs/094 - Bangles - Manic Monday.mp3"
+Dec 04 18:11 : player: played "deemix Music/songs/095 - The Bangles - Walk Like an Egyptian.mp3"
+Dec 04 18:16 : player: played "deemix Music/songs/096 - The Black Crowes - Remedy.mp3"
+Dec 04 18:21 : player: played "deemix Music/songs/097 - The Buggles - Video Killed The Radio Star.mp3"
+Dec 04 18:25 : player: played "deemix Music/songs/098 - The Cars - Drive.mp3"
+Dec 04 18:27 : update: updating deemix Music/songs/094 - Bangles - Manic Monday.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/086 - Talking Heads - Burning Down the House.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/073 - Queen - Under Pressure.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/072 - Queen - Somebody To Love.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/009 - Blondie - Heart Of Glass.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/001 - AC_DC - You Shook Me All Night Long.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/008 - Blondie - Call Me.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/080 - Rise Against - Re-Education (Through Labor).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/002 - Ace Frehley - New York Groove.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/083 - Steely Dan - My Old School.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/005 - Bananarama - Venus.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/075 - Queens of the Stone Age - 3's & 7's.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/130 - Van Halen - I'll Wait (2015 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/094 - Bangles - Manic Monday.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/116 - The Police - Don't Stand So Close To Me.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/054 - Kings of Leon - Molly's Chambers.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/018 - Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/133 - Wolfmother - Woman.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/069 - Pink Floyd - Have a Cigar.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/124 - The Who - Won't Get Fooled Again.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/042 - Frankie Goes to Hollywood - Relax.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/079 - Rick Springfield - Jessie's Girl.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/058 - Loverboy - Turn Me Loose.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/040 - Foo Fighters - Rope.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/017 - Daryl Hall & John Oates - You Make My Dreams (Come True).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/108 - The Hives - Hate To Say I Told You So.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/067 - Pet Shop Boys - West End Girls (2001 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/110 - The Hives - Walk Idiot Walk Album Version.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/031 - Eurythmics - Here Comes the Rain Again (Remastered Version).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/125 - Toto - Africa.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/129 - Toto - Rosanna.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/127 - Toto - Hold the Line.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/059 - Madness - Our House.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/097 - The Buggles - Video Killed The Radio Star.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/041 - Foster the People - Pumped Up Kicks.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/105 - The Cure - Boys Don't Cry (Single Version).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/037 - Foo Fighters - Generator.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/115 - The Police - Can't Stand Losing You.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/082 - Soft Cell - Tainted Love.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/019 - Depeche Mode - Enjoy the Silence.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/092 - Tears for Fears - Sowing The Seeds Of Love.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/032 - Fine Young Cannibals - Good Thing.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/117 - The Police - Every Breath You Take.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/119 - The Police - Roxanne.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/043 - Gary Numan - Cars.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/064 - Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/030 - Erasure - A Little Respect.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/091 - Tears for Fears - Mad World.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/112 - The Human League - Mirror Man.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/047 - Incubus - Megalomaniac.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/045 - Heart - Barracuda.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/014 - Daryl Hall & John Oates - Maneater.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/013 - Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/095 - The Bangles - Walk Like an Egyptian.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/099 - The Cars - Just What I Needed.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/109 - The Hives - Tick Tick Boom.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/050 - John Mellencamp - Hurts So Good.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/122 - The Vapors - Turning Japanese.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/135 - The Guess Who - No Sugar Tonight _ New Mother Nature.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/061 - Missing Persons - Mental Hopscotch.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/076 - Radiohead - Creep.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/077 - Radiohead - High and Dry.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/090 - Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/126 - Toto - Gift Of Faith.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/087 - Talking Heads - Psycho Killer (2005 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/051 - Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/049 - Joe Jackson - Steppin' Out.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/020 - Depeche Mode - Just Can't Get Enough.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/053 - Kaiser Chiefs - Never Miss A Beat.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/035 - Foo Fighters - Congregation.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/011 - Bon Jovi - You Give Love A Bad Name.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/063 - New Order - Blue Monday (2016 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/007 - Bloc Party - Banquet.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/027 - Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/028 - Duran Duran - Rio (2009 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/068 - Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/055 - Kings of Leon - The Bucket.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/062 - Naked Eyes - Promises, Promises (Single Edit).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/016 - Daryl Hall & John Oates - Private Eyes.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/066 - Pet Shop Boys - Always on My Mind (2003 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/010 - Blondie - I'm On E.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/120 - The Police - So Lonely (Remastered 2003).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/029 - Electric Light Orchestra - Mr. Blue Sky.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/006 - Biffy Clyro - Bubbles.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/025 - Devo - Time out for Fun.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/074 - Queen - We Will Rock You.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/024 - Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/021 - Depeche Mode - Strangelove.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/060 - Martha and the Muffins - Echo Beach.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/132 - Wham! - Everything She Wants.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/136 - Tears for Fears - Shout.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/104 - The Cult - She Sells Sanctuary.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/085 - Styx - Mr. Roboto.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/048 - INXS - New Sensation.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/071 - Queen - Don't Stop Me Now.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/088 - Talk Talk - It's My Life (1997 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/036 - Foo Fighters - DOA.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/078 - Radiohead - Weird Fishes_ Arpeggi.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/003 - a-ha - Take on Me.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/123 - The Vines - Get Free.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/106 - The Cure - Friday I'm in Love.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/121 - The Turtles - Happy Together.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/046 - Huey Lewis & The News - Doing It All For My Baby.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/128 - Toto - Pamela.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/096 - The Black Crowes - Remedy.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/070 - Queen - Another One Bites The Dust.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/039 - Foo Fighters - Long Road To Ruin.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/034 - Foo Fighters - Breakout.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/033 - Foo Fighters - Big Me.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/044 - Guns N' Roses - Sweet Child O' Mine.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/057 - Lindsey Buckingham - Go Insane.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/113 - The Knack - My Sharona.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/107 - The Cure - Just like Heaven.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/023 - Devo - Girl U Want (2009 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/022 - Devo - Gates of Steel.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/026 - Devo - Whip It.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/038 - Foo Fighters - I'll Stick Around.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/131 - Wang Chung - To Live And Die In L.A.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/052 - Kaiser Chiefs - I Predict A Riot.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/093 - The B-52's - Love Shack.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/056 - KISS - I Was Made For Lovin' You.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/004 - Annie Lennox - Walking on Broken Glass.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/015 - Daryl Hall & John Oates - Out of Touch (Single Version).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/114 - The Offspring - Days Go By.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/111 - The Human League - Don't You Want Me.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/065 - Pat Benatar - Hit Me With Your Best Shot.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/084 - Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/098 - The Cars - Drive.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/102 - The Cars - You Might Think.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/100 - The Cars - Moving in Stereo.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/101 - The Cars - My Best Friend's Girl.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/103 - The Clash - Should I Stay or Should I Go (Remastered).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/089 - Tears for Fears - Everybody Wants To Rule The World.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/081 - Simple Minds - Don't You (Forget About Me).mp3
+Dec 04 18:27 : update: removing deemix Music/songs/012 - Chris Cornell - You Know My Name.mp3
+Dec 04 18:27 : update: removing deemix Music/songs/134 - The Guess Who - Undun (Remastered).mp3
+Dec 04 18:27 : player: played "deemix Music/songs/099 - The Cars - Just What I Needed.mp3"
+Dec 04 18:43 : update: added /Devo - Girl U Want (2009 Remaster).mp3
+Dec 04 18:43 : update: added /Naked Eyes - Promises, Promises (Single Edit).mp3
+Dec 04 18:43 : update: added /Styx - Mr. Roboto.mp3
+Dec 04 18:43 : update: added /The Cult - She Sells Sanctuary.mp3
+Dec 04 18:43 : update: added /The Police - Don't Stand So Close To Me.mp3
+Dec 04 18:43 : update: added /Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3
+Dec 04 18:43 : update: added /Queen - Don't Stop Me Now.mp3
+Dec 04 18:43 : update: added /Devo - Time out for Fun.mp3
+Dec 04 18:43 : update: added /John Mellencamp - Hurts So Good.mp3
+Dec 04 18:43 : update: added /Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3
+Dec 04 18:43 : update: added /Kings of Leon - The Bucket.mp3
+Dec 04 18:43 : update: added /Radiohead - High and Dry.mp3
+Dec 04 18:43 : update: added /Depeche Mode - Enjoy the Silence.mp3
+Dec 04 18:43 : update: added /Bon Jovi - You Give Love A Bad Name.mp3
+Dec 04 18:43 : update: added /Soft Cell - Tainted Love.mp3
+Dec 04 18:43 : update: added /The Guess Who - No Sugar Tonight _ New Mother Nature.mp3
+Dec 04 18:43 : update: added /The Bangles - Walk Like an Egyptian.mp3
+Dec 04 18:43 : update: added /Toto - Rosanna.mp3
+Dec 04 18:43 : update: added /The Knack - My Sharona.mp3
+Dec 04 18:43 : update: added /Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3
+Dec 04 18:43 : update: added /The Cure - Just like Heaven.mp3
+Dec 04 18:43 : update: added /Toto - Hold the Line.mp3
+Dec 04 18:43 : update: added /The Police - So Lonely (Remastered 2003).mp3
+Dec 04 18:43 : update: added /The Hives - Walk Idiot Walk Album Version.mp3
+Dec 04 18:43 : update: added /KISS - I Was Made For Lovin' You.mp3
+Dec 04 18:43 : update: added /Simple Minds - Don't You (Forget About Me).mp3
+Dec 04 18:43 : update: added /Foo Fighters - Rope.mp3
+Dec 04 18:43 : update: added /Foo Fighters - Generator.mp3
+Dec 04 18:43 : update: added /Chris Cornell - You Know My Name.mp3
+Dec 04 18:43 : update: added /The Cars - Moving in Stereo.mp3
+Dec 04 18:43 : update: added /Joe Jackson - Steppin' Out.mp3
+Dec 04 18:43 : update: added /Bananarama - Venus.mp3
+Dec 04 18:43 : update: added /Daryl Hall & John Oates - Private Eyes.mp3
+Dec 04 18:43 : update: added /Radiohead - Creep.mp3
+Dec 04 18:43 : update: added /The Hives - Hate To Say I Told You So.mp3
+Dec 04 18:43 : update: added /Tears for Fears - Mad World.mp3
+Dec 04 18:43 : update: added /Daryl Hall & John Oates - You Make My Dreams (Come True).mp3
+Dec 04 18:43 : update: added /The Cars - Just What I Needed.mp3
+Dec 04 18:43 : update: added /Radiohead - Weird Fishes_ Arpeggi.mp3
+Dec 04 18:43 : update: added /Foo Fighters - Breakout.mp3
+Dec 04 18:43 : update: added /Erasure - A Little Respect.mp3
+Dec 04 18:43 : update: added /Talking Heads - Psycho Killer (2005 Remaster).mp3
+Dec 04 18:43 : update: added /The Cure - Boys Don't Cry (Single Version).mp3
+Dec 04 18:43 : update: added /Foster the People - Pumped Up Kicks.mp3
+Dec 04 18:43 : update: added /Pet Shop Boys - Always on My Mind (2003 Remaster).mp3
+Dec 04 18:43 : update: added /Depeche Mode - Just Can't Get Enough.mp3
+Dec 04 18:43 : update: added /Frankie Goes to Hollywood - Relax.mp3
+Dec 04 18:43 : update: added /The Guess Who - Undun (Remastered).mp3
+Dec 04 18:43 : update: added /Daryl Hall & John Oates - Maneater.mp3
+Dec 04 18:43 : update: added /Rick Springfield - Jessie's Girl.mp3
+Dec 04 18:43 : update: added /The Cure - Friday I'm in Love.mp3
+Dec 04 18:43 : update: added /Devo - Whip It.mp3
+Dec 04 18:43 : update: added /Tears for Fears - Everybody Wants To Rule The World.mp3
+Dec 04 18:43 : update: added /The Cars - My Best Friend's Girl.mp3
+Dec 04 18:43 : update: added /The Human League - Don't You Want Me.mp3
+Dec 04 18:43 : update: added /The Turtles - Happy Together.mp3
+Dec 04 18:43 : update: added /AC_DC - You Shook Me All Night Long.mp3
+Dec 04 18:43 : update: added /Duran Duran - Rio (2009 Remaster).mp3
+Dec 04 18:43 : update: added /Wolfmother - Woman.mp3
+Dec 04 18:43 : update: added /a-ha - Take on Me.mp3
+Dec 04 18:43 : update: added /The Cars - You Might Think.mp3
+Dec 04 18:43 : update: added /Kings of Leon - Molly's Chambers.mp3
+Dec 04 18:43 : update: added /The Police - Every Breath You Take.mp3
+Dec 04 18:43 : update: added /Electric Light Orchestra - Mr. Blue Sky.mp3
+Dec 04 18:43 : update: added /Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3
+Dec 04 18:43 : update: added /Incubus - Megalomaniac.mp3
+Dec 04 18:43 : update: added /Blondie - I'm On E.mp3
+Dec 04 18:43 : update: added /The Police - Can't Stand Losing You.mp3
+Dec 04 18:43 : update: added /The Cars - Drive.mp3
+Dec 04 18:43 : update: added /Blondie - Call Me.mp3
+Dec 04 18:43 : update: added /Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3
+Dec 04 18:43 : update: added /The Black Crowes - Remedy.mp3
+Dec 04 18:43 : update: added /Daryl Hall & John Oates - Out of Touch (Single Version).mp3
+Dec 04 18:43 : update: added /Heart - Barracuda.mp3
+Dec 04 18:43 : update: added /Bangles - Manic Monday.mp3
+Dec 04 18:43 : update: added /Depeche Mode - Strangelove.mp3
+Dec 04 18:43 : update: added /Eurythmics - Here Comes the Rain Again (Remastered Version).mp3
+Dec 04 18:43 : update: added /Foo Fighters - DOA.mp3
+Dec 04 18:43 : update: added /Talking Heads - Burning Down the House.mp3
+Dec 04 18:43 : update: added /Foo Fighters - Long Road To Ruin.mp3
+Dec 04 18:43 : update: added /The Buggles - Video Killed The Radio Star.mp3
+Dec 04 18:43 : update: added /Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3
+Dec 04 18:43 : update: added /Lindsey Buckingham - Go Insane.mp3
+Dec 04 18:43 : update: added /Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3
+Dec 04 18:43 : update: added /Bloc Party - Banquet.mp3
+Dec 04 18:43 : update: added /Queen - We Will Rock You.mp3
+Dec 04 18:43 : update: added /Pink Floyd - Have a Cigar.mp3
+Dec 04 18:43 : update: added /Pat Benatar - Hit Me With Your Best Shot.mp3
+Dec 04 18:43 : update: added /Queen - Another One Bites The Dust.mp3
+Dec 04 18:43 : update: added /Wang Chung - To Live And Die In L.A.mp3
+Dec 04 18:43 : update: added /Kaiser Chiefs - I Predict A Riot.mp3
+Dec 04 18:43 : update: added /Ace Frehley - New York Groove.mp3
+Dec 04 18:43 : update: added /Annie Lennox - Walking on Broken Glass.mp3
+Dec 04 18:43 : update: added /Toto - Gift Of Faith.mp3
+Dec 04 18:43 : update: added /Devo - Gates of Steel.mp3
+Dec 04 18:43 : update: added /Queen - Somebody To Love.mp3
+Dec 04 18:43 : update: added /Tears for Fears - Sowing The Seeds Of Love.mp3
+Dec 04 18:43 : update: added /Madness - Our House.mp3
+Dec 04 18:43 : update: added /New Order - Blue Monday (2016 Remaster).mp3
+Dec 04 18:43 : update: added /Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3
+Dec 04 18:43 : update: added /Tears for Fears - Shout.mp3
+Dec 04 18:43 : update: added /Guns N' Roses - Sweet Child O' Mine.mp3
+Dec 04 18:43 : update: added /Loverboy - Turn Me Loose.mp3
+Dec 04 18:43 : update: added /Wham! - Everything She Wants.mp3
+Dec 04 18:43 : update: added /Rise Against - Re-Education (Through Labor).mp3
+Dec 04 18:43 : update: added /The Hives - Tick Tick Boom.mp3
+Dec 04 18:43 : update: added /INXS - New Sensation.mp3
+Dec 04 18:43 : update: added /Martha and the Muffins - Echo Beach.mp3
+Dec 04 18:43 : update: added /The Clash - Should I Stay or Should I Go (Remastered).mp3
+Dec 04 18:43 : update: added /The B-52's - Love Shack.mp3
+Dec 04 18:43 : update: added /Fine Young Cannibals - Good Thing.mp3
+Dec 04 18:43 : update: added /Talk Talk - It's My Life (1997 Remaster).mp3
+Dec 04 18:43 : update: added /The Vapors - Turning Japanese.mp3
+Dec 04 18:43 : update: added /Huey Lewis & The News - Doing It All For My Baby.mp3
+Dec 04 18:43 : update: added /The Vines - Get Free.mp3
+Dec 04 18:43 : update: added /Foo Fighters - Big Me.mp3
+Dec 04 18:43 : update: added /The Police - Roxanne.mp3
+Dec 04 18:43 : update: added /The Human League - Mirror Man.mp3
+Dec 04 18:43 : update: added /Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3
+Dec 04 18:43 : update: added /The Who - Won't Get Fooled Again.mp3
+Dec 04 18:43 : update: added /Van Halen - I'll Wait (2015 Remaster).mp3
+Dec 04 18:43 : update: added /Kaiser Chiefs - Never Miss A Beat.mp3
+Dec 04 18:43 : update: added /Missing Persons - Mental Hopscotch.mp3
+Dec 04 18:43 : update: added /Blondie - Heart Of Glass.mp3
+Dec 04 18:43 : update: added /Gary Numan - Cars.mp3
+Dec 04 18:43 : update: added /Queens of the Stone Age - 3's & 7's.mp3
+Dec 04 18:43 : update: added /Pet Shop Boys - West End Girls (2001 Remaster).mp3
+Dec 04 18:43 : update: added /Foo Fighters - I'll Stick Around.mp3
+Dec 04 18:43 : update: added /Toto - Pamela.mp3
+Dec 04 18:43 : update: added /Biffy Clyro - Bubbles.mp3
+Dec 04 18:43 : update: added /The Offspring - Days Go By.mp3
+Dec 04 18:43 : update: added /Queen - Under Pressure.mp3
+Dec 04 18:43 : update: added /Steely Dan - My Old School.mp3
+Dec 04 18:43 : update: added /Foo Fighters - Congregation.mp3
+Dec 04 18:43 : update: added /Toto - Africa.mp3
+Dec 04 18:50 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 04 18:53 : player: played "Queen - Another One Bites The Dust.mp3"
+Dec 04 18:57 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 04 19:02 : player: played "Queen - Somebody To Love.mp3"
+Dec 04 19:04 : player: played "Queen - We Will Rock You.mp3"
+Dec 04 19:08 : player: played "Queen - Under Pressure.mp3"
+Dec 04 19:11 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 04 19:15 : player: played "Radiohead - Creep.mp3"
+Dec 04 19:20 : player: played "Radiohead - High and Dry.mp3"
+Dec 04 19:24 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 04 19:27 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Dec 04 19:30 : update: updating /Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3
+Dec 04 19:31 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 04 19:36 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 04 19:39 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 04 19:40 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 04 19:44 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 04 19:49 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Dec 04 21:24 : player: played "Tears for Fears - Shout.mp3"
+Dec 04 21:29 : player: played "Wolfmother - Woman.mp3"
+Dec 04 21:32 : player: played "Wolfmother - Woman.mp3"
+Dec 04 21:32 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 04 21:43 : player: played "Toto - Pamela.mp3"
+Dec 04 21:46 : player: played "Kings of Leon - The Bucket.mp3"
+Dec 04 21:49 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 04 21:54 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 04 21:58 : player: played "Queen - Somebody To Love.mp3"
+Dec 04 22:07 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 04 22:13 : player: played "Steely Dan - My Old School.mp3"
+Dec 04 22:19 : player: played "Styx - Mr. Roboto.mp3"
+Dec 04 22:22 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 04 22:29 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 04 22:33 : player: played "The Human League - Mirror Man.mp3"
+Dec 04 22:37 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 04 22:41 : player: played "Radiohead - Creep.mp3"
+Dec 04 22:46 : player: played "Foo Fighters - Congregation.mp3"
+Dec 04 22:53 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 04 22:58 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 04 23:02 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 04 23:06 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 04 23:08 : player: played "Kings of Leon - Molly's Chambers.mp3"
+Dec 04 23:14 : player: played "Toto - Rosanna.mp3"
+Dec 04 23:19 : player: played "Toto - Africa.mp3"
+Dec 04 23:23 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Dec 04 23:28 : player: played "The Black Crowes - Remedy.mp3"
+Dec 04 23:37 : player: played "The Police - Roxanne.mp3"
+Dec 04 23:41 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 04 23:45 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Dec 04 23:49 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 04 23:54 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Dec 04 23:58 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Dec 05 00:02 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 05 00:07 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 05 00:10 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Dec 05 00:14 : player: played "Foo Fighters - DOA.mp3"
+Dec 05 00:18 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Dec 05 00:22 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 05 00:26 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 05 00:30 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 05 00:33 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 05 00:36 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 05 00:40 : player: played "Madness - Our House.mp3"
+Dec 05 02:08 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Dec 05 11:48 : player: played "The Offspring - Days Go By.mp3"
+Dec 05 11:52 : player: played "The Offspring - Days Go By.mp3"
+Dec 05 12:16 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 05 12:20 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Dec 05 12:26 : player: played "The Black Crowes - Remedy.mp3"
+Dec 05 12:29 : player: played "Foo Fighters - Generator.mp3"
+Dec 05 12:33 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 05 13:35 : player: played "Foo Fighters - Generator.mp3"
+Dec 05 13:39 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 05 13:53 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 05 13:57 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Dec 05 19:33 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 05 21:04 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 05 22:04 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Dec 05 22:09 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 05 22:13 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 05 22:16 : player: played "The Cars - You Might Think.mp3"
+Dec 05 22:22 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 05 22:35 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 05 23:39 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 05 23:42 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 06 12:49 : player: played "The Human League - Mirror Man.mp3"
+Dec 06 14:00 : player: played "The Human League - Mirror Man.mp3"
+Dec 06 15:15 : player: played "The Human League - Mirror Man.mp3"
+Dec 06 16:05 : player: played "The Human League - Mirror Man.mp3"
+Dec 06 16:11 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 06 16:14 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 06 16:17 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Dec 06 16:24 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 06 18:05 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 06 18:10 : player: played "The Black Crowes - Remedy.mp3"
+Dec 06 18:13 : player: played "Devo - Gates of Steel.mp3"
+Dec 06 18:17 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Dec 06 18:21 : player: played "Foo Fighters - DOA.mp3"
+Dec 06 18:25 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 06 18:30 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 06 18:34 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 06 18:39 : player: played "Toto - Rosanna.mp3"
+Dec 06 18:43 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 06 18:47 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 06 18:51 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 06 18:55 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 06 19:00 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 06 19:04 : player: played "The Cars - Drive.mp3"
+Dec 06 19:08 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 06 19:12 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Dec 06 19:15 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 06 19:19 : player: played "Queen - Under Pressure.mp3"
+Dec 06 19:23 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Dec 06 19:26 : player: played "Queen - Another One Bites The Dust.mp3"
+Dec 06 19:29 : player: played "Foo Fighters - Big Me.mp3"
+Dec 06 19:32 : player: played "The Turtles - Happy Together.mp3"
+Dec 06 19:34 : player: played "Soft Cell - Tainted Love.mp3"
+Dec 06 19:38 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Dec 06 20:07 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Dec 06 20:12 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 06 20:17 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 06 20:20 : player: played "Wolfmother - Woman.mp3"
+Dec 06 20:24 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 06 20:28 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Dec 06 22:15 : player: played "Loverboy - Turn Me Loose.mp3"
+Dec 06 22:19 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 06 22:23 : player: played "Bananarama - Venus.mp3"
+Dec 07 11:12 : player: played "The Knack - My Sharona.mp3"
+Dec 07 16:12 : player: played "The Knack - My Sharona.mp3"
+Dec 07 17:32 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 07 17:37 : player: played "Foo Fighters - DOA.mp3"
+Dec 07 17:41 : player: played "Erasure - A Little Respect.mp3"
+Dec 07 17:46 : player: played "The B-52's - Love Shack.mp3"
+Dec 07 17:50 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 07 17:55 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 07 17:58 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Dec 07 18:03 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 07 18:07 : player: played "Queen - Under Pressure.mp3"
+Dec 07 18:09 : player: played "Blondie - I'm On E.mp3"
+Dec 07 18:13 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 07 18:19 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 07 18:22 : player: played "The Turtles - Happy Together.mp3"
+Dec 07 20:24 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 08 17:23 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 09 00:10 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 09 11:37 : player: played "Talking Heads - Burning Down the House.mp3"
+Dec 09 11:40 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 09 11:46 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 09 11:49 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 09 11:54 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 09 11:59 : player: played "Incubus - Megalomaniac.mp3"
+Dec 09 12:04 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 09 14:53 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 09 14:57 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 09 14:59 : player: played "The Turtles - Happy Together.mp3"
+Dec 09 15:03 : player: played "The Cars - Drive.mp3"
+Dec 09 15:22 : player: played "a-ha - Take on Me.mp3"
+Dec 09 15:26 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Dec 09 15:27 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Dec 09 15:34 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Dec 09 16:09 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 09 16:39 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 09 16:44 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 09 16:44 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 09 18:25 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 09 19:14 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 09 19:28 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 09 19:32 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 09 19:38 : player: played "Tears for Fears - Shout.mp3"
+Dec 09 20:52 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 09 20:56 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Dec 09 20:59 : player: played "Blondie - Call Me.mp3"
+Dec 09 21:05 : player: played "Foo Fighters - Congregation.mp3"
+Dec 09 21:09 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 09 21:13 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 09 21:16 : player: played "Devo - Gates of Steel.mp3"
+Dec 09 21:21 : player: played "The Knack - My Sharona.mp3"
+Dec 09 21:25 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Dec 09 21:30 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 09 21:35 : player: played "Toto - Africa.mp3"
+Dec 09 21:39 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 09 21:43 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 09 21:45 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 09 21:49 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 09 21:53 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 10 00:43 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 10 09:46 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 10 10:34 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 10 12:53 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 10 14:04 : player: played "Styx - Mr. Roboto.mp3"
+Dec 10 14:08 : player: played "The Cars - Drive.mp3"
+Dec 10 14:12 : player: played "The Cars - Drive.mp3"
+Dec 10 19:16 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 10 19:27 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 10 20:26 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Dec 10 23:09 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Dec 10 23:13 : player: played "The Cars - Just What I Needed.mp3"
+Dec 10 23:16 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Dec 10 23:21 : player: played "Wham! - Everything She Wants.mp3"
+Dec 10 23:30 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Dec 10 23:34 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 10 23:38 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 10 23:44 : player: played "Toto - Rosanna.mp3"
+Dec 10 23:47 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 10 23:52 : player: played "Foo Fighters - DOA.mp3"
+Dec 10 23:59 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 11 00:02 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 11 00:06 : player: played "The Cure - Just like Heaven.mp3"
+Dec 11 00:10 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 11 00:28 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 11 00:29 : player: played "Wolfmother - Woman.mp3"
+Dec 11 00:31 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 11 00:33 : player: played "a-ha - Take on Me.mp3"
+Dec 11 00:34 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Dec 11 13:01 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 11 13:05 : player: played "Heart - Barracuda.mp3"
+Dec 11 13:09 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 11 13:12 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 11 13:16 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 11 13:19 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 11 13:23 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 11 13:27 : player: played "The Human League - Mirror Man.mp3"
+Dec 11 13:36 : update: added /Billy Joel - Piano Man.mp3
+Dec 11 13:37 : update: updating /Bangles - Manic Monday.mp3
+Dec 11 16:07 : player: played "Billy Joel - Piano Man.mp3"
+Dec 11 16:12 : player: played "Blondie - Call Me.mp3"
+Dec 11 16:17 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 11 16:22 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 11 16:45 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 11 16:49 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Dec 11 18:20 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 11 22:47 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 11 22:51 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Dec 11 22:55 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 11 22:59 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 11 23:03 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 11 23:07 : player: played "Devo - Gates of Steel.mp3"
+Dec 11 23:10 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 11 23:13 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 12 00:10 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 12 00:15 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 12 00:18 : player: played "Erasure - A Little Respect.mp3"
+Dec 12 00:23 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Dec 12 01:04 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Dec 12 01:06 : player: played "Foo Fighters - Big Me.mp3"
+Dec 12 01:10 : player: played "Foo Fighters - Breakout.mp3"
+Dec 12 01:15 : player: played "Foo Fighters - Congregation.mp3"
+Dec 12 01:19 : player: played "Foo Fighters - DOA.mp3"
+Dec 12 01:23 : player: played "Foo Fighters - Generator.mp3"
+Dec 12 01:27 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Dec 12 01:30 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 12 12:36 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 12 12:51 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 12 12:54 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 12 13:03 : player: played "The Human League - Mirror Man.mp3"
+Dec 12 13:07 : player: played "The Knack - My Sharona.mp3"
+Dec 12 13:12 : player: played "The Offspring - Days Go By.mp3"
+Dec 12 13:16 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 12 13:20 : player: played "The Police - Every Breath You Take.mp3"
+Dec 12 13:23 : player: played "The Police - Roxanne.mp3"
+Dec 12 13:28 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 12 13:31 : player: played "The Turtles - Happy Together.mp3"
+Dec 12 13:35 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 12 13:50 : player: played "The Vines - Get Free.mp3"
+Dec 12 16:08 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 12 16:28 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 12 16:33 : player: played "The Black Crowes - Remedy.mp3"
+Dec 12 17:55 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 12 17:59 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 12 18:03 : player: played "The Cars - Drive.mp3"
+Dec 12 18:07 : player: played "The Cars - Just What I Needed.mp3"
+Dec 12 18:12 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 12 18:16 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 12 18:19 : player: played "The Cars - You Might Think.mp3"
+Dec 12 18:22 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 12 18:26 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 12 18:29 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 12 18:33 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 12 18:36 : player: played "The Cure - Just like Heaven.mp3"
+Dec 12 18:41 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 12 18:45 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 12 18:49 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 12 18:52 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 12 18:56 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 13 00:23 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 13 13:24 : player: played "Tears for Fears - Shout.mp3"
+Dec 13 19:15 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 13 19:20 : player: played "The B-52's - Love Shack.mp3"
+Dec 13 19:24 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 13 19:29 : player: played "The Black Crowes - Remedy.mp3"
+Dec 13 19:33 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 13 19:37 : player: played "The Cars - Drive.mp3"
+Dec 13 19:41 : player: played "The Cars - Just What I Needed.mp3"
+Dec 13 19:46 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 13 19:50 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 13 19:53 : player: played "The Cars - You Might Think.mp3"
+Dec 13 19:56 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 13 20:00 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 14 13:04 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 14 15:17 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 14 17:22 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 15 09:33 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 15 14:29 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 16 15:04 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 16 23:14 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 16 23:19 : player: played "The Black Crowes - Remedy.mp3"
+Dec 16 23:23 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 16 23:27 : player: played "The Cars - Drive.mp3"
+Dec 16 23:31 : player: played "The Cars - Just What I Needed.mp3"
+Dec 16 23:36 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 16 23:42 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 16 23:45 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 16 23:49 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 16 23:52 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 16 23:56 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 17 00:00 : player: played "The Human League - Mirror Man.mp3"
+Dec 17 00:05 : player: played "The Knack - My Sharona.mp3"
+Dec 17 00:08 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 17 00:12 : player: played "The Offspring - Days Go By.mp3"
+Dec 17 00:17 : player: played "The Human League - Mirror Man.mp3"
+Dec 17 00:22 : player: played "The Knack - My Sharona.mp3"
+Dec 17 11:52 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 17 14:11 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 17 14:15 : player: played "The Offspring - Days Go By.mp3"
+Dec 17 14:19 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 17 14:23 : player: played "The Police - Every Breath You Take.mp3"
+Dec 17 14:26 : player: played "The Police - Roxanne.mp3"
+Dec 17 16:41 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 17 16:44 : player: played "The Turtles - Happy Together.mp3"
+Dec 17 16:48 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 17 16:50 : player: played "The Vines - Get Free.mp3"
+Dec 17 16:58 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 17 17:01 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 17 17:04 : player: played "Toto - Africa.mp3"
+Dec 17 17:07 : player: played "Toto - Africa.mp3"
+Dec 17 17:09 : player: played "Toto - Africa.mp3"
+Dec 17 17:41 : player: played "Toto - Africa.mp3"
+Dec 17 17:46 : player: played "Toto - Africa.mp3"
+Dec 17 19:14 : player: played "Toto - Africa.mp3"
+Dec 17 19:21 : player: played "Toto - Gift Of Faith.mp3"
+Dec 17 19:25 : player: played "Toto - Hold the Line.mp3"
+Dec 17 19:30 : player: played "Toto - Pamela.mp3"
+Dec 17 19:36 : player: played "Toto - Rosanna.mp3"
+Dec 17 19:40 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 17 19:45 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 17 19:50 : player: played "Wham! - Everything She Wants.mp3"
+Dec 17 19:53 : player: played "Wolfmother - Woman.mp3"
+Dec 17 21:33 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 17 21:38 : player: played "Incubus - Megalomaniac.mp3"
+Dec 17 21:42 : player: played "INXS - New Sensation.mp3"
+Dec 17 21:46 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 17 21:50 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 17 21:53 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Dec 18 16:25 : player: played "Toto - Rosanna.mp3"
+Dec 18 16:30 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 18 16:35 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 18 16:40 : player: played "Wham! - Everything She Wants.mp3"
+Dec 18 16:42 : player: played "Wolfmother - Woman.mp3"
+Dec 18 21:06 : player: played "The Black Crowes - Remedy.mp3"
+Dec 18 21:10 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 18 21:14 : player: played "The Cars - Drive.mp3"
+Dec 18 21:18 : player: played "The Cars - Just What I Needed.mp3"
+Dec 18 21:23 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 18 21:26 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 18 21:29 : player: played "The Cars - You Might Think.mp3"
+Dec 18 21:33 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 18 21:38 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 18 21:41 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 18 21:44 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 18 21:48 : player: played "The Cure - Just like Heaven.mp3"
+Dec 18 21:53 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 18 21:57 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 18 22:00 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 18 22:04 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 18 22:07 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 18 22:11 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 18 22:15 : player: played "The Human League - Mirror Man.mp3"
+Dec 18 22:20 : player: played "The Knack - My Sharona.mp3"
+Dec 18 22:23 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 18 22:27 : player: played "The Offspring - Days Go By.mp3"
+Dec 18 22:31 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 18 22:35 : player: played "The Police - Every Breath You Take.mp3"
+Dec 18 22:39 : player: played "The Police - Roxanne.mp3"
+Dec 18 22:43 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 18 22:46 : player: played "The Turtles - Happy Together.mp3"
+Dec 18 22:52 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 18 22:54 : player: played "The Vines - Get Free.mp3"
+Dec 18 23:02 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 18 23:07 : player: played "Toto - Africa.mp3"
+Dec 18 23:14 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 18 23:15 : player: played "Toto - Gift Of Faith.mp3"
+Dec 18 23:19 : player: played "Toto - Hold the Line.mp3"
+Dec 18 23:24 : player: played "Toto - Pamela.mp3"
+Dec 18 23:30 : player: played "Toto - Rosanna.mp3"
+Dec 18 23:34 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 18 23:40 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 18 23:45 : player: played "Wham! - Everything She Wants.mp3"
+Dec 18 23:48 : player: played "Wolfmother - Woman.mp3"
+Dec 18 23:54 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 18 23:57 : player: played "The Cars - Drive.mp3"
+Dec 19 00:01 : player: played "The Cars - Just What I Needed.mp3"
+Dec 19 00:06 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 19 00:17 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 19 00:20 : player: played "The Cars - You Might Think.mp3"
+Dec 19 00:23 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 19 00:27 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 19 00:30 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 19 00:34 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 19 00:38 : player: played "The Cure - Just like Heaven.mp3"
+Dec 19 00:42 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 19 00:47 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 19 00:50 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 19 00:53 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 19 00:57 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 19 01:01 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 19 01:09 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Dec 19 01:12 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 19 01:17 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 19 01:18 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 19 23:05 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 19 23:11 : player: played "Loverboy - Turn Me Loose.mp3"
+Dec 19 23:16 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 19 23:18 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 19 23:22 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 20 14:09 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 20 14:12 : player: played "Foo Fighters - Breakout.mp3"
+Dec 20 14:16 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 20 14:19 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 20 14:23 : player: played "Toto - Hold the Line.mp3"
+Dec 20 14:27 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 20 18:02 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 20 18:05 : player: played "The Cure - Just like Heaven.mp3"
+Dec 20 18:10 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 20 18:13 : player: played "Queen - Another One Bites The Dust.mp3"
+Dec 20 18:16 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 20 18:18 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 20 18:22 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 20 18:25 : player: played "Radiohead - Creep.mp3"
+Dec 20 18:31 : player: played "Loverboy - Turn Me Loose.mp3"
+Dec 20 18:34 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 20 18:37 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 20 18:41 : player: played "Radiohead - High and Dry.mp3"
+Dec 20 18:44 : player: played "Wolfmother - Woman.mp3"
+Dec 20 18:48 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 20 18:53 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Dec 20 20:50 : player: played "Devo - Gates of Steel.mp3"
+Dec 20 20:53 : player: played "The Turtles - Happy Together.mp3"
+Dec 20 20:59 : player: played "Toto - Rosanna.mp3"
+Dec 20 23:11 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 20 23:14 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 20 23:18 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 21 00:34 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 21 00:39 : player: played "Styx - Mr. Roboto.mp3"
+Dec 21 00:43 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 21 00:47 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Dec 21 12:06 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Dec 21 12:09 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 21 12:14 : player: played "Wham! - Everything She Wants.mp3"
+Dec 21 12:17 : player: played "Foo Fighters - Generator.mp3"
+Dec 21 12:21 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 21 12:23 : player: played "Soft Cell - Tainted Love.mp3"
+Dec 21 14:00 : player: played "The Knack - My Sharona.mp3"
+Dec 21 14:05 : player: played "Toto - Rosanna.mp3"
+Dec 21 14:26 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 21 14:30 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 21 14:35 : player: played "Toto - Pamela.mp3"
+Dec 21 14:39 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 21 14:42 : player: played "Queen - Another One Bites The Dust.mp3"
+Dec 21 14:45 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 21 16:06 : player: played "Chris Cornell - You Know My Name.mp3"
+Dec 21 16:13 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 21 16:15 : player: played "Devo - Whip It.mp3"
+Dec 21 16:19 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Dec 21 16:23 : player: played "Queen - Somebody To Love.mp3"
+Dec 21 16:27 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 21 16:30 : player: played "Erasure - A Little Respect.mp3"
+Dec 21 16:34 : player: played "The Cars - Just What I Needed.mp3"
+Dec 21 16:35 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 21 16:40 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 21 16:44 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 21 16:48 : player: played "The Offspring - Days Go By.mp3"
+Dec 21 16:52 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 21 16:56 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 21 17:01 : player: played "Incubus - Megalomaniac.mp3"
+Dec 21 17:05 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 21 17:10 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 21 17:16 : player: played "Loverboy - Turn Me Loose.mp3"
+Dec 21 17:21 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 21 17:24 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 21 17:28 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Dec 21 17:33 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 21 17:39 : player: played "The Black Crowes - Remedy.mp3"
+Dec 21 17:43 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 21 17:47 : player: played "The Cars - Drive.mp3"
+Dec 21 17:50 : player: played "The Cars - Just What I Needed.mp3"
+Dec 21 19:08 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 21 19:39 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 21 19:42 : player: played "The Cars - You Might Think.mp3"
+Dec 21 19:45 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 21 19:50 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 21 19:52 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 21 19:56 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 21 19:59 : player: played "The Cure - Just like Heaven.mp3"
+Dec 21 20:25 : player: played "The Police - Roxanne.mp3"
+Dec 21 20:30 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 21 20:32 : player: played "The Turtles - Happy Together.mp3"
+Dec 21 20:36 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 21 20:38 : player: played "The Vines - Get Free.mp3"
+Dec 21 20:47 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 21 20:51 : player: played "Toto - Africa.mp3"
+Dec 21 20:59 : player: played "Toto - Gift Of Faith.mp3"
+Dec 21 21:03 : player: played "Toto - Hold the Line.mp3"
+Dec 21 22:03 : player: played "Toto - Pamela.mp3"
+Dec 21 22:10 : player: played "Toto - Rosanna.mp3"
+Dec 21 22:14 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 21 22:19 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 21 22:24 : player: played "Wham! - Everything She Wants.mp3"
+Dec 21 22:27 : player: played "Wolfmother - Woman.mp3"
+Dec 21 22:58 : player: played "Queen - Under Pressure.mp3"
+Dec 21 23:02 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 21 23:06 : player: played "Radiohead - Creep.mp3"
+Dec 21 23:10 : player: played "Radiohead - High and Dry.mp3"
+Dec 21 23:13 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Dec 21 23:17 : player: played "Gary Numan - Cars.mp3"
+Dec 21 23:22 : player: played "Toto - Pamela.mp3"
+Dec 21 23:26 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 21 23:30 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 21 23:35 : player: played "Foo Fighters - Congregation.mp3"
+Dec 21 23:38 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Dec 21 23:42 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 21 23:46 : player: played "The Police - Every Breath You Take.mp3"
+Dec 21 23:50 : player: played "Chris Cornell - You Know My Name.mp3"
+Dec 21 23:53 : player: played "Madness - Our House.mp3"
+Dec 21 23:58 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Dec 22 00:04 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 22 00:06 : player: played "Queen - We Will Rock You.mp3"
+Dec 22 00:10 : player: played "Heart - Barracuda.mp3"
+Dec 22 00:37 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Dec 22 00:42 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 22 00:46 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Dec 22 00:52 : player: played "Steely Dan - My Old School.mp3"
+Dec 22 00:56 : player: played "Radiohead - Creep.mp3"
+Dec 22 01:00 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 22 01:05 : player: played "Styx - Mr. Roboto.mp3"
+Dec 22 01:08 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 22 01:11 : player: played "Devo - Time out for Fun.mp3"
+Dec 22 01:18 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Dec 22 01:21 : player: played "Toto - Hold the Line.mp3"
+Dec 22 01:26 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Dec 22 01:29 : player: played "Bananarama - Venus.mp3"
+Dec 22 01:34 : player: played "KISS - I Was Made For Lovin' You.mp3"
+Dec 22 01:39 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 22 01:45 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 22 13:51 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 22 13:55 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Dec 22 13:59 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 22 14:04 : player: played "Foo Fighters - Congregation.mp3"
+Dec 22 14:09 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 22 14:14 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 22 14:19 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 22 14:22 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 22 14:26 : player: played "The Cars - Just What I Needed.mp3"
+Dec 22 14:29 : player: played "Ace Frehley - New York Groove.mp3"
+Dec 22 14:32 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Dec 22 14:41 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 22 14:45 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Dec 22 16:02 : player: played "Heart - Barracuda.mp3"
+Dec 22 16:17 : player: played "Radiohead - Creep.mp3"
+Dec 22 16:19 : player: played "Queen - We Will Rock You.mp3"
+Dec 22 16:23 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 22 16:27 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 22 17:37 : player: played "Wham! - Everything She Wants.mp3"
+Dec 22 17:40 : player: played "The Cars - You Might Think.mp3"
+Dec 22 17:43 : player: played "Blondie - Call Me.mp3"
+Dec 22 17:48 : player: played "The Knack - My Sharona.mp3"
+Dec 22 17:51 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 22 17:56 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Dec 22 18:01 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 22 18:04 : player: played "Toto - Hold the Line.mp3"
+Dec 22 18:08 : player: played "Foo Fighters - Generator.mp3"
+Dec 22 18:12 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 22 18:15 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Dec 22 18:20 : player: played "Toto - Pamela.mp3"
+Dec 22 18:24 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 22 18:30 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 22 18:32 : player: played "Devo - Whip It.mp3"
+Dec 22 18:38 : player: played "Toto - Rosanna.mp3"
+Dec 22 18:41 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Dec 22 18:45 : player: played "Madness - Our House.mp3"
+Dec 22 18:49 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 22 18:54 : player: played "Billy Joel - Piano Man.mp3"
+Dec 22 18:59 : player: played "Toto - Africa.mp3"
+Dec 22 19:05 : player: played "Steely Dan - My Old School.mp3"
+Dec 22 19:09 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 22 19:12 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Dec 22 20:10 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 22 20:13 : player: played "Tears for Fears - Mad World.mp3"
+Dec 22 20:17 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Dec 22 20:20 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 22 20:25 : player: played "The B-52's - Love Shack.mp3"
+Dec 22 20:31 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 22 20:35 : player: played "The Human League - Mirror Man.mp3"
+Dec 22 20:38 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 22 20:43 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Dec 22 20:46 : player: played "Queen - Another One Bites The Dust.mp3"
+Dec 22 20:49 : player: played "Bangles - Manic Monday.mp3"
+Dec 22 20:53 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 22 20:57 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 22 21:01 : player: played "Queen - Under Pressure.mp3"
+Dec 22 21:03 : player: played "Blondie - I'm On E.mp3"
+Dec 22 21:15 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 22 21:18 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Dec 22 21:22 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 22 21:29 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Dec 22 21:33 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 22 21:36 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 22 21:38 : player: played "Soft Cell - Tainted Love.mp3"
+Dec 22 21:42 : player: played "The Police - Roxanne.mp3"
+Dec 22 21:45 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 22 21:49 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Dec 22 21:53 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 22 21:56 : player: played "The Human League - Don't You Want Me.mp3"
+Dec 22 22:02 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Dec 22 22:05 : player: played "Bananarama - Venus.mp3"
+Dec 22 22:10 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 22 22:13 : player: played "Bloc Party - Banquet.mp3"
+Dec 22 22:17 : player: played "a-ha - Take on Me.mp3"
+Dec 22 22:20 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Dec 22 22:24 : player: played "Gary Numan - Cars.mp3"
+Dec 22 22:29 : player: played "Biffy Clyro - Bubbles.mp3"
+Dec 22 22:32 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 22 22:36 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 22 22:39 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Dec 22 22:42 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 22 22:46 : player: played "The Police - Every Breath You Take.mp3"
+Dec 22 22:51 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 22 22:54 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Dec 22 22:58 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Dec 22 23:42 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 22 23:45 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 22 23:48 : player: played "Wolfmother - Woman.mp3"
+Dec 22 23:52 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 22 23:56 : player: played "Radiohead - High and Dry.mp3"
+Dec 23 00:01 : player: played "Incubus - Megalomaniac.mp3"
+Dec 23 00:07 : player: played "Tears for Fears - Shout.mp3"
+Dec 23 00:12 : player: played "The Black Crowes - Remedy.mp3"
+Dec 23 00:15 : player: played "Kings of Leon - The Bucket.mp3"
+Dec 23 00:18 : player: played "The Turtles - Happy Together.mp3"
+Dec 23 12:05 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Dec 23 12:11 : player: played "Billy Joel - Piano Man.mp3"
+Dec 23 12:14 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 23 12:17 : player: played "The Cars - You Might Think.mp3"
+Dec 23 12:24 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 23 12:29 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Dec 23 12:32 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 23 12:36 : player: played "Heart - Barracuda.mp3"
+Dec 23 12:44 : player: played "Toto - Gift Of Faith.mp3"
+Dec 23 12:47 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Dec 23 12:51 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 23 12:56 : player: played "The Knack - My Sharona.mp3"
+Dec 23 13:01 : player: played "Biffy Clyro - Bubbles.mp3"
+Dec 23 13:06 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 23 13:10 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Dec 23 13:14 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 23 13:17 : player: played "Bananarama - Venus.mp3"
+Dec 23 13:23 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 23 13:27 : player: played "Foo Fighters - DOA.mp3"
+Dec 23 13:31 : player: played "The Human League - Mirror Man.mp3"
+Dec 23 13:34 : player: played "Devo - Whip It.mp3"
+Dec 23 13:37 : player: played "Foo Fighters - Generator.mp3"
+Dec 23 13:41 : player: played "a-ha - Take on Me.mp3"
+Dec 23 13:44 : player: played "The Police - Roxanne.mp3"
+Dec 23 13:48 : player: played "The Police - Every Breath You Take.mp3"
+Dec 23 13:52 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Dec 23 13:56 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Dec 23 13:59 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Dec 23 18:44 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 23 18:48 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Dec 23 18:52 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 23 18:55 : player: played "Bangles - Manic Monday.mp3"
+Dec 23 18:58 : player: played "INXS - New Sensation.mp3"
+Dec 23 19:00 : player: played "Blondie - I'm On E.mp3"
+Dec 23 19:06 : player: played "The Black Crowes - Remedy.mp3"
+Dec 23 19:09 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 23 19:12 : player: played "Queen - Another One Bites The Dust.mp3"
+Dec 23 19:16 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 23 19:19 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 23 19:25 : player: played "Toto - Rosanna.mp3"
+Dec 23 19:29 : player: played "Radiohead - High and Dry.mp3"
+Dec 23 19:32 : player: played "Ace Frehley - New York Groove.mp3"
+Dec 23 19:37 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 23 19:40 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 23 19:43 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Dec 23 19:46 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 23 19:51 : player: played "Bloc Party - Banquet.mp3"
+Dec 23 19:56 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 23 20:00 : player: played "The Offspring - Days Go By.mp3"
+Dec 23 20:03 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 23 20:07 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Dec 23 20:11 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Dec 23 20:14 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Dec 23 20:18 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 23 20:22 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 23 20:26 : player: played "Tears for Fears - Mad World.mp3"
+Dec 23 20:30 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Dec 23 20:32 : player: played "The Vines - Get Free.mp3"
+Dec 23 20:38 : player: played "Tears for Fears - Shout.mp3"
+Dec 23 20:41 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Dec 23 20:45 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 23 20:49 : player: played "Toto - Hold the Line.mp3"
+Dec 23 20:54 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 23 20:56 : player: played "Queen - We Will Rock You.mp3"
+Dec 23 21:00 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 23 21:05 : player: played "The B-52's - Love Shack.mp3"
+Dec 23 21:10 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 23 21:15 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 23 21:18 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 23 21:23 : player: played "Toto - Africa.mp3"
+Dec 23 21:28 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 23 21:32 : player: played "Talking Heads - Burning Down the House.mp3"
+Dec 23 22:03 : player: played "The Turtles - Happy Together.mp3"
+Dec 23 22:10 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Dec 23 22:13 : player: played "Wolfmother - Woman.mp3"
+Dec 23 22:17 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Dec 23 22:21 : player: played "Radiohead - Creep.mp3"
+Dec 23 22:27 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 23 22:30 : player: played "Blondie - Call Me.mp3"
+Dec 23 22:34 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Dec 23 22:38 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 23 22:42 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 23 22:45 : player: played "The Cure - Just like Heaven.mp3"
+Dec 23 22:49 : player: played "Devo - Gates of Steel.mp3"
+Dec 23 22:52 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 23 22:55 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 23 23:00 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 23 23:05 : player: played "Incubus - Megalomaniac.mp3"
+Dec 23 23:09 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Dec 23 23:13 : player: played "The Cars - My Best Friend's Girl.mp3"
+Dec 23 23:18 : player: played "Toto - Pamela.mp3"
+Dec 23 23:21 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Dec 23 23:26 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 23 23:30 : player: played "Gary Numan - Cars.mp3"
+Dec 24 14:05 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 25 15:18 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 25 17:32 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 25 17:35 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Dec 25 17:38 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Dec 25 17:42 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 25 17:46 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Dec 25 17:47 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 25 18:17 : player: played "The Guess Who - Undun (Remastered).mp3"
+Dec 25 18:22 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 25 18:30 : player: played "Toto - Gift Of Faith.mp3"
+Dec 25 18:34 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Dec 26 02:26 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Dec 26 02:31 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Dec 26 02:35 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 26 13:42 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 26 13:46 : player: played "Foo Fighters - DOA.mp3"
+Dec 26 13:50 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 26 13:54 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 26 13:57 : player: played "Bangles - Manic Monday.mp3"
+Dec 26 14:00 : player: played "Wolfmother - Woman.mp3"
+Dec 26 14:03 : player: played "Bloc Party - Banquet.mp3"
+Dec 26 14:06 : player: played "Soft Cell - Tainted Love.mp3"
+Dec 26 14:09 : player: played "INXS - New Sensation.mp3"
+Dec 26 14:13 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 26 14:16 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 26 14:20 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 26 14:25 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Dec 26 15:02 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 26 18:04 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 26 18:07 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Dec 26 18:15 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 26 18:23 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 26 18:27 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 26 18:31 : player: played "Heart - Barracuda.mp3"
+Dec 26 18:33 : player: played "Foo Fighters - Big Me.mp3"
+Dec 26 18:37 : player: played "Radiohead - High and Dry.mp3"
+Dec 26 18:41 : player: played "The Cars - Drive.mp3"
+Dec 26 18:45 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 26 18:48 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 26 18:51 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 26 18:53 : player: played "Queen - We Will Rock You.mp3"
+Dec 26 18:57 : player: played "Foo Fighters - DOA.mp3"
+Dec 26 19:00 : player: played "Blondie - Call Me.mp3"
+Dec 26 19:04 : player: played "Foo Fighters - Generator.mp3"
+Dec 26 19:06 : player: played "Kings of Leon - Molly's Chambers.mp3"
+Dec 26 19:09 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 26 19:12 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Dec 26 19:16 : player: played "Toto - Hold the Line.mp3"
+Dec 26 19:20 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Dec 26 19:23 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Dec 26 19:28 : player: played "Wham! - Everything She Wants.mp3"
+Dec 26 19:32 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 26 19:38 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Dec 26 19:42 : player: played "Radiohead - Creep.mp3"
+Dec 26 19:47 : player: played "Queen - Somebody To Love.mp3"
+Dec 26 20:48 : player: played "Bangles - Manic Monday.mp3"
+Dec 26 20:52 : player: played "Erasure - A Little Respect.mp3"
+Dec 26 20:58 : player: played "Tears for Fears - Shout.mp3"
+Dec 26 21:02 : player: played "The Human League - Mirror Man.mp3"
+Dec 26 21:06 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Dec 26 21:11 : player: played "Loverboy - Turn Me Loose.mp3"
+Dec 26 21:15 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 26 21:19 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Dec 26 21:24 : player: played "Styx - Mr. Roboto.mp3"
+Dec 26 21:29 : player: played "Toto - Africa.mp3"
+Dec 26 21:31 : player: played "The Vines - Get Free.mp3"
+Dec 26 21:36 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 26 21:39 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Dec 26 21:45 : player: played "Toto - Pamela.mp3"
+Dec 26 22:00 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 26 22:04 : player: played "The Cars - Just What I Needed.mp3"
+Dec 26 22:07 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 26 22:12 : player: played "The B-52's - Love Shack.mp3"
+Dec 26 22:16 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Dec 26 22:21 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Dec 26 22:24 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 26 22:32 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 26 23:20 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Dec 26 23:24 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 26 23:29 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 26 23:33 : player: played "Queen - Under Pressure.mp3"
+Dec 26 23:37 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Dec 26 23:42 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 26 23:45 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Dec 26 23:48 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 26 23:51 : player: played "The Turtles - Happy Together.mp3"
+Dec 26 23:54 : player: played "Wolfmother - Woman.mp3"
+Dec 27 00:00 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 27 00:05 : player: played "KISS - I Was Made For Lovin' You.mp3"
+Dec 27 00:10 : player: played "The Knack - My Sharona.mp3"
+Dec 27 00:13 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 27 00:17 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 27 00:22 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 27 00:26 : player: played "The Hives - Tick Tick Boom.mp3"
+Dec 27 00:30 : player: played "The Offspring - Days Go By.mp3"
+Dec 27 00:33 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 27 00:37 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 27 00:41 : player: played "The Police - Every Breath You Take.mp3"
+Dec 27 00:44 : player: played "Devo - Whip It.mp3"
+Dec 27 00:48 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 27 00:51 : player: played "The Police - Roxanne.mp3"
+Dec 27 00:55 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Dec 27 00:58 : player: played "Madness - Our House.mp3"
+Dec 27 01:01 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 27 01:05 : player: played "Chris Cornell - You Know My Name.mp3"
+Dec 27 01:08 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 27 01:12 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Dec 27 01:15 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Dec 27 01:19 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Dec 27 01:25 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 27 01:30 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 27 01:33 : player: played "The Vapors - Turning Japanese.mp3"
+Dec 27 01:37 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Dec 27 01:39 : player: played "Blondie - I'm On E.mp3"
+Dec 27 10:53 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 27 10:56 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 27 11:00 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Dec 27 12:20 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 27 14:08 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 27 18:18 : player: played "Blondie - Call Me.mp3"
+Dec 27 18:23 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 27 18:25 : player: played "Blondie - I'm On E.mp3"
+Dec 27 18:29 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Dec 27 19:54 : player: played "Chris Cornell - You Know My Name.mp3"
+Dec 27 19:59 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 27 20:04 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Dec 27 20:08 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 27 20:11 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Dec 27 20:15 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 27 20:18 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Dec 27 20:22 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 27 20:46 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 27 20:49 : player: played "Devo - Gates of Steel.mp3"
+Dec 27 20:49 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 27 20:56 : player: played "Devo - Gates of Steel.mp3"
+Dec 27 20:59 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 27 21:02 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 27 21:05 : player: played "Devo - Time out for Fun.mp3"
+Dec 27 21:08 : player: played "Devo - Whip It.mp3"
+Dec 27 21:11 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Dec 27 21:17 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 27 21:22 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Dec 29 15:22 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 29 20:48 : player: played "Devo - Time out for Fun.mp3"
+Dec 29 21:18 : player: played "Devo - Whip It.mp3"
+Dec 29 22:27 : player: played "Depeche Mode - Strangelove.mp3"
+Dec 29 22:30 : player: played "Devo - Gates of Steel.mp3"
+Dec 29 22:33 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Dec 29 22:36 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 29 22:39 : player: played "Devo - Time out for Fun.mp3"
+Dec 30 11:31 : player: played "Devo - Whip It.mp3"
+Dec 30 11:37 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 11:37 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 11:37 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 11:42 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Dec 30 11:45 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 11:47 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Dec 30 11:47 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Dec 30 11:47 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 30 11:48 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 11:49 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 11:50 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 30 12:36 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 30 12:40 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Dec 30 12:45 : player: played "Biffy Clyro - Bubbles.mp3"
+Dec 30 12:50 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 30 12:56 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Dec 30 13:00 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Dec 30 13:04 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 30 13:11 : player: played "INXS - New Sensation.mp3"
+Dec 30 13:18 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 30 13:20 : player: played "Soft Cell - Tainted Love.mp3"
+Dec 30 13:23 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Dec 30 17:33 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 30 18:13 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 30 18:17 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Dec 30 18:22 : player: played "Steely Dan - My Old School.mp3"
+Dec 30 18:29 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 30 18:32 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 30 18:35 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 30 18:40 : player: played "The Knack - My Sharona.mp3"
+Dec 30 18:44 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 30 18:49 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Dec 30 18:53 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Dec 30 18:56 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Dec 30 18:59 : player: played "INXS - New Sensation.mp3"
+Dec 30 19:05 : player: played "Billy Joel - Piano Man.mp3"
+Dec 30 19:09 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 30 19:13 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Dec 30 19:17 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 30 19:20 : player: played "Bloc Party - Banquet.mp3"
+Dec 30 19:22 : player: played "Queen - We Will Rock You.mp3"
+Dec 30 19:26 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 30 19:45 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 30 19:50 : player: played "Foo Fighters - Congregation.mp3"
+Dec 30 19:56 : player: played "Toto - Rosanna.mp3"
+Dec 30 20:01 : player: played "The Human League - Mirror Man.mp3"
+Dec 30 21:10 : player: played "Toto - Africa.mp3"
+Dec 30 21:14 : player: played "The Cars - Just What I Needed.mp3"
+Dec 30 21:18 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Dec 30 21:21 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Dec 30 21:23 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 30 21:27 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Dec 30 21:32 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 30 21:37 : player: played "The B-52's - Love Shack.mp3"
+Dec 30 21:41 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 30 21:46 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Dec 31 12:21 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Dec 31 12:46 : player: played "Bangles - Manic Monday.mp3"
+Dec 31 12:50 : player: played "John Mellencamp - Hurts So Good.mp3"
+Dec 31 14:11 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Dec 31 14:16 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Dec 31 16:51 : player: played "Tears for Fears - Shout.mp3"
+Dec 31 16:55 : player: played "Heart - Barracuda.mp3"
+Dec 31 16:59 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Dec 31 17:03 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Dec 31 17:11 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Dec 31 17:15 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Dec 31 17:19 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Dec 31 17:22 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 31 17:26 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 31 17:29 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 31 17:32 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 31 17:36 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 31 17:40 : player: played "The Human League - Don't You Want Me.mp3"
+                                                         Dec 31 17:46 : player: played "The Police - Roxanne.mp3"
+Dec 31 17:52 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Dec 31 17:57 : player: played "Toto - Pamela.mp3"
+Dec 31 18:01 : player: played "Queen - Under Pressure.mp3"
+Dec 31 18:42 : player: played "The Police - Can't Stand Losing You.mp3"
+Dec 31 18:45 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Dec 31 18:48 : player: played "Ace Frehley - New York Groove.mp3"
+Dec 31 18:52 : player: played "Blondie - Heart Of Glass.mp3"
+Dec 31 18:57 : player: played "Radiohead - High and Dry.mp3"
+Dec 31 19:00 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Dec 31 19:03 : player: played "Bangles - Manic Monday.mp3"
+Dec 31 19:07 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Dec 31 19:12 : player: played "The Cult - She Sells Sanctuary.mp3"
+Dec 31 19:16 : player: played "Foo Fighters - Rope.mp3"
+Dec 31 19:20 : player: played "The Cars - Just What I Needed.mp3"
+Dec 31 19:24 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Dec 31 19:27 : player: played "The Turtles - Happy Together.mp3"
+Dec 31 19:30 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Dec 31 19:34 : player: played "Queen - Don't Stop Me Now.mp3"
+Dec 31 19:38 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Dec 31 19:42 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Dec 31 19:46 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Dec 31 19:53 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Dec 31 19:56 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Dec 31 19:59 : player: played "Madness - Our House.mp3"
+Dec 31 20:02 : player: played "Soft Cell - Tainted Love.mp3"
+Dec 31 20:07 : player: played "Wham! - Everything She Wants.mp3"
+Dec 31 20:10 : player: played "The Cure - Friday I'm in Love.mp3"
+Dec 31 20:12 : player: played "The Vines - Get Free.mp3"
+Dec 31 20:16 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Dec 31 20:21 : player: played "Joe Jackson - Steppin' Out.mp3"
+Dec 31 20:26 : player: played "Toto - Rosanna.mp3"
+Dec 31 20:31 : player: played "Loverboy - Turn Me Loose.mp3"
+Dec 31 20:34 : player: played "Devo - Time out for Fun.mp3"
+Dec 31 20:38 : player: played "Foo Fighters - Generator.mp3"
+Dec 31 20:49 : player: played "Pink Floyd - Have a Cigar.mp3"
+Dec 31 20:52 : player: played "Bloc Party - Banquet.mp3"
+Dec 31 20:55 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Dec 31 20:58 : player: played "Erasure - A Little Respect.mp3"
+Dec 31 21:00 : player: played "Foo Fighters - Big Me.mp3"
+Dec 31 21:08 : player: played "Toto - Gift Of Faith.mp3"
+Dec 31 21:58 : player: played "The Cars - Moving in Stereo.mp3"
+Dec 31 22:01 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Dec 31 22:06 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Dec 31 22:09 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Dec 31 22:14 : player: played "Queen - Somebody To Love.mp3"
+Dec 31 22:18 : player: played "The Offspring - Days Go By.mp3"
+Dec 31 22:22 : player: played "Bananarama - Venus.mp3"
+Dec 31 22:26 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Dec 31 22:30 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Dec 31 22:32 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Dec 31 22:36 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Dec 31 22:39 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Dec 31 22:47 : player: played "The Who - Won't Get Fooled Again.mp3"
+Dec 31 22:53 : player: played "Foo Fighters - Congregation.mp3"
+Dec 31 22:56 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Dec 31 23:00 : player: played "The Human League - Mirror Man.mp3"
+Dec 31 23:03 : player: played "Toto - Hold the Line.mp3"
+Dec 31 23:07 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Dec 31 23:11 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 01 14:39 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Jan 01 14:42 : player: played "Radiohead - Creep.mp3"
+Jan 01 14:46 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Jan 01 14:51 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Jan 01 14:54 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Jan 01 14:58 : player: played "The Human League - Mirror Man.mp3"
+Jan 01 15:01 : player: played "The Police - Can't Stand Losing You.mp3"
+Jan 01 15:03 : player: played "Kings of Leon - Molly's Chambers.mp3"
+Jan 01 15:06 : player: played "The Turtles - Happy Together.mp3"
+Jan 01 15:12 : player: played "Tears for Fears - Shout.mp3"
+Jan 01 15:16 : player: played "The Cure - Just like Heaven.mp3"
+Jan 01 15:19 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Jan 01 15:21 : player: played "The Vines - Get Free.mp3"
+Jan 01 15:26 : player: played "Queen - Somebody To Love.mp3"
+Jan 01 15:30 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Jan 01 15:35 : player: played "Styx - Mr. Roboto.mp3"
+Jan 01 15:37 : player: played "Queen - We Will Rock You.mp3"
+Jan 01 20:00 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Jan 01 20:04 : player: played "Foo Fighters - Generator.mp3"
+Jan 01 20:07 : player: played "Devo - Whip It.mp3"
+Jan 01 20:14 : player: played "Toto - Gift Of Faith.mp3"
+Jan 01 20:18 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Jan 01 20:21 : player: played "Queen - Don't Stop Me Now.mp3"
+Jan 01 20:27 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Jan 01 20:58 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Jan 01 21:02 : player: played "a-ha - Take on Me.mp3"
+Jan 01 21:05 : player: played "Ace Frehley - New York Groove.mp3"
+Jan 01 21:10 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Jan 01 21:16 : player: played "The Black Crowes - Remedy.mp3"
+Jan 01 21:19 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Jan 01 21:24 : player: played "Wham! - Everything She Wants.mp3"
+Jan 01 21:28 : player: played "Gary Numan - Cars.mp3"
+Jan 01 21:32 : player: played "Blondie - Call Me.mp3"
+Jan 01 21:35 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Jan 01 21:41 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 01 21:45 : player: played "The Guess Who - Undun (Remastered).mp3"
+Jan 01 21:48 : player: played "Erasure - A Little Respect.mp3"
+Jan 01 21:53 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 01 22:00 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Jan 01 22:03 : player: played "Toto - Hold the Line.mp3"
+Jan 01 22:07 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Jan 01 22:12 : player: played "Steely Dan - My Old School.mp3"
+Jan 01 22:16 : player: played "The Cars - Drive.mp3"
+Jan 01 22:19 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 01 22:22 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 01 22:27 : player: played "The Knack - My Sharona.mp3"
+Jan 01 22:32 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Jan 01 22:35 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 01 22:41 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Jan 01 22:46 : player: played "Foo Fighters - DOA.mp3"
+Jan 01 22:49 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 01 22:54 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Jan 01 22:59 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 01 23:02 : player: played "Queen - Another One Bites The Dust.mp3"
+Jan 01 23:06 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Jan 01 23:11 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 01 23:12 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 00:18 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Jan 02 00:22 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Jan 02 00:25 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 02 00:29 : player: played "The Cult - She Sells Sanctuary.mp3"
+Jan 02 00:33 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 02 00:35 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Jan 02 00:38 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 02 00:42 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 02 00:46 : player: played "Joe Jackson - Steppin' Out.mp3"
+Jan 02 12:59 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 02 13:04 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 02 13:09 : player: played "The Black Crowes - Remedy.mp3"
+Jan 02 13:16 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 02 13:21 : player: played "The B-52's - Love Shack.mp3"
+Jan 02 13:25 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 02 13:29 : player: played "The Cars - Just What I Needed.mp3"
+Jan 02 13:31 : player: played "The Turtles - Happy Together.mp3"
+Jan 02 13:35 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 02 13:38 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Jan 02 13:42 : player: played "Queen - Another One Bites The Dust.mp3"
+Jan 02 13:47 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Jan 02 13:50 : player: played "Foo Fighters - Breakout.mp3"
+Jan 02 13:53 : player: played "The Cure - Just like Heaven.mp3"
+Jan 02 13:58 : player: played "Foo Fighters - Rope.mp3"
+Jan 02 14:01 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 02 14:42 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 02 17:17 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 02 17:21 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 02 17:23 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 02 17:27 : player: played "Blondie - Call Me.mp3"
+Jan 02 17:32 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Jan 02 17:37 : player: played "Radiohead - High and Dry.mp3"
+Jan 02 17:41 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Jan 02 17:45 : player: played "INXS - New Sensation.mp3"
+Jan 02 17:48 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 02 17:53 : player: played "Depeche Mode - Strangelove.mp3"
+Jan 02 17:57 : player: played "Bananarama - Venus.mp3"
+Jan 02 17:59 : player: played "Foo Fighters - Big Me.mp3"
+Jan 02 18:01 : player: played "The Vines - Get Free.mp3"
+Jan 02 18:05 : player: played "Queen - Don't Stop Me Now.mp3"
+Jan 02 18:09 : player: played "The Guess Who - Undun (Remastered).mp3"
+Jan 02 18:11 : player: played "Queen - We Will Rock You.mp3"
+Jan 02 18:17 : player: played "Tears for Fears - Shout.mp3"
+Jan 02 18:21 : player: played "The Police - Every Breath You Take.mp3"
+Jan 02 18:26 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Jan 02 18:31 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 02 18:36 : player: played "Toto - Pamela.mp3"
+Jan 02 18:40 : player: played "The Cars - Just What I Needed.mp3"
+Jan 02 18:45 : player: played "Toto - Africa.mp3"
+Jan 02 18:48 : player: played "The Police - Can't Stand Losing You.mp3"
+Jan 02 18:51 : player: played "The Police - Roxanne.mp3"
+Jan 02 18:54 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Jan 02 18:59 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Jan 02 19:03 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Jan 02 19:05 : player: played "Blondie - I'm On E.mp3"
+Jan 02 19:09 : player: played "Joe Jackson - Steppin' Out.mp3"
+Jan 02 19:14 : player: played "The Cult - She Sells Sanctuary.mp3"
+Jan 02 19:17 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 02 19:21 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 02 19:26 : player: played "Incubus - Megalomaniac.mp3"
+Jan 02 19:29 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 02 19:32 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Jan 02 19:35 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 02 19:41 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Jan 02 19:44 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 02 19:57 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Jan 02 20:04 : player: played "Toto - Gift Of Faith.mp3"
+Jan 02 20:09 : player: played "Wham! - Everything She Wants.mp3"
+Jan 02 21:13 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 02 21:17 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Jan 02 21:20 : player: played "Devo - Gates of Steel.mp3"
+Jan 02 21:25 : player: played "The Black Crowes - Remedy.mp3"
+Jan 02 21:29 : player: played "Foo Fighters - DOA.mp3"
+Jan 02 21:32 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 02 21:36 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 02 21:39 : player: played "Foo Fighters - Generator.mp3"
+Jan 02 21:45 : player: played "The B-52's - Love Shack.mp3"
+Jan 02 21:48 : player: played "Madness - Our House.mp3"
+Jan 02 21:51 : player: played "Foo Fighters - Breakout.mp3"
+Jan 02 21:55 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Jan 02 21:59 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 02 22:01 : player: played "Devo - Time out for Fun.mp3"
+Jan 02 22:06 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Jan 02 22:09 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Jan 02 22:14 : player: played "Biffy Clyro - Bubbles.mp3"
+Jan 02 22:18 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Jan 02 22:23 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Jan 02 23:01 : player: played "Billy Joel - Piano Man.mp3"
+Jan 02 23:04 : player: played "Tears for Fears - Mad World.mp3"
+Jan 02 23:08 : player: played "Foo Fighters - Rope.mp3"
+Jan 02 23:11 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Jan 02 23:15 : player: played "The Cars - Drive.mp3"
+Jan 02 23:19 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Jan 02 23:22 : player: played "Devo - Whip It.mp3"
+Jan 02 23:26 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 02 23:30 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Jan 02 23:34 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Jan 02 23:41 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 02 23:45 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Jan 02 23:49 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 02 23:54 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 02 23:58 : player: played "Queen - Under Pressure.mp3"
+Jan 03 13:07 : player: played "Depeche Mode - Strangelove.mp3"
+Jan 03 13:11 : player: played "Devo - Gates of Steel.mp3"
+Jan 03 13:14 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 03 13:17 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Jan 03 14:17 : player: played "Devo - Time out for Fun.mp3"
+Jan 03 14:20 : player: played "Devo - Whip It.mp3"
+Jan 03 14:23 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Jan 03 14:29 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Jan 03 14:34 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 03 14:37 : player: played "Erasure - A Little Respect.mp3"
+Jan 03 14:42 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 04 01:01 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 04 01:03 : player: played "Foo Fighters - Big Me.mp3"
+Jan 04 01:06 : player: played "Foo Fighters - Breakout.mp3"
+Jan 04 01:11 : player: played "Foo Fighters - Congregation.mp3"
+Jan 04 01:15 : player: played "Foo Fighters - DOA.mp3"
+Jan 04 12:54 : player: played "Foo Fighters - Generator.mp3"
+Jan 04 12:58 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Jan 04 13:02 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Jan 04 13:06 : player: played "Foo Fighters - Rope.mp3"
+Jan 04 13:13 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Jan 04 13:17 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 04 13:21 : player: played "Gary Numan - Cars.mp3"
+Jan 04 13:27 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Jan 04 13:31 : player: played "Heart - Barracuda.mp3"
+Jan 04 13:35 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 04 13:40 : player: played "Incubus - Megalomaniac.mp3"
+Jan 04 13:45 : player: played "INXS - New Sensation.mp3"
+Jan 04 13:49 : player: played "Joe Jackson - Steppin' Out.mp3"
+Jan 04 13:53 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 04 15:46 : player: played "Chris Cornell - You Know My Name.mp3"
+Jan 04 17:25 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Jan 04 17:29 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Jan 04 17:34 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 04 17:38 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 04 17:41 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Jan 04 17:44 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Jan 04 17:48 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Jan 04 17:52 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Jan 04 17:55 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 04 17:59 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Jan 04 18:02 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 04 18:04 : player: played "Kings of Leon - Molly's Chambers.mp3"
+Jan 04 18:07 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 04 18:11 : player: played "KISS - I Was Made For Lovin' You.mp3"
+Jan 04 18:14 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Jan 04 18:20 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 04 18:23 : player: played "Madness - Our House.mp3"
+Jan 04 18:27 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Jan 04 18:30 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Jan 04 18:34 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 04 18:41 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 04 18:44 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jan 04 23:11 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 05 16:03 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 05 16:06 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Jan 06 15:33 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Jan 06 15:36 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Jan 06 15:41 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 06 15:45 : player: played "Queen - Another One Bites The Dust.mp3"
+Jan 06 15:48 : player: played "Queen - Don't Stop Me Now.mp3"
+Jan 06 23:30 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Jan 06 23:34 : player: played "Tears for Fears - Mad World.mp3"
+Jan 06 23:38 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 06 23:44 : player: played "Tears for Fears - Shout.mp3"
+Jan 06 23:52 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Jan 07 00:01 : player: played "The B-52's - Love Shack.mp3"
+Jan 07 00:04 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 07 00:09 : player: played "The Black Crowes - Remedy.mp3"
+Jan 07 00:13 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Jan 07 16:44 : player: played "The Cars - Drive.mp3"
+Jan 07 16:48 : player: played "The Cars - Just What I Needed.mp3"
+Jan 07 16:52 : player: played "The Cars - You Might Think.mp3"
+Jan 07 17:11 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 07 17:16 : player: played "The Cult - She Sells Sanctuary.mp3"
+Jan 07 17:18 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Jan 07 17:22 : player: played "The Cure - Friday I'm in Love.mp3"
+Jan 07 17:26 : player: played "The Cure - Just like Heaven.mp3"
+Jan 07 17:45 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 07 18:22 : player: played "The Guess Who - Undun (Remastered).mp3"
+Jan 07 18:27 : player: played "The Human League - Mirror Man.mp3"
+Jan 07 19:01 : player: played "The Knack - My Sharona.mp3"
+Jan 07 19:04 : player: played "The Police - Can't Stand Losing You.mp3"
+Jan 07 20:39 : player: played "The Offspring - Days Go By.mp3"
+Jan 07 20:43 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Jan 07 20:47 : player: played "The Police - Every Breath You Take.mp3"
+Jan 07 20:50 : player: played "The Police - Roxanne.mp3"
+Jan 07 20:55 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Jan 07 20:57 : player: played "The Turtles - Happy Together.mp3"
+Jan 07 21:01 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 07 21:03 : player: played "The Vines - Get Free.mp3"
+Jan 07 21:12 : player: played "The Who - Won't Get Fooled Again.mp3"
+Jan 07 21:16 : player: played "Toto - Africa.mp3"
+Jan 07 21:24 : player: played "Toto - Gift Of Faith.mp3"
+Jan 07 21:44 : player: played "Toto - Hold the Line.mp3"
+Jan 07 21:50 : player: played "Toto - Pamela.mp3"
+Jan 07 21:55 : player: played "Toto - Rosanna.mp3"
+Jan 07 22:03 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Jan 07 22:08 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Jan 07 22:13 : player: played "Wham! - Everything She Wants.mp3"
+Jan 07 22:16 : player: played "Wolfmother - Woman.mp3"
+Jan 07 22:22 : player: played "Billy Joel - Piano Man.mp3"
+Jan 07 22:25 : player: played "Bloc Party - Banquet.mp3"
+Jan 07 22:29 : player: played "Blondie - Call Me.mp3"
+Jan 07 22:33 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 08 13:53 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 08 13:53 : exception: Not playing
+Jan 08 13:54 : exception: Bad playlist name
+Jan 08 15:13 : player: played "a-ha - Take on Me.mp3"
+Jan 08 15:19 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Jan 08 15:23 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Jan 08 15:26 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Jan 08 15:29 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Jan 08 15:34 : player: played "Depeche Mode - Strangelove.mp3"
+Jan 08 15:38 : player: played "Depeche Mode - Just Can't Get Enough.mp3"
+Jan 08 15:42 : player: played "Depeche Mode - Enjoy the Silence.mp3"
+Jan 08 15:45 : player: played "Devo - Whip It.mp3"
+Jan 08 15:45 : player: played "Devo - Gates of Steel.mp3"
+Jan 08 15:49 : player: played "Devo - Gates of Steel.mp3"
+Jan 08 15:51 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 08 15:55 : player: played "The Police - Every Breath You Take.mp3"
+Jan 08 15:58 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 08 16:02 : player: played "Bananarama - Venus.mp3"
+Jan 08 16:06 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Jan 08 16:11 : player: played "Biffy Clyro - Bubbles.mp3"
+Jan 08 16:14 : player: played "Blondie - I'm On E.mp3"
+Jan 08 16:18 : player: played "Incubus - Megalomaniac.mp3"
+Jan 08 16:25 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 08 16:29 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 08 16:31 : player: played "The Turtles - Happy Together.mp3"
+Jan 08 16:35 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Jan 08 16:40 : player: played "KISS - I Was Made For Lovin' You.mp3"
+Jan 08 16:42 : player: played "The Vines - Get Free.mp3"
+Jan 08 17:12 : player: played "The Cars - My Best Friend's Girl.mp3"
+Jan 08 17:16 : player: played "The Cult - She Sells Sanctuary.mp3"
+Jan 08 17:19 : player: played "Ace Frehley - New York Groove.mp3"
+Jan 08 17:24 : player: played "The Knack - My Sharona.mp3"
+Jan 08 17:27 : player: played "The Police - Roxanne.mp3"
+Jan 08 17:31 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Jan 08 17:39 : player: played "Toto - Gift Of Faith.mp3"
+Jan 08 17:43 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 08 17:45 : player: played "Foo Fighters - Big Me.mp3"
+Jan 08 17:50 : player: played "Billy Joel - Piano Man.mp3"
+Jan 08 17:54 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 08 18:03 : player: played "Radiohead - High and Dry.mp3"
+Jan 08 18:15 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 08 18:18 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Jan 08 18:21 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 08 18:26 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 08 18:30 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 08 18:37 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 08 18:41 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 08 18:46 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 08 18:49 : player: played "Erasure - A Little Respect.mp3"
+Jan 08 18:53 : player: played "Foo Fighters - DOA.mp3"
+Jan 08 18:58 : player: played "Queen - Somebody To Love.mp3"
+Jan 08 19:02 : player: played "Queen - Under Pressure.mp3"
+Jan 08 19:05 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Jan 08 19:08 : player: played "Bangles - Manic Monday.mp3"
+Jan 08 19:12 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 08 19:21 : player: played "The Who - Won't Get Fooled Again.mp3"
+Jan 08 19:24 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 08 19:29 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Jan 08 19:33 : player: played "The Offspring - Days Go By.mp3"
+Jan 08 19:37 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Jan 08 19:42 : player: played "Toto - Rosanna.mp3"
+Jan 08 19:47 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 08 19:47 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 08 19:50 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 08 19:53 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 08 19:58 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 08 20:47 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 08 20:51 : player: played "Talking Heads - Burning Down the House.mp3"
+Jan 08 20:56 : player: played "Toto - Pamela.mp3"
+Jan 08 20:59 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 08 21:03 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 08 21:09 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Jan 08 21:12 : player: played "Devo - Time out for Fun.mp3"
+Jan 08 21:16 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Jan 08 21:20 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Jan 08 21:24 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Jan 08 21:27 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 08 21:30 : player: played "The Cure - Just like Heaven.mp3"
+Jan 08 21:35 : player: played "The B-52's - Love Shack.mp3"
+Jan 08 21:38 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 08 22:35 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Jan 08 22:38 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Jan 09 12:44 : player: played "Queen - Under Pressure.mp3"
+Jan 09 12:49 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 09 14:10 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Jan 09 14:14 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 09 14:18 : player: played "The Human League - Mirror Man.mp3"
+Jan 09 14:21 : player: played "Ace Frehley - New York Groove.mp3"
+Jan 09 14:48 : player: played "The Cars - Moving in Stereo.mp3"
+Jan 09 14:52 : player: played "Heart - Barracuda.mp3"
+Jan 09 15:51 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Jan 09 15:59 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Jan 09 16:04 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 09 16:08 : player: played "INXS - New Sensation.mp3"
+Jan 09 16:12 : player: played "Foo Fighters - Rope.mp3"
+Jan 09 16:17 : player: played "Incubus - Megalomaniac.mp3"
+Jan 09 16:23 : player: played "Billy Joel - Piano Man.mp3"
+Jan 09 16:28 : player: played "Biffy Clyro - Bubbles.mp3"
+Jan 09 16:30 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Jan 09 23:15 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 09 23:21 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 09 23:23 : player: played "Blondie - I'm On E.mp3"
+Jan 09 23:27 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 09 23:30 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 10 12:25 : player: played "The Cars - Drive.mp3"
+Jan 10 12:29 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 10 12:34 : player: played "Foo Fighters - DOA.mp3"
+Jan 10 12:38 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Jan 10 12:42 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 10 14:20 : player: played "Tears for Fears - Mad World.mp3"
+Jan 10 16:04 : player: played "Tears for Fears - Mad World.mp3"
+Jan 10 17:45 : player: played "Tears for Fears - Mad World.mp3"
+Jan 10 17:47 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 10 17:59 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 10 18:51 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 10 19:05 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 10 19:12 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 10 22:20 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 10 22:24 : player: played "INXS - New Sensation.mp3"
+Jan 10 22:27 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Jan 10 23:07 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 10 23:12 : player: played "Toto - Rosanna.mp3"
+Jan 10 23:17 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 10 23:22 : player: played "Toto - Hold the Line.mp3"
+Jan 10 23:27 : player: played "Biffy Clyro - Bubbles.mp3"
+Jan 10 23:31 : player: played "The Cars - Drive.mp3"
+Jan 10 23:36 : player: played "Incubus - Megalomaniac.mp3"
+Jan 10 23:39 : player: played "The Cure - Just like Heaven.mp3"
+Jan 10 23:43 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 10 23:47 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 10 23:53 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 10 23:56 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Jan 10 23:59 : player: played "Blondie - I'm On E.mp3"
+Jan 11 14:18 : player: played "The Police - Can't Stand Losing You.mp3"
+Jan 11 14:21 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Jan 11 14:24 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Jan 11 14:26 : player: played "Queen - We Will Rock You.mp3"
+Jan 11 14:30 : player: played "The Cars - Just What I Needed.mp3"
+Jan 11 14:34 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 11 14:37 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 11 14:41 : player: played "Talking Heads - Burning Down the House.mp3"
+Jan 11 14:45 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 11 14:49 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 11 14:52 : player: played "Ace Frehley - New York Groove.mp3"
+Jan 11 14:56 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Jan 11 14:59 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Jan 11 15:04 : player: played "Queen - Somebody To Love.mp3"
+Jan 11 15:09 : player: played "Wham! - Everything She Wants.mp3"
+Jan 11 15:14 : player: played "Radiohead - High and Dry.mp3"
+Jan 11 15:18 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Jan 11 15:21 : player: played "Devo - Time out for Fun.mp3"
+Jan 11 15:25 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 11 15:27 : player: played "Blondie - I'm On E.mp3"
+Jan 11 15:31 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Jan 11 15:38 : player: played "Biffy Clyro - Bubbles.mp3"
+Jan 11 15:42 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Jan 11 15:45 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 11 15:49 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 11 15:54 : player: played "Toto - Africa.mp3"
+Jan 11 16:11 : player: played "The Knack - My Sharona.mp3"
+Jan 11 16:14 : player: played "The Human League - Mirror Man.mp3"
+Jan 11 16:17 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 11 16:21 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Jan 11 16:26 : player: played "Steely Dan - My Old School.mp3"
+Jan 11 16:30 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Jan 11 16:34 : player: played "Devo - Gates of Steel.mp3"
+Jan 11 16:37 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 11 16:43 : player: played "Toto - Rosanna.mp3"
+Jan 11 16:46 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 11 17:04 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 11 18:23 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Jan 11 18:29 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 11 18:33 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Jan 11 18:38 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Jan 11 18:42 : player: played "Chris Cornell - You Know My Name.mp3"
+Jan 11 18:43 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jan 11 18:46 : player: played "Toto - Hold the Line.mp3"
+Jan 11 18:50 : player: played "The Police - Every Breath You Take.mp3"
+Jan 11 18:54 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Jan 11 18:59 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 11 19:03 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 11 19:07 : player: played "Joe Jackson - Steppin' Out.mp3"
+Jan 11 19:11 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 11 19:15 : player: played "Heart - Barracuda.mp3"
+Jan 11 19:20 : player: played "The Black Crowes - Remedy.mp3"
+Jan 11 19:24 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 11 19:28 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Jan 11 19:32 : player: played "The Cars - My Best Friend's Girl.mp3"
+Jan 11 19:34 : player: played "The Turtles - Happy Together.mp3"
+Jan 11 19:38 : player: played "Radiohead - Creep.mp3"
+Jan 11 19:43 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 11 19:46 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 11 19:50 : player: played "Queen - Under Pressure.mp3"
+Jan 12 13:11 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jan 12 13:18 : player: played "Billy Joel - Piano Man.mp3"
+Jan 12 13:22 : player: played "The Knack - My Sharona.mp3"
+Jan 12 13:26 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 12 13:30 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 12 13:32 : player: played "The Vines - Get Free.mp3"
+Jan 12 13:35 : player: played "Ace Frehley - New York Groove.mp3"
+Jan 12 13:39 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 12 13:44 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 12 13:48 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 12 13:51 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Jan 12 13:57 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 12 14:01 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 12 14:04 : player: played "The Police - Can't Stand Losing You.mp3"
+Jan 12 14:07 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 12 14:11 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 12 14:14 : player: played "Queen - Another One Bites The Dust.mp3"
+Jan 12 14:18 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Jan 12 14:23 : player: played "The Black Crowes - Remedy.mp3"
+Jan 12 14:27 : player: played "Foo Fighters - Breakout.mp3"
+Jan 12 14:38 : player: played "The Cars - Just What I Needed.mp3"
+Jan 12 17:50 : player: played "The Police - Roxanne.mp3"
+Jan 12 17:54 : player: played "Talking Heads - Burning Down the House.mp3"
+Jan 12 17:57 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 12 18:01 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Jan 12 18:03 : player: played "Devo - Time out for Fun.mp3"
+Jan 12 18:11 : player: played "Toto - Gift Of Faith.mp3"
+Jan 12 18:14 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 12 18:16 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Jan 12 18:23 : player: played "Styx - Mr. Roboto.mp3"
+Jan 12 18:26 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 12 18:30 : player: played "Erasure - A Little Respect.mp3"
+Jan 12 18:35 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Jan 12 18:51 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Jan 12 20:40 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Jan 12 20:43 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Jan 12 20:47 : player: played "Madness - Our House.mp3"
+Jan 12 20:50 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Jan 12 20:58 : player: played "Toto - Gift Of Faith.mp3"
+Jan 12 21:02 : player: played "Queen - Somebody To Love.mp3"
+Jan 12 21:06 : player: played "Tears for Fears - Mad World.mp3"
+Jan 12 21:09 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Jan 12 21:12 : player: played "Erasure - A Little Respect.mp3"
+Jan 12 21:16 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 12 21:19 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Jan 12 21:22 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Jan 12 21:25 : player: played "Queen - Don't Stop Me Now.mp3"
+Jan 12 21:28 : player: played "Blondie - Call Me.mp3"
+Jan 12 21:33 : player: played "The Knack - My Sharona.mp3"
+Jan 12 21:35 : player: played "Foo Fighters - Big Me.mp3"
+Jan 12 21:39 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Jan 12 21:43 : player: played "Toto - Africa.mp3"
+Jan 12 21:47 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Jan 12 21:51 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 12 21:56 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 12 22:00 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Jan 12 22:03 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 12 22:07 : player: played "Chris Cornell - You Know My Name.mp3"
+Jan 12 22:10 : player: played "INXS - New Sensation.mp3"
+Jan 12 22:15 : player: played "The Guess Who - Undun (Remastered).mp3"
+Jan 12 22:18 : player: played "Foo Fighters - Breakout.mp3"
+Jan 12 22:21 : player: played "Queen - Another One Bites The Dust.mp3"
+Jan 12 22:38 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 12 22:42 : player: played "Gary Numan - Cars.mp3"
+Jan 12 23:05 : player: played "Bananarama - Venus.mp3"
+Jan 12 23:15 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 12 23:26 : player: played "Toto - Rosanna.mp3"
+Jan 12 23:28 : player: played "Devo - Time out for Fun.mp3"
+Jan 12 23:34 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Jan 12 23:37 : player: played "The Cure - Friday I'm in Love.mp3"
+Jan 12 23:40 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 12 23:44 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 12 23:51 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 12 23:58 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Jan 13 00:02 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 13 00:05 : player: played "Toto - Hold the Line.mp3"
+Jan 13 00:11 : player: played "The Black Crowes - Remedy.mp3"
+Jan 13 00:14 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 13 00:17 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 13 00:21 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 13 00:24 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 13 00:35 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Jan 13 00:39 : player: played "Joe Jackson - Steppin' Out.mp3"
+Jan 13 00:44 : player: played "Toto - Pamela.mp3"
+Jan 13 00:47 : player: played "The Cars - You Might Think.mp3"
+Jan 13 00:51 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 13 00:55 : player: played "Heart - Barracuda.mp3"
+Jan 13 00:59 : player: played "Talking Heads - Burning Down the House.mp3"
+Jan 13 01:02 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 13 01:05 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Jan 13 01:10 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 13 01:16 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 13 01:20 : player: played "Foo Fighters - DOA.mp3"
+Jan 13 12:46 : player: played "The Police - Every Breath You Take.mp3"
+Jan 13 13:06 : player: played "The Police - Every Breath You Take.mp3"
+Jan 13 13:09 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 13 13:41 : player: played "The Police - So Lonely (Remastered 2003).mp3"
+Jan 13 13:46 : player: played "Queen - Somebody To Love.mp3"
+Jan 13 13:50 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Jan 13 13:57 : player: played "Toto - Gift Of Faith.mp3"
+Jan 13 14:01 : player: played "Foo Fighters - DOA.mp3"
+Jan 13 14:17 : player: played "The Knack - My Sharona.mp3"
+Jan 13 14:20 : player: played "Bangles - Manic Monday.mp3"
+Jan 13 14:26 : player: played "Duran Duran - Rio (2009 Remaster).mp3"
+Jan 13 14:29 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 13 14:34 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 13 14:40 : player: played "Tears for Fears - Shout.mp3"
+Jan 13 14:43 : player: played "Ace Frehley - New York Groove.mp3"
+Jan 13 14:47 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Jan 13 14:49 : player: played "The Turtles - Happy Together.mp3"
+Jan 13 14:54 : player: played "Wang Chung - To Live And Die In L.A.mp3"
+Jan 13 14:58 : player: played "Bananarama - Venus.mp3"
+Jan 13 15:01 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Jan 13 15:08 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 13 15:15 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Jan 13 15:19 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Jan 13 15:23 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Jan 13 15:27 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 13 15:29 : player: played "Foo Fighters - Big Me.mp3"
+Jan 13 15:34 : player: played "The Guess Who - No Sugar Tonight _ New Mother Nature.mp3"
+Jan 13 15:45 : player: played "The Who - Won't Get Fooled Again.mp3"
+Jan 13 15:48 : player: played "Bloc Party - Banquet.mp3"
+Jan 13 15:53 : player: played "The Cars - Moving in Stereo.mp3"
+Jan 13 15:57 : player: played "Toto - Africa.mp3"
+Jan 13 16:02 : player: played "Joe Jackson - Steppin' Out.mp3"
+Jan 13 16:05 : player: played "The Cure - Just like Heaven.mp3"
+Jan 13 16:11 : player: played "Toto - Rosanna.mp3"
+Jan 13 16:14 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 13 16:18 : player: played "The Cult - She Sells Sanctuary.mp3"
+Jan 13 16:21 : player: played "Rick Springfield - Jessie's Girl.mp3"
+Jan 13 16:25 : player: played "Rise Against - Re-Education (Through Labor).mp3"
+Jan 13 16:27 : player: played "Devo - Time out for Fun.mp3"
+Jan 13 16:33 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Jan 13 16:38 : player: played "The Black Crowes - Remedy.mp3"
+Jan 13 16:41 : player: played "Tears for Fears - Mad World.mp3"
+Jan 13 16:45 : player: played "Queen - Don't Stop Me Now.mp3"
+Jan 13 16:48 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Jan 13 16:52 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 13 17:10 : player: played "Radiohead - High and Dry.mp3"
+Jan 13 17:15 : player: played "Biffy Clyro - Bubbles.mp3"
+Jan 13 17:20 : player: played "Guns N' Roses - Sweet Child O' Mine.mp3"
+Jan 13 17:23 : player: played "Devo - Jerkin' Back 'N' Forth (2010 Remaster).mp3"
+Jan 13 17:26 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 13 17:30 : player: played "Gary Numan - Cars.mp3"
+Jan 13 17:33 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 13 17:36 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 13 17:40 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Jan 13 17:43 : player: played "The Cars - You Might Think.mp3"
+Jan 13 17:49 : player: played "The B-52's - Love Shack.mp3"
+Jan 13 17:52 : player: played "The Police - Can't Stand Losing You.mp3"
+Jan 13 17:56 : player: played "The Offspring - Days Go By.mp3"
+Jan 13 17:58 : player: played "Blondie - I'm On E.mp3"
+Jan 13 18:01 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jan 13 18:02 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 13 18:07 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 13 18:09 : player: played "The Vines - Get Free.mp3"
+Jan 13 18:12 : player: played "The Cure - Boys Don't Cry (Single Version).mp3"
+Jan 13 18:15 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 13 18:18 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 13 18:22 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Jan 13 18:25 : player: played "Madness - Our House.mp3"
+Jan 13 18:29 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Jan 13 18:33 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Jan 13 18:36 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Jan 13 18:39 : player: played "Queen - Another One Bites The Dust.mp3"
+Jan 13 18:43 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 13 18:45 : player: played "Wolfmother - Woman.mp3"
+Jan 13 18:50 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 13 18:54 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Jan 13 18:58 : player: played "Bon Jovi - You Give Love A Bad Name.mp3"
+Jan 13 19:01 : player: played "Orchestral Manoeuvres in the Dark - (Forever) Live And Die.mp3"
+Jan 13 19:04 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 13 19:15 : player: played "Incubus - Megalomaniac.mp3"
+Jan 13 19:19 : player: played "Kaiser Chiefs - I Predict A Riot.mp3"
+Jan 13 19:23 : player: played "Foo Fighters - Rope.mp3"
+Jan 13 19:27 : player: played "The Cars - Just What I Needed.mp3"
+Jan 13 19:30 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 13 19:36 : player: played "Styx - Mr. Roboto.mp3"
+Jan 13 19:41 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 13 19:45 : player: played "KISS - I Was Made For Lovin' You.mp3"
+Jan 13 19:49 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 13 19:53 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Jan 13 19:59 : player: played "The Cars - My Best Friend's Girl.mp3"
+Jan 13 20:05 : player: played "Steely Dan - My Old School.mp3"
+Jan 13 20:07 : player: played "Queen - We Will Rock You.mp3"
+Jan 13 20:09 : player: played "Kings of Leon - Molly's Chambers.mp3"
+Jan 13 20:13 : player: played "The Guess Who - Undun (Remastered).mp3"
+Jan 13 20:18 : player: played "Foo Fighters - Congregation.mp3"
+Jan 13 20:22 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Jan 13 21:31 : player: played "Foster the People - Pumped Up Kicks.mp3"
+Jan 13 21:35 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Jan 13 21:38 : player: played "Erasure - A Little Respect.mp3"
+Jan 13 21:42 : player: played "The Cars - Drive.mp3"
+Jan 13 21:46 : player: played "INXS - New Sensation.mp3"
+Jan 13 21:50 : player: played "Toto - Hold the Line.mp3"
+Jan 13 21:53 : player: played "Devo - Gates of Steel.mp3"
+Jan 13 21:57 : player: played "Queen - Under Pressure.mp3"
+Jan 13 22:02 : player: played "Billy Joel - Piano Man.mp3"
+Jan 13 22:06 : player: played "Philip Oakey - Together In Electric Dreams (2003 Remastered Version).mp3"
+Jan 13 22:10 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Jan 13 22:13 : player: played "Chris Cornell - You Know My Name.mp3"
+Jan 13 22:17 : player: played "Stone Temple Pilots - Sex Type Thing (2017 Remaster).mp3"
+Jan 13 22:21 : player: played "Talking Heads - Burning Down the House.mp3"
+Jan 13 22:24 : player: played "Blondie - Call Me.mp3"
+Jan 13 22:28 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 13 22:32 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 13 22:35 : player: played "The Cure - Friday I'm in Love.mp3"
+Jan 13 22:40 : player: played "Heart - Barracuda.mp3"
+Jan 13 22:45 : player: played "Toto - Pamela.mp3"
+Jan 13 22:48 : player: played "The Police - Roxanne.mp3"
+Jan 13 22:53 : player: played "Wham! - Everything She Wants.mp3"
+Jan 13 22:56 : player: played "Foo Fighters - Breakout.mp3"
+Jan 13 23:00 : player: played "Queens of the Stone Age - 3's & 7's.mp3"
+Jan 13 23:03 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 13 23:08 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 13 23:13 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Jan 13 23:21 : player: played "Radiohead - Creep.mp3"
+Jan 13 23:24 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 13 23:28 : player: played "The Human League - Mirror Man.mp3"
+Jan 13 23:31 : player: played "Foo Fighters - Generator.mp3"
+Jan 13 23:36 : player: played "John Mellencamp - Hurts So Good.mp3"
+Jan 13 23:40 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Jan 13 23:44 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Jan 13 23:47 : player: played "Pat Benatar - Hit Me With Your Best Shot.mp3"
+Jan 13 23:51 : player: played "Simple Minds - Don't You (Forget About Me).mp3"
+Jan 13 23:54 : player: played "Lindsey Buckingham - Go Insane.mp3"
+Jan 13 23:58 : player: played "Radiohead - High and Dry.mp3"
+Jan 14 00:03 : player: played "Heart - Barracuda.mp3"
+Jan 14 00:08 : player: played "The Black Crowes - Remedy.mp3"
+Jan 14 00:11 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 14 00:15 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 14 00:18 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 14 00:22 : player: played "Talk Talk - It's My Life (1997 Remaster).mp3"
+Jan 14 00:32 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 14 01:17 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Jan 14 01:33 : player: played "Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+Jan 14 01:36 : player: played "Tears for Fears - Mad World.mp3"
+Jan 14 01:39 : player: played "Dead or Alive - You Spin Me Round (Like A Record) (Original 7_ Mix).mp3"
+Jan 14 01:43 : player: played "Radiohead - Creep.mp3"
+Jan 14 01:48 : player: played "Toto - Pamela.mp3"
+Jan 14 01:51 : player: played "The Turtles - Happy Together.mp3"
+Jan 14 01:55 : player: played "The Hives - Walk Idiot Walk Album Version.mp3"
+Jan 14 01:59 : player: played "Foo Fighters - Rope.mp3"
+Jan 14 12:17 : player: played "The Human League - Mirror Man.mp3"
+Jan 14 12:21 : player: played "Gary Numan - Cars.mp3"
+Jan 14 12:24 : player: played "Bloc Party - Banquet.mp3"
+Jan 14 12:27 : player: played "The Cure - Friday I'm in Love.mp3"
+Jan 14 12:31 : player: played "a-ha - Take on Me.mp3"
+Jan 14 12:36 : player: played "Depeche Mode - Strangelove.mp3"
+Jan 14 12:46 : player: played "Toto - Hold the Line.mp3"
+Jan 14 12:50 : player: played "Devo - Gates of Steel.mp3"
+Jan 14 12:54 : player: played "Talking Heads - Psycho Killer (2005 Remaster).mp3"
+Jan 14 12:57 : player: played "Joy Division - Love Will Tear Us Apart (2010 Remaster).mp3"
+Jan 14 13:01 : player: played "Fine Young Cannibals - Good Thing.mp3"
+Jan 14 13:05 : player: played "Eurythmics - Here Comes the Rain Again (Remastered Version).mp3"
+Jan 14 13:09 : player: played "Missing Persons - Mental Hopscotch.mp3"
+Jan 14 13:10 : player: played "Queen - We Will Rock You.mp3"
+Jan 14 13:16 : player: played "Billy Joel - Piano Man.mp3"
+Jan 14 13:21 : player: played "Daryl Hall & John Oates - I Can't Go for That (No Can Do).mp3"
+Jan 14 13:25 : player: played "Erasure - A Little Respect.mp3"
+Jan 14 13:28 : player: played "The Clash - Should I Stay or Should I Go (Remastered).mp3"
+Jan 14 13:33 : player: played "The B-52's - Love Shack.mp3"
+Jan 14 13:38 : player: played "Radiohead - Weird Fishes_ Arpeggi.mp3"
+Jan 14 13:43 : player: played "Electric Light Orchestra - Mr. Blue Sky.mp3"
+Jan 14 13:46 : player: played "Bangles - Manic Monday.mp3"
+Jan 14 13:50 : player: played "Pet Shop Boys - Always on My Mind (2003 Remaster).mp3"
+Jan 14 13:55 : player: played "Pink Floyd - Have a Cigar.mp3"
+Jan 14 13:59 : player: played "Heart - Barracuda.mp3"
+Jan 14 14:03 : player: played "Martha and the Muffins - Echo Beach.mp3"
+Jan 14 14:06 : player: played "Daryl Hall & John Oates - Private Eyes.mp3"
+Jan 14 14:10 : player: played "The Hives - Hate To Say I Told You So.mp3"
+Jan 14 14:14 : player: played "Incubus - Megalomaniac.mp3"
+Jan 14 14:18 : player: played "Foo Fighters - Breakout.mp3"
+Jan 14 14:20 : player: played "Devo - Time out for Fun.mp3"
+Jan 14 14:24 : player: played "The Human League - Don't You Want Me.mp3"
+Jan 14 14:26 : player: played "Foo Fighters - Big Me.mp3"
+Jan 14 14:43 : player: played "The Police - Don't Stand So Close To Me.mp3"
+Jan 14 14:49 : player: played "Loverboy - Turn Me Loose.mp3"
+Jan 14 14:54 : player: played "Van Halen - I'll Wait (2015 Remaster).mp3"
+Jan 14 14:58 : player: played "Daryl Hall & John Oates - Maneater.mp3"
+Jan 14 15:01 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jan 14 15:01 : player: played "AC_DC - You Shook Me All Night Long.mp3"
+Jan 14 15:05 : player: played "Naked Eyes - Promises, Promises (Single Edit).mp3"
+Jan 14 15:10 : player: played "Foo Fighters - Congregation.mp3"
+Jan 14 15:14 : player: played "Tears for Fears - Everybody Wants To Rule The World.mp3"
+Jan 14 15:18 : player: played "Huey Lewis & The News - Doing It All For My Baby.mp3"
+Jan 14 15:21 : player: played "Kaiser Chiefs - Never Miss A Beat.mp3"
+Jan 14 15:24 : player: played "Kings of Leon - The Bucket.mp3"
+Jan 14 15:28 : player: played "Foo Fighters - I'll Stick Around.mp3"
+Jan 14 15:30 : player: played "Blondie - I'm On E.mp3"
+Jan 14 15:36 : player: played "Tears for Fears - Sowing The Seeds Of Love.mp3"
+Jan 14 15:44 : player: played "New Order - Blue Monday (2016 Remaster).mp3"
+Jan 14 15:48 : player: played "Tears for Fears - Head Over Heels (Dave Bascombe 7_ N.Mix).mp3"
+Jan 14 15:51 : player: played "Queen - Don't Stop Me Now.mp3"
+Jan 14 15:55 : player: played "The Cars - Just What I Needed.mp3"
+Jan 14 16:00 : player: played "The Knack - My Sharona.mp3"
+Jan 14 16:03 : player: played "The Bangles - Walk Like an Egyptian.mp3"
+Jan 14 16:05 : player: played "Kings of Leon - Molly's Chambers.mp3"
+Jan 14 16:09 : player: played "Foo Fighters - Long Road To Ruin.mp3"
+Jan 14 16:13 : player: played "Frankie Goes to Hollywood - Relax.mp3"
+Jan 14 16:18 : player: played "The Black Crowes - Remedy.mp3"
+Jan 14 16:25 : player: played "Tears for Fears - Shout.mp3"
+Jan 14 16:29 : player: played "Foo Fighters - Rope.mp3"
+Jan 14 16:33 : player: played "Pet Shop Boys - West End Girls (2001 Remaster).mp3"
+Jan 14 16:38 : player: played "Queen - Somebody To Love.mp3"
+Jan 14 16:42 : player: played "Annie Lennox - Walking on Broken Glass.mp3"
+Jan 14 16:44 : player: played "Soft Cell - Tainted Love.mp3"
+Jan 14 16:48 : player: played "The Cars - You Might Think.mp3"
+Jan 14 16:52 : player: played "The Hives - Tick Tick Boom.mp3"
+Jan 14 16:56 : player: played "The Police - Every Breath You Take.mp3"
+Jan 14 17:01 : player: played "KISS - I Was Made For Lovin' You.mp3"
+Jan 14 17:04 : player: played "Bananarama - Venus.mp3"
+Jan 14 17:08 : player: played "The Cars - Drive.mp3"
+Jan 14 17:13 : player: played "Wham! - Everything She Wants.mp3"
+Jan 14 17:17 : player: played "The Cure - Just like Heaven.mp3"
+Jan 14 17:21 : player: played "The Guess Who - Undun (Remastered).mp3"
+Jan 14 17:24 : player: played "Devo - Girl U Want (2009 Remaster).mp3"
+Jan 14 17:32 : player: played "The Who - Won't Get Fooled Again.mp3"
+Jan 14 17:36 : player: played "The Buggles - Video Killed The Radio Star.mp3"
+Jan 14 17:41 : player: played "Radiohead - High and Dry.mp3"
+Jan 14 17:44 : player: played "Duran Duran - Hungry Like the Wolf (2009 Remaster).mp3"
+Jan 14 17:47 : player: played "The Police - Roxanne.mp3"
+Jan 14 17:52 : player: played "Blondie - Heart Of Glass.mp3"
+Jan 14 17:56 : player: played "Foo Fighters - DOA.mp3"
+Jan 14 18:00 : player: played "The Vapors - Turning Japanese.mp3"
+Jan 14 18:13 : player: played "Daryl Hall & John Oates - Out of Touch (Single Version).mp3"
+Jan 14 18:17 : player: played "The Cult - She Sells Sanctuary.mp3"
+Jan 14 18:20 : player: played "Madness - Our House.mp3"
+Jan 14 18:27 : player: played "Toto - Gift Of Faith.mp3"
+Jan 14 21:54 : player: played "Queen - Under Pressure.mp3"
+Jan 15 18:42 : player: played "Devo - Whip It.mp3"
+Jan 15 19:07 : player: played "Devo - Whip It.mp3"
+Jan 15 19:39 : player: played "Devo - Whip It.mp3"
+Jan 15 19:42 : player: played "Devo - Whip It.mp3"
+Jan 15 22:20 : player: played "Devo - Whip It.mp3"
+Jan 15 22:25 : player: played "Devo - Whip It.mp3"
+Jan 15 22:29 : player: played "Devo - Whip It.mp3"
+Jan 15 22:33 : player: played "Devo - Whip It.mp3"

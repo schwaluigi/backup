@@ -1,0 +1,15 @@
+2020-12-11 13:36:29,901 - [INFO] Linux-5.9.13-arch1-1-x86_64-with-glibc2.32 - Python 3.9.0, deemix 2.0.4
+2020-12-11 13:36:30,289 - [INFO] Generating queue item for: https://www.deezer.com/en/track/14333215
+2020-12-11 13:36:30,615 - [INFO] [track_14333215_3] Added to queue.
+2020-12-11 13:36:30,616 - [INFO] [track_14333215_3] Started downloading.
+2020-12-11 13:36:30,616 - [INFO] [Billy Joel - Piano Man] Getting the tags
+2020-12-11 13:36:30,899 - [INFO] [Billy Joel - Piano Man] Getting album infos
+2020-12-11 13:36:31,214 - [INFO] [Billy Joel - Piano Man] Getting extra track infos
+2020-12-11 13:36:31,355 - [INFO] [Billy Joel - Piano Man] Getting more album infos
+2020-12-11 13:36:32,236 - [INFO] [Billy Joel - Piano Man] Getting the album cover
+2020-12-11 13:36:32,417 - [INFO] [Billy Joel - Piano Man] Downloading the track
+2020-12-11 13:36:32,595 - [INFO] [Billy Joel - Piano Man] downloading 13562774 bytes
+2020-12-11 13:36:34,790 - [INFO] [Billy Joel - Piano Man] Applying tags to the track
+2020-12-11 13:36:34,804 - [INFO] [Billy Joel - Piano Man] Track download completed
+/home/evan/Music/Billy Joel - Piano Man.mp3
+2020-12-11 13:36:34,804 - [INFO] [track_14333215_3] Finished downloading.

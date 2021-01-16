@@ -1,0 +1,95 @@
+2020-12-04 18:29:04,191 - [INFO] Linux-5.9.11-arch2-1-x86_64-with-glibc2.32 - Python 3.9.0, deemix 2.0.4
+2020-12-04 18:29:06,151 - [INFO] Generating queue item for: https://www.deezer.com/en/playlist/8443425602
+2020-12-04 18:29:07,412 - [INFO] [playlist_8443425602_3] Added to queue.
+2020-12-04 18:29:07,412 - [INFO] [playlist_8443425602_3] Started downloading.
+2020-12-04 18:29:07,413 - [INFO] [AC/DC - You Shook Me All Night Long] Getting the tags
+2020-12-04 18:29:07,416 - [INFO] [Ace Frehley - New York Groove] Getting the tags
+2020-12-04 18:29:07,420 - [INFO] [a-ha - Take on Me] Getting the tags
+2020-12-04 18:29:07,622 - [INFO] [AC/DC - You Shook Me All Night Long] Getting lyrics
+2020-12-04 18:29:07,643 - [INFO] [a-ha - Take on Me] Getting lyrics
+2020-12-04 18:29:07,989 - [INFO] [AC/DC - You Shook Me All Night Long] Getting album infos
+2020-12-04 18:29:08,053 - [INFO] [a-ha - Take on Me] Getting album infos
+2020-12-04 18:29:08,123 - [INFO] [AC/DC - You Shook Me All Night Long] Getting extra track infos
+2020-12-04 18:29:08,240 - [INFO] [a-ha - Take on Me] Getting extra track infos
+2020-12-04 18:29:08,255 - [INFO] [AC/DC - You Shook Me All Night Long] Getting more album infos
+2020-12-04 18:29:08,366 - [INFO] [a-ha - Take on Me] Getting more album infos
+2020-12-04 18:29:09,136 - [INFO] [AC/DC - You Shook Me All Night Long] Getting the album cover
+2020-12-04 18:29:09,263 - [INFO] [AC/DC - You Shook Me All Night Long] Downloading the track
+2020-12-04 18:29:09,274 - [INFO] [a-ha - Take on Me] Getting the album cover
+2020-12-04 18:29:09,284 - [INFO] [Ace Frehley - New York Groove] Getting lyrics
+2020-12-04 18:29:09,385 - [INFO] [a-ha - Take on Me] Downloading the track
+2020-12-04 18:29:09,456 - [INFO] [AC/DC - You Shook Me All Night Long] downloading 8409337 bytes
+2020-12-04 18:29:09,561 - [INFO] [a-ha - Take on Me] downloading 9105240 bytes
+2020-12-04 18:29:09,625 - [INFO] [Ace Frehley - New York Groove] Getting album infos
+2020-12-04 18:29:09,794 - [INFO] [Ace Frehley - New York Groove] Getting extra track infos
+2020-12-04 18:29:09,954 - [INFO] [Ace Frehley - New York Groove] Getting more album infos
+2020-12-04 18:29:10,872 - [INFO] [Ace Frehley - New York Groove] Getting the album cover
+2020-12-04 18:29:11,159 - [INFO] [Ace Frehley - New York Groove] Downloading the track
+2020-12-04 18:29:11,400 - [INFO] [Ace Frehley - New York Groove] downloading 7350856 bytes
+2020-12-04 18:29:11,664 - [INFO] [AC/DC - You Shook Me All Night Long] Applying tags to the track
+2020-12-04 18:29:11,677 - [INFO] [AC/DC - You Shook Me All Night Long] Track download completed
+/home/evan/Music/songs/AC_DC - You Shook Me All Night Long.mp3
+2020-12-04 18:29:11,687 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting the tags
+2020-12-04 18:29:11,695 - [INFO] [a-ha - Take on Me] Applying tags to the track
+2020-12-04 18:29:11,702 - [INFO] [a-ha - Take on Me] Track download completed
+/home/evan/Music/songs/a-ha - Take on Me.mp3
+2020-12-04 18:29:11,704 - [INFO] [Bananarama - Venus] Getting the tags
+2020-12-04 18:29:11,977 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting lyrics
+2020-12-04 18:29:12,034 - [INFO] [Bananarama - Venus] Getting lyrics
+2020-12-04 18:29:12,403 - [INFO] [Bananarama - Venus] Getting album infos
+2020-12-04 18:29:12,558 - [INFO] [Bananarama - Venus] Getting more album infos
+2020-12-04 18:29:12,564 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting album infos
+2020-12-04 18:29:12,743 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting extra track infos
+2020-12-04 18:29:12,827 - [INFO] [Ace Frehley - New York Groove] Applying tags to the track
+2020-12-04 18:29:12,837 - [INFO] [Ace Frehley - New York Groove] Track download completed
+/home/evan/Music/songs/Ace Frehley - New York Groove.mp3
+2020-12-04 18:29:12,837 - [INFO] [Biffy Clyro - Bubbles] Getting the tags
+2020-12-04 18:29:12,872 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting more album infos
+2020-12-04 18:29:12,877 - [INFO] [Bananarama - Venus] Getting artist picture fallback
+2020-12-04 18:29:13,002 - [INFO] [Bananarama - Venus] Getting extra track infos
+2020-12-04 18:29:13,086 - [INFO] [Biffy Clyro - Bubbles] Getting lyrics
+2020-12-04 18:29:13,429 - [INFO] [Biffy Clyro - Bubbles] Getting album infos
+2020-12-04 18:29:13,577 - [INFO] [Biffy Clyro - Bubbles] Getting extra track infos
+2020-12-04 18:29:13,652 - [INFO] [Bananarama - Venus] Getting the album cover
+2020-12-04 18:29:13,700 - [INFO] [Annie Lennox - Walking on Broken Glass] Getting the album cover
+2020-12-04 18:29:13,704 - [INFO] [Biffy Clyro - Bubbles] Getting more album infos
+2020-12-04 18:29:13,871 - [INFO] [Bananarama - Venus] Downloading the track
+2020-12-04 18:29:13,906 - [INFO] [Annie Lennox - Walking on Broken Glass] Downloading the track
+2020-12-04 18:29:14,052 - [INFO] [Bananarama - Venus] downloading 9168978 bytes
+2020-12-04 18:29:14,081 - [INFO] [Annie Lennox - Walking on Broken Glass] downloading 10134464 bytes
+2020-12-04 18:29:14,492 - [INFO] [Biffy Clyro - Bubbles] Getting the album cover
+2020-12-04 18:29:14,740 - [INFO] [Biffy Clyro - Bubbles] Downloading the track
+2020-12-04 18:29:14,961 - [INFO] [Biffy Clyro - Bubbles] downloading 12045582 bytes
+2020-12-04 18:29:16,439 - [INFO] [Bananarama - Venus] Applying tags to the track
+2020-12-04 18:29:16,447 - [INFO] [Bananarama - Venus] Track download completed
+/home/evan/Music/songs/Bananarama - Venus.mp3
+2020-12-04 18:29:16,451 - [INFO] [Bloc Party - Banquet] Getting the tags
+2020-12-04 18:29:16,574 - [INFO] [Annie Lennox - Walking on Broken Glass] Applying tags to the track
+2020-12-04 18:29:16,583 - [INFO] [Annie Lennox - Walking on Broken Glass] Track download completed
+/home/evan/Music/songs/Annie Lennox - Walking on Broken Glass.mp3
+2020-12-04 18:29:16,589 - [INFO] [Blondie - Call Me] Getting the tags
+2020-12-04 18:29:16,797 - [INFO] [Blondie - Call Me] Getting lyrics
+2020-12-04 18:29:16,813 - [INFO] [Bloc Party - Banquet] Getting lyrics
+2020-12-04 18:29:17,100 - [INFO] [Blondie - Call Me] Getting album infos
+2020-12-04 18:29:17,138 - [INFO] [Bloc Party - Banquet] Getting album infos
+2020-12-04 18:29:17,303 - [INFO] [Blondie - Call Me] Getting extra track infos
+2020-12-04 18:29:17,306 - [INFO] [Bloc Party - Banquet] Getting extra track infos
+2020-12-04 18:29:17,440 - [INFO] [Bloc Party - Banquet] Getting more album infos
+2020-12-04 18:29:17,497 - [INFO] [Blondie - Call Me] Getting more album infos
+2020-12-04 18:29:17,507 - [INFO] [Biffy Clyro - Bubbles] Applying tags to the track
+2020-12-04 18:29:17,517 - [INFO] [Biffy Clyro - Bubbles] Track download completed
+/home/evan/Music/songs/Biffy Clyro - Bubbles.mp3
+2020-12-04 18:29:17,518 - [INFO] [Blondie - Heart Of Glass] Getting the tags
+2020-12-04 18:29:17,712 - [INFO] [Blondie - Heart Of Glass] Getting lyrics
+2020-12-04 18:29:18,157 - [INFO] [Blondie - Heart Of Glass] Getting album infos
+2020-12-04 18:29:18,299 - [INFO] [Blondie - Heart Of Glass] Getting extra track infos
+2020-12-04 18:29:18,370 - [INFO] [Blondie - Call Me] Getting the album cover
+2020-12-04 18:29:18,419 - [INFO] [Blondie - Heart Of Glass] Getting more album infos
+2020-12-04 18:29:18,477 - [INFO] [Blondie - Call Me] Downloading the track
+2020-12-04 18:29:18,674 - [INFO] [Blondie - Call Me] downloading 8506513 bytes
+2020-12-04 18:29:19,199 - [INFO] [Blondie - Heart Of Glass] Getting the album cover
+2020-12-04 18:29:19,302 - [INFO] [Bloc Party - Banquet] Getting the album cover
+2020-12-04 18:29:19,327 - [INFO] [Blondie - Heart Of Glass] Downloading the track
+2020-12-04 18:29:19,472 - [INFO] [Blondie - Heart Of Glass] downloading 11032031 bytes
+2020-12-04 18:29:19,503 - [INFO] [Bloc Party - Banquet] Downloading the track
+2020-12-04 18:29:19,796 - [INFO] [Bloc Party - Banquet] downloading 8018546 bytes
